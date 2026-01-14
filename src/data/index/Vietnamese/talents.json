@@ -20,6 +20,7 @@
 		"citlali": "Citlali",
 		"clorinde": "Clorinde",
 		"collei": "Collei",
+		"columbina": "Columbina",
 		"cyno": "Cyno",
 		"dahlia": "Dahlia",
 		"dehya": "Dehya",
@@ -41,6 +42,7 @@
 		"hutao": "Hu Tao",
 		"iansan": "Iansan",
 		"ifa": "Ifa",
+		"illuga": "Illuga",
 		"ineffa": "Ineffa",
 		"jahoda": "Jahoda",
 		"jean": "Jean",
@@ -115,7 +117,8 @@
 		"yoimiya": "Yoimiya",
 		"yumemizukimizuki": "Yumemizuki Mizuki",
 		"yunjin": "Yun Jin",
-		"zhongli": "Zhongli"
+		"zhongli": "Zhongli",
+		"zibai": "Zibai"
 	},
 	"names": {
 		"Aino": "aino",
@@ -138,6 +141,7 @@
 		"Citlali": "citlali",
 		"Clorinde": "clorinde",
 		"Collei": "collei",
+		"Columbina": "columbina",
 		"Cyno": "cyno",
 		"Dahlia": "dahlia",
 		"Dehya": "dehya",
@@ -159,6 +163,7 @@
 		"Hu Tao": "hutao",
 		"Iansan": "iansan",
 		"Ifa": "ifa",
+		"Illuga": "illuga",
 		"Ineffa": "ineffa",
 		"Jahoda": "jahoda",
 		"Jean": "jean",
@@ -233,7 +238,8 @@
 		"Yoimiya": "yoimiya",
 		"Yumemizuki Mizuki": "yumemizukimizuki",
 		"Yun Jin": "yunjin",
-		"Zhongli": "zhongli"
+		"Zhongli": "zhongli",
+		"Zibai": "zibai"
 	},
 	"aliases": {},
 	"categories": {
@@ -258,6 +264,7 @@
 			"citlali",
 			"clorinde",
 			"collei",
+			"columbina",
 			"cyno",
 			"dahlia",
 			"dehya",
@@ -279,6 +286,7 @@
 			"hutao",
 			"iansan",
 			"ifa",
+			"illuga",
 			"ineffa",
 			"jahoda",
 			"jean",
@@ -352,33 +360,40 @@
 			"yoimiya",
 			"yumemizukimizuki",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Bài Giảng Của \"Lạc Viên\"": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"Trục Quay Hỏng Hóc": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Hướng Dẫn Của \"Lạc Viên\"": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"Trục Quay Gia Cố": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Triết Học Của \"Lạc Viên\"": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"Trục Quay Tinh Chế": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Lông Vũ Tơ Lụa": [
@@ -407,6 +422,7 @@
 			"citlali",
 			"clorinde",
 			"collei",
+			"columbina",
 			"cyno",
 			"dahlia",
 			"dehya",
@@ -428,6 +444,7 @@
 			"hutao",
 			"iansan",
 			"ifa",
+			"illuga",
 			"ineffa",
 			"jahoda",
 			"jean",
@@ -501,7 +518,8 @@
 			"yoimiya",
 			"yumemizukimizuki",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Bài Giảng Của \"Thơ Văn\"": [
 			"albedo",
@@ -727,6 +745,7 @@
 		],
 		"Dịch Slime": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -745,6 +764,7 @@
 		],
 		"Tinh Slime": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -763,6 +783,7 @@
 		],
 		"Bột Slime": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -841,7 +862,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Bào Tử Nấm Quỷ": [
 			"baizhu",
@@ -859,7 +881,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Bột Huỳnh Quang": [
 			"baizhu",
@@ -877,7 +900,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Bụi Tinh Thể": [
 			"baizhu",
@@ -1266,6 +1290,21 @@
 			"travelerdendro",
 			"wanderer"
 		],
+		"Bài Giảng Của \"Ánh Trăng\"": [
+			"columbina",
+			"lauma"
+		],
+		"Hướng Dẫn Của \"Ánh Trăng\"": [
+			"columbina",
+			"lauma"
+		],
+		"Triết Học Của \"Ánh Trăng\"": [
+			"columbina",
+			"lauma"
+		],
+		"Mặt Nạ Của Hiền Y": [
+			"columbina"
+		],
 		"Thủ Ấn Hung Tướng": [
 			"cyno",
 			"kamisatoayato",
@@ -1294,17 +1333,20 @@
 		"Giấy Phép Cũ Nát": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Giấy Phép Tinh Xảo": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Giấy Phép Khắc Sương": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Lửa Mặt Trời Ăn Mòn": [
 			"durin",
@@ -1315,6 +1357,7 @@
 		],
 		"Sừng Ăn Mòn": [
 			"escoffier",
+			"illuga",
 			"mavuika"
 		],
 		"Vương Miện Vua Rồng": [
@@ -1341,7 +1384,8 @@
 			"jahoda"
 		],
 		"Mẫu Vật Thăng Thần: Hậu": [
-			"flins"
+			"flins",
+			"zibai"
 		],
 		"Mật Hoa Lừa Dối": [
 			"furina",
@@ -1542,15 +1586,6 @@
 			"yoimiya",
 			"yumemizukimizuki"
 		],
-		"Bài Giảng Của \"Ánh Trăng\"": [
-			"lauma"
-		],
-		"Hướng Dẫn Của \"Ánh Trăng\"": [
-			"lauma"
-		],
-		"Triết Học Của \"Ánh Trăng\"": [
-			"lauma"
-		],
 		"Móng Vuốt Đông Phong": [
 			"lisa",
 			"noelle",
@@ -1706,6 +1741,10 @@
 			"Bài Giảng Của \"Thực Hành\"",
 			"Hướng Dẫn Của \"Thực Hành\"",
 			"Triết Học Của \"Thực Hành\"",
+			"Bài Giảng Của \"Ánh Trăng\"",
+			"Hướng Dẫn Của \"Ánh Trăng\"",
+			"Triết Học Của \"Ánh Trăng\"",
+			"Mặt Nạ Của Hiền Y",
 			"Thủ Ấn Hung Tướng",
 			"Lông Vảy Ăn Mòn",
 			"Dây Tơ Con Rối",
@@ -1746,9 +1785,6 @@
 			"Bài Giảng Của \"Phù Thế\"",
 			"Hướng Dẫn Của \"Phù Thế\"",
 			"Triết Học Của \"Phù Thế\"",
-			"Bài Giảng Của \"Ánh Trăng\"",
-			"Hướng Dẫn Của \"Ánh Trăng\"",
-			"Triết Học Của \"Ánh Trăng\"",
 			"Móng Vuốt Đông Phong",
 			"Bài Giảng Của \"Công Bằng\"",
 			"Hướng Dẫn Của \"Công Bằng\"",

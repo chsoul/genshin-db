@@ -21,6 +21,7 @@
 		"citlali": "シトラリ",
 		"clorinde": "クロリンデ",
 		"collei": "コレイ",
+		"columbina": "コロンビーナ",
 		"cyno": "セノ",
 		"dahlia": "ダリア",
 		"dehya": "ディシア",
@@ -42,6 +43,7 @@
 		"hutao": "胡桃",
 		"iansan": "イアンサ",
 		"ifa": "イファ",
+		"illuga": "イルーガ",
 		"ineffa": "イネファ",
 		"jahoda": "ヤフォダ",
 		"jean": "ジン",
@@ -110,7 +112,8 @@
 		"yoimiya": "宵宮",
 		"yumemizukimizuki": "夢見月瑞希",
 		"yunjin": "雲菫",
-		"zhongli": "鍾離"
+		"zhongli": "鍾離",
+		"zibai": "兹白"
 	},
 	"names": {
 		"空": "aether",
@@ -134,6 +137,7 @@
 		"シトラリ": "citlali",
 		"クロリンデ": "clorinde",
 		"コレイ": "collei",
+		"コロンビーナ": "columbina",
 		"セノ": "cyno",
 		"ダリア": "dahlia",
 		"ディシア": "dehya",
@@ -155,6 +159,7 @@
 		"胡桃": "hutao",
 		"イアンサ": "iansan",
 		"イファ": "ifa",
+		"イルーガ": "illuga",
 		"イネファ": "ineffa",
 		"ヤフォダ": "jahoda",
 		"ジン": "jean",
@@ -223,7 +228,8 @@
 		"宵宮": "yoimiya",
 		"夢見月瑞希": "yumemizukimizuki",
 		"雲菫": "yunjin",
-		"鍾離": "zhongli"
+		"鍾離": "zhongli",
+		"兹白": "zibai"
 	},
 	"aliases": {
 		"旅人座": "lumine",
@@ -267,6 +273,8 @@
 		"レイピア座": "clorinde",
 		"純真を抱く萌蘖": "collei",
 		"サーバル座": "collei",
+		"空月の帰郷": "columbina",
+		"？？？": "neuvillette",
 		"緘秘の裁き": "cyno",
 		"金狼座": "cyno",
 		"礼賛の祝祭": "dahlia",
@@ -279,7 +287,7 @@
 		"子猫座": "diona",
 		"夢の庭に隠せし財宝": "dori",
 		"ランプ座": "dori",
-		"消えない炎": "durin",
+		"「消えない炎」": "durin",
 		"ドラコ・ルベド座": "durin",
 		"千の跡を辿って": "emilie",
 		"ポムム·ドゥ·アンブラ座": "emilie",
@@ -309,6 +317,8 @@
 		"カルノタウルス座": "iansan",
 		"魂を導く疾風": "ifa",
 		"カテナ・オペレ座": "ifa",
+		"闇夜の燃芯": "illuga",
+		"オリオルス座": "illuga",
 		"ブンブンサンダーウェーブ": "ineffa",
 		"バニラ・プラニフォリア座": "ineffa",
 		"風を繋ぎ、影を捕らえる": "jahoda",
@@ -367,7 +377,6 @@
 		"砂に埋もれた秘話": "nefer",
 		"遊戯駒座": "nefer",
 		"告諭の潮騒": "neuvillette",
-		"？？？": "neuvillette",
 		"絨毯に舞い落ちる蓮光": "nilou",
 		"睡蓮座": "nilou",
 		"月を覆う天権": "ningguang",
@@ -441,7 +450,9 @@
 		"紅絨毯に舞う麗姿": "yunjin",
 		"虹章座": "yunjin",
 		"浮世閑歩": "zhongli",
-		"岩王帝君座": "zhongli"
+		"岩王帝君座": "zhongli",
+		"隙を過ぐ仙駒、幽隠の泉": "zibai",
+		"白駒座": "zibai"
 	},
 	"categories": {
 		"4": [
@@ -465,6 +476,7 @@
 			"gorou",
 			"iansan",
 			"ifa",
+			"illuga",
 			"jahoda",
 			"kachina",
 			"kaeya",
@@ -506,6 +518,7 @@
 			"chiori",
 			"citlali",
 			"clorinde",
+			"columbina",
 			"cyno",
 			"dehya",
 			"diluc",
@@ -557,7 +570,8 @@
 			"yelan",
 			"yoimiya",
 			"yumemizukimizuki",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"ELEMENT_NONE": [
 			"aether",
@@ -592,7 +606,8 @@
 			"qiqi",
 			"skirk",
 			"xilonen",
-			"xingqiu"
+			"xingqiu",
+			"zibai"
 		],
 		"FIGHT_PROP_ATTACK_PERCENT": [
 			"aether",
@@ -635,6 +650,7 @@
 			"gaming",
 			"gorou",
 			"ifa",
+			"illuga",
 			"kaedeharakazuha",
 			"kaeya",
 			"kamisatoayato",
@@ -680,6 +696,7 @@
 			"citlali",
 			"clorinde",
 			"collei",
+			"columbina",
 			"cyno",
 			"dahlia",
 			"dehya",
@@ -701,6 +718,7 @@
 			"hutao",
 			"iansan",
 			"ifa",
+			"illuga",
 			"ineffa",
 			"jahoda",
 			"jean",
@@ -769,7 +787,8 @@
 			"yoimiya",
 			"yumemizukimizuki",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"輝くダイヤ·砕屑": [
 			"aether",
@@ -833,6 +852,7 @@
 			"aino",
 			"barbara",
 			"candace",
+			"columbina",
 			"dahlia",
 			"furina",
 			"kamisatoayato",
@@ -870,6 +890,7 @@
 			"aino",
 			"citlali",
 			"ifa",
+			"illuga",
 			"kaedeharakazuha",
 			"kaveh",
 			"lauma",
@@ -895,6 +916,7 @@
 			"citlali",
 			"clorinde",
 			"collei",
+			"columbina",
 			"dehya",
 			"diona",
 			"dori",
@@ -953,11 +975,14 @@
 			"yelan",
 			"yoimiya",
 			"yumemizukimizuki",
-			"yunjin"
+			"yunjin",
+			"zibai"
 		],
 		"ナド・クライ": [
 			"aino",
+			"columbina",
 			"flins",
+			"illuga",
 			"ineffa",
 			"jahoda",
 			"lauma",
@@ -977,6 +1002,7 @@
 			"aino",
 			"barbara",
 			"candace",
+			"columbina",
 			"dahlia",
 			"furina",
 			"kamisatoayato",
@@ -997,12 +1023,14 @@
 		"破損した駆動軸": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"澄明なラピスラズリ·欠片": [
 			"aino",
 			"barbara",
 			"candace",
+			"columbina",
 			"dahlia",
 			"furina",
 			"kamisatoayato",
@@ -1023,12 +1051,14 @@
 		"強固な駆動軸": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"澄明なラピスラズリ·塊": [
 			"aino",
 			"barbara",
 			"candace",
+			"columbina",
 			"dahlia",
 			"furina",
 			"kamisatoayato",
@@ -1045,12 +1075,14 @@
 		"精巧な駆動軸": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"澄明なラピスラズリ": [
 			"aino",
 			"barbara",
 			"candace",
+			"columbina",
 			"dahlia",
 			"furina",
 			"kamisatoayato",
@@ -1069,13 +1101,15 @@
 			"aratakiitto",
 			"chiori",
 			"gorou",
+			"illuga",
 			"kachina",
 			"navia",
 			"ningguang",
 			"noelle",
 			"xilonen",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"FIGHT_PROP_ROCK_ADD_HURT": [
 			"albedo",
@@ -1112,13 +1146,15 @@
 			"aratakiitto",
 			"chiori",
 			"gorou",
+			"illuga",
 			"kachina",
 			"navia",
 			"ningguang",
 			"noelle",
 			"xilonen",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"セシリアの花": [
 			"albedo",
@@ -1139,13 +1175,15 @@
 			"aratakiitto",
 			"chiori",
 			"gorou",
+			"illuga",
 			"kachina",
 			"navia",
 			"ningguang",
 			"noelle",
 			"xilonen",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"玄岩の塔": [
 			"albedo",
@@ -1168,13 +1206,15 @@
 			"aratakiitto",
 			"chiori",
 			"gorou",
+			"illuga",
 			"kachina",
 			"navia",
 			"ningguang",
 			"noelle",
 			"xilonen",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"禁呪の絵巻": [
 			"albedo",
@@ -1191,13 +1231,15 @@
 			"aratakiitto",
 			"chiori",
 			"gorou",
+			"illuga",
 			"kachina",
 			"navia",
 			"ningguang",
 			"noelle",
 			"xilonen",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"ELEMENT_DENDRO": [
 			"alhaitham",
@@ -1646,6 +1688,7 @@
 			"chasca",
 			"chiori",
 			"clorinde",
+			"columbina",
 			"diluc",
 			"escoffier",
 			"furina",
@@ -1694,6 +1737,7 @@
 		],
 		"スライムの液体": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -1708,6 +1752,7 @@
 		],
 		"スライムの分泌物": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -1718,6 +1763,7 @@
 		],
 		"スライムのピュレ": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -1736,6 +1782,7 @@
 			"flins",
 			"hutao",
 			"iansan",
+			"illuga",
 			"ineffa",
 			"kachina",
 			"mika",
@@ -1767,7 +1814,8 @@
 			"nefer",
 			"neuvillette",
 			"skirk",
-			"wriothesley"
+			"wriothesley",
+			"zibai"
 		],
 		"スネージナヤ": [
 			"arlecchino",
@@ -1816,6 +1864,7 @@
 			"barbara",
 			"charlotte",
 			"citlali",
+			"columbina",
 			"ifa",
 			"klee",
 			"lanyan",
@@ -2089,7 +2138,8 @@
 			"gorou",
 			"nefer",
 			"sethos",
-			"yunjin"
+			"yunjin",
+			"zibai"
 		],
 		"赤念の実": [
 			"candace",
@@ -2186,6 +2236,7 @@
 			"dori",
 			"gaming",
 			"ganyu",
+			"illuga",
 			"layla",
 			"neuvillette",
 			"nilou",
@@ -2300,6 +2351,7 @@
 		"1月": [
 			"chevreuse",
 			"citlali",
+			"columbina",
 			"diona",
 			"jahoda",
 			"kirara",
@@ -2379,6 +2431,13 @@
 			"collei",
 			"tighnari"
 		],
+		"ヴィンテル草": [
+			"columbina"
+		],
+		"万照の輝角": [
+			"columbina",
+			"nefer"
+		],
 		"聖金虫": [
 			"cyno"
 		],
@@ -2421,20 +2480,24 @@
 		"破損した徽章": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"軍用循環式クーヴァキコア": [
-			"durin"
+			"durin",
+			"illuga"
 		],
 		"精巧な徽章": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"霜刻の徽章": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"湖光の鈴蘭": [
 			"emilie",
@@ -2565,6 +2628,9 @@
 		"龍像の無智なるコア": [
 			"ifa",
 			"varesa"
+		],
+		"琥珀香": [
+			"illuga"
 		],
 		"蛍光ツノキノコ": [
 			"ineffa",
@@ -2716,15 +2782,13 @@
 		"初露の源": [
 			"navia"
 		],
-		"万照の輝角": [
-			"nefer"
-		],
 		"パティサラ": [
 			"nilou"
 		],
 		"琉璃百合": [
 			"ningguang",
-			"yunjin"
+			"yunjin",
+			"zibai"
 		],
 		"FIGHT_PROP_DEFENSE_PERCENT": [
 			"noelle",
@@ -2768,6 +2832,9 @@
 		],
 		"シャクギク": [
 			"xilonen"
+		],
+		"悪夢の枯骸": [
+			"zibai"
 		]
 	},
 	"properties": {
@@ -2925,6 +2992,8 @@
 			"色変わりの結晶",
 			"ルッカデヴァータダケ",
 			"茸王の鉤状のくちばし",
+			"ヴィンテル草",
+			"万照の輝角",
 			"聖金虫",
 			"隠雷の実",
 			"ドドリアン",
@@ -2956,6 +3025,7 @@
 			"竜冠戦士の金笛",
 			"サウリアンサキュレント",
 			"龍像の無智なるコア",
+			"琥珀香",
 			"蛍光ツノキノコ",
 			"採光の鱗羽",
 			"暴風の種",
@@ -2983,7 +3053,6 @@
 			"波しぶきのエラ",
 			"祝福の縛印",
 			"初露の源",
-			"万照の輝角",
 			"パティサラ",
 			"琉璃百合",
 			"サングイト",
@@ -2994,7 +3063,8 @@
 			"陰燃の珠",
 			"探測ユニット·子機",
 			"絶雲の唐辛子",
-			"シャクギク"
+			"シャクギク",
+			"悪夢の枯骸"
 		],
 		"region": [
 			"ナド・クライ",

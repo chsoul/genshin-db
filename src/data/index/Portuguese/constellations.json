@@ -20,6 +20,7 @@
 		"citlali": "Citlali",
 		"clorinde": "Clorinde",
 		"collei": "Collei",
+		"columbina": "Columbina",
 		"cyno": "Cyno",
 		"dahlia": "Dahlia",
 		"dehya": "Dehya",
@@ -41,6 +42,7 @@
 		"hutao": "Hutao",
 		"iansan": "Iansan",
 		"ifa": "Ifa",
+		"illuga": "Illuga",
 		"ineffa": "Ineffa",
 		"jahoda": "Jahoda",
 		"jean": "Jean",
@@ -112,7 +114,8 @@
 		"yoimiya": "Yoimiya",
 		"yumemizukimizuki": "Yumemizuki Mizuki",
 		"yunjin": "Yunjin",
-		"zhongli": "Zhongli"
+		"zhongli": "Zhongli",
+		"zibai": "Zibai"
 	},
 	"names": {
 		"Aino": "aino",
@@ -135,6 +138,7 @@
 		"Citlali": "citlali",
 		"Clorinde": "clorinde",
 		"Collei": "collei",
+		"Columbina": "columbina",
 		"Cyno": "cyno",
 		"Dahlia": "dahlia",
 		"Dehya": "dehya",
@@ -156,6 +160,7 @@
 		"Hutao": "hutao",
 		"Iansan": "iansan",
 		"Ifa": "ifa",
+		"Illuga": "illuga",
 		"Ineffa": "ineffa",
 		"Jahoda": "jahoda",
 		"Jean": "jean",
@@ -227,7 +232,8 @@
 		"Yoimiya": "yoimiya",
 		"Yumemizuki Mizuki": "yumemizukimizuki",
 		"Yunjin": "yunjin",
-		"Zhongli": "zhongli"
+		"Zhongli": "zhongli",
+		"Zibai": "zibai"
 	},
 	"aliases": {},
 	"categories": {},

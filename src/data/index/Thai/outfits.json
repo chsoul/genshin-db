@@ -12,6 +12,8 @@
 		"ardentsoul": "จิตวิญญาณแห่งชาวร็อก",
 		"argentchimes": "กระดิ่งเงินวิจิตรงาม",
 		"armoredrose": "กุหลาบงามใต้คมเหล็ก",
+		"asheavenandeartharemadeanewaether": "คืนพิภพสร้างนภา",
+		"asheavenandeartharemadeanewlumine": "คืนพิภพสร้างนภา",
 		"asobriquetundershade": "นามแห่งความภักดี",
 		"awrathfulvoid": "ห้วงโทสะสุญญตา",
 		"azuresilk": "ชุดไหมสุดละมุน",
@@ -65,10 +67,13 @@
 		"innocentlonging": "ความคาดหวังอันแสนบริสุทธิ์",
 		"machinehunter": "ชุดที่คล่องแคล่วของนักล่า",
 		"mechanicaldreams": "ห้วงฝันจักรกล",
+		"melusentgift": "ของขวัญจากเมลูซีน",
 		"mikosinstruction": "วาจาสิทธิ์แห่งมิโกะ",
 		"minimujina": "มินิมูจิน่า",
 		"mistcloudstage": "เมฆไหมด้ายหมอก",
 		"moonglare": "แสงจันทรา",
+		"moonlitcourser": "ม้าขาวเชิญจันทรา",
+		"moonweavegossamer": "ภูษาจันทราเรือง",
 		"narukamislaw": "กฎแห่ง Narukami",
 		"neitherflowernormist": "ราวกับบุปผาและสายหมอก",
 		"newmoonstarlight": "ผู้รู้ครอบจักรวาล",
@@ -89,6 +94,7 @@
 		"pristineprayers": "คำอธิษฐานอันพิสุทธิ์",
 		"purespirit": "นักปราบวิญญาณร้าย",
 		"purplerose": "ความงามของกุหลาบสีม่วง",
+		"rainlitbambooreverie": "สดับเสียงฝนยลทิวไผ่",
 		"rangingrainbow": "สายรุ้งพันลี้",
 		"reddeadofnight": "เพลิงมหันต์รัตติกาล",
 		"redpepperandturmeric": "เชฟผู้ร้อนแรง",
@@ -106,6 +112,7 @@
 		"sparklingcoralbone": "ปะการังขาวกับคลื่นน้ำใส",
 		"spiritedvalor": "วรยุทธสะท้านลม",
 		"springbloommissive": "สารเมื่อยามดอกไม้ผลิบาน",
+		"steadfastresolve": "มุ่งมั่นไม่เสื่อมคลาย",
 		"sugarrush": "ความหวานอันแสนสุข",
 		"sugarybrew": "ค็อกเทลแสนหวาน",
 		"summerchilldreams": "ซอมบี้น้อยแดนน้ำแข็ง",
@@ -147,6 +154,7 @@
 		"จิตวิญญาณแห่งชาวร็อก": "ardentsoul",
 		"กระดิ่งเงินวิจิตรงาม": "argentchimes",
 		"กุหลาบงามใต้คมเหล็ก": "armoredrose",
+		"คืนพิภพสร้างนภา": "asheavenandeartharemadeanewaether",
 		"นามแห่งความภักดี": "asobriquetundershade",
 		"ห้วงโทสะสุญญตา": "awrathfulvoid",
 		"ชุดไหมสุดละมุน": "azuresilk",
@@ -200,10 +208,13 @@
 		"ความคาดหวังอันแสนบริสุทธิ์": "innocentlonging",
 		"ชุดที่คล่องแคล่วของนักล่า": "machinehunter",
 		"ห้วงฝันจักรกล": "mechanicaldreams",
+		"ของขวัญจากเมลูซีน": "melusentgift",
 		"วาจาสิทธิ์แห่งมิโกะ": "mikosinstruction",
 		"มินิมูจิน่า": "minimujina",
 		"เมฆไหมด้ายหมอก": "mistcloudstage",
 		"แสงจันทรา": "moonglare",
+		"ม้าขาวเชิญจันทรา": "moonlitcourser",
+		"ภูษาจันทราเรือง": "moonweavegossamer",
 		"กฎแห่ง Narukami": "narukamislaw",
 		"ราวกับบุปผาและสายหมอก": "neitherflowernormist",
 		"ผู้รู้ครอบจักรวาล": "newmoonstarlight",
@@ -224,6 +235,7 @@
 		"คำอธิษฐานอันพิสุทธิ์": "pristineprayers",
 		"นักปราบวิญญาณร้าย": "purespirit",
 		"ความงามของกุหลาบสีม่วง": "purplerose",
+		"สดับเสียงฝนยลทิวไผ่": "rainlitbambooreverie",
 		"สายรุ้งพันลี้": "rangingrainbow",
 		"เพลิงมหันต์รัตติกาล": "reddeadofnight",
 		"เชฟผู้ร้อนแรง": "redpepperandturmeric",
@@ -240,6 +252,7 @@
 		"ปะการังขาวกับคลื่นน้ำใส": "sparklingcoralbone",
 		"วรยุทธสะท้านลม": "spiritedvalor",
 		"สารเมื่อยามดอกไม้ผลิบาน": "springbloommissive",
+		"มุ่งมั่นไม่เสื่อมคลาย": "steadfastresolve",
 		"ความหวานอันแสนสุข": "sugarrush",
 		"ค็อกเทลแสนหวาน": "sugarybrew",
 		"ซอมบี้น้อยแดนน้ำแข็ง": "summerchilldreams",
@@ -306,6 +319,14 @@
 		"Noelle": [
 			"armoredrose"
 		],
+		"Aether": [
+			"asheavenandeartharemadeanewaether",
+			"risingstaraether"
+		],
+		"Lumine": [
+			"asheavenandeartharemadeanewlumine",
+			"risingstarlumine"
+		],
 		"Lisa": [
 			"asobriquetundershade",
 			"purplerose"
@@ -339,10 +360,12 @@
 			"plumblossombouquet"
 		],
 		"Yaoyao": [
-			"cherubicosmanthus"
+			"cherubicosmanthus",
+			"rainlitbambooreverie"
 		],
 		"Neuvillette": [
-			"clearadjudication"
+			"clearadjudication",
+			"melusentgift"
 		],
 		"Furina": [
 			"coronatedprimadonna"
@@ -482,6 +505,12 @@
 		"Arlecchino": [
 			"moonglare"
 		],
+		"Zibai": [
+			"moonlitcourser"
+		],
+		"Columbina": [
+			"moonweavegossamer"
+		],
 		"Raiden Shogun": [
 			"narukamislaw"
 		],
@@ -530,12 +559,6 @@
 		"Gaming": [
 			"rangingrainbow"
 		],
-		"Aether": [
-			"risingstaraether"
-		],
-		"Lumine": [
-			"risingstarlumine"
-		],
 		"Beidou": [
 			"rollingwaves"
 		],
@@ -559,6 +582,9 @@
 		],
 		"Shikanoin Heizou": [
 			"spiritedvalor"
+		],
+		"Illuga": [
+			"steadfastresolve"
 		],
 		"Varesa": [
 			"sugarrush"
@@ -635,6 +661,8 @@
 			"Xinyan",
 			"Lan Yan",
 			"Noelle",
+			"Aether",
+			"Lumine",
 			"Lisa",
 			"ผู้พเนจร",
 			"Xingqiu",
@@ -688,6 +716,8 @@
 			"Sayu",
 			"Yun Jin",
 			"Arlecchino",
+			"Zibai",
+			"Columbina",
 			"Raiden Shogun",
 			"Albedo",
 			"Xiangling",
@@ -703,8 +733,6 @@
 			"Dahlia",
 			"Chongyun",
 			"Gaming",
-			"Aether",
-			"Lumine",
 			"Beidou",
 			"Skirk",
 			"Kamisato Ayato",
@@ -713,6 +741,7 @@
 			"Escoffier",
 			"Sangonomiya Kokomi",
 			"Shikanoin Heizou",
+			"Illuga",
 			"Varesa",
 			"Diona",
 			"Qiqi",

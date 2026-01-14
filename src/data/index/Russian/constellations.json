@@ -20,6 +20,7 @@
 		"citlali": "Ситлали",
 		"clorinde": "Клоринда",
 		"collei": "Коллеи",
+		"columbina": "Коломбина",
 		"cyno": "Сайно",
 		"dahlia": "Далия",
 		"dehya": "Дэхья",
@@ -41,6 +42,7 @@
 		"hutao": "Ху Тао",
 		"iansan": "Иансан",
 		"ifa": "Ифа",
+		"illuga": "Иллуги",
 		"ineffa": "Инеффа",
 		"jahoda": "Ягода",
 		"jean": "Джинн",
@@ -112,7 +114,8 @@
 		"yoimiya": "Ёимия",
 		"yumemizukimizuki": "Мидзуки",
 		"yunjin": "Юнь Цзинь",
-		"zhongli": "Чжун Ли"
+		"zhongli": "Чжун Ли",
+		"zibai": "Цзы Бай"
 	},
 	"names": {
 		"Айно": "aino",
@@ -135,6 +138,7 @@
 		"Ситлали": "citlali",
 		"Клоринда": "clorinde",
 		"Коллеи": "collei",
+		"Коломбина": "columbina",
 		"Сайно": "cyno",
 		"Далия": "dahlia",
 		"Дэхья": "dehya",
@@ -156,6 +160,7 @@
 		"Ху Тао": "hutao",
 		"Иансан": "iansan",
 		"Ифа": "ifa",
+		"Иллуги": "illuga",
 		"Инеффа": "ineffa",
 		"Ягода": "jahoda",
 		"Джинн": "jean",
@@ -227,7 +232,8 @@
 		"Ёимия": "yoimiya",
 		"Мидзуки": "yumemizukimizuki",
 		"Юнь Цзинь": "yunjin",
-		"Чжун Ли": "zhongli"
+		"Чжун Ли": "zhongli",
+		"Цзы Бай": "zibai"
 	},
 	"aliases": {},
 	"categories": {},

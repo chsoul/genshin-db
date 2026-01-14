@@ -95,6 +95,7 @@
 		"keyofkhajnisut": "聖顕の鍵",
 		"kingssquire": "王の近侍",
 		"kitaincrossspear": "喜多院十文字槍",
+		"lightbearingmoonshard": "三日月の含光",
 		"lightoffoliarincision": "萃光の裁葉",
 		"lionsroar": "匣中龍吟",
 		"lithicblade": "千岩古剣",
@@ -117,6 +118,7 @@
 		"mountainbracingbolt": "鎮山の釘",
 		"mouunsmoon": "曚雲の月",
 		"nightweaverslookingglass": "夜を紡ぐ天鏡",
+		"nocturnescurtaincall": "帳の夜曲",
 		"oathsworneye": "誓いの明瞳",
 		"oldmercspal": "傭兵の重剣",
 		"otherworldlystory": "異世界旅行記",
@@ -327,6 +329,7 @@
 		"聖顕の鍵": "keyofkhajnisut",
 		"王の近侍": "kingssquire",
 		"喜多院十文字槍": "kitaincrossspear",
+		"三日月の含光": "lightbearingmoonshard",
 		"萃光の裁葉": "lightoffoliarincision",
 		"匣中龍吟": "lionsroar",
 		"千岩古剣": "lithicblade",
@@ -349,6 +352,7 @@
 		"鎮山の釘": "mountainbracingbolt",
 		"曚雲の月": "mouunsmoon",
 		"夜を紡ぐ天鏡": "nightweaverslookingglass",
+		"帳の夜曲": "nocturnescurtaincall",
 		"誓いの明瞳": "oathsworneye",
 		"傭兵の重剣": "oldmercspal",
 		"異世界旅行記": "otherworldlystory",
@@ -668,12 +672,14 @@
 			"jadefallssplendor",
 			"kagurasverity",
 			"keyofkhajnisut",
+			"lightbearingmoonshard",
 			"lightoffoliarincision",
 			"lostprayertothesacredwinds",
 			"lumidouceelegy",
 			"memoryofdust",
 			"mistsplitterreforged",
 			"nightweaverslookingglass",
+			"nocturnescurtaincall",
 			"peakpatrolsong",
 			"polarstar",
 			"primordialjadecutter",
@@ -731,6 +737,7 @@
 			"ironsting",
 			"kagotsurubeisshin",
 			"keyofkhajnisut",
+			"lightbearingmoonshard",
 			"lightoffoliarincision",
 			"lionsroar",
 			"mistsplitterreforged",
@@ -776,9 +783,11 @@
 			"fracturedhalo",
 			"harbingerofdawn",
 			"kagurasverity",
+			"lightbearingmoonshard",
 			"lightoffoliarincision",
 			"messenger",
 			"mistsplitterreforged",
+			"nocturnescurtaincall",
 			"redhornstonethresher",
 			"reliquaryoftruth",
 			"sharpshootersoath",
@@ -891,6 +900,7 @@
 			"keyofkhajnisut",
 			"kingssquire",
 			"kitaincrossspear",
+			"lightbearingmoonshard",
 			"lightoffoliarincision",
 			"lionsroar",
 			"lithicblade",
@@ -913,6 +923,7 @@
 			"mountainbracingbolt",
 			"mouunsmoon",
 			"nightweaverslookingglass",
+			"nocturnescurtaincall",
 			"oathsworneye",
 			"oldmercspal",
 			"otherworldlystory",
@@ -1682,6 +1693,7 @@
 			"mappamare",
 			"memoryofdust",
 			"nightweaverslookingglass",
+			"nocturnescurtaincall",
 			"oathsworneye",
 			"otherworldlystory",
 			"pocketgrimoire",
@@ -2352,6 +2364,7 @@
 		],
 		"破損した駆動軸": [
 			"athameartis",
+			"lightbearingmoonshard",
 			"masterkey",
 			"moonweaversdawn",
 			"nightweaverslookingglass",
@@ -2367,6 +2380,7 @@
 		],
 		"強固な駆動軸": [
 			"athameartis",
+			"lightbearingmoonshard",
 			"masterkey",
 			"moonweaversdawn",
 			"nightweaverslookingglass",
@@ -2382,6 +2396,7 @@
 		],
 		"精巧な駆動軸": [
 			"athameartis",
+			"lightbearingmoonshard",
 			"masterkey",
 			"moonweaversdawn",
 			"nightweaverslookingglass",
@@ -3357,6 +3372,7 @@
 			"bloodsoakedruins",
 			"dawningfrost",
 			"etherlightspindlelute",
+			"nocturnescurtaincall",
 			"rainbowserpentsrainbow",
 			"serenityscall"
 		],
@@ -3371,6 +3387,7 @@
 			"bloodsoakedruins",
 			"dawningfrost",
 			"etherlightspindlelute",
+			"nocturnescurtaincall",
 			"rainbowserpentsrainbow",
 			"serenityscall"
 		],
@@ -3385,6 +3402,7 @@
 			"bloodsoakedruins",
 			"dawningfrost",
 			"etherlightspindlelute",
+			"nocturnescurtaincall",
 			"rainbowserpentsrainbow",
 			"serenityscall"
 		],
@@ -3400,6 +3418,7 @@
 			"compoundbow",
 			"fadingtwilight",
 			"ironsting",
+			"lightbearingmoonshard",
 			"lithicspear",
 			"luxurioussealord",
 			"mappamare",
@@ -3418,6 +3437,7 @@
 			"compoundbow",
 			"fadingtwilight",
 			"ironsting",
+			"lightbearingmoonshard",
 			"lithicspear",
 			"luxurioussealord",
 			"mappamare",
@@ -3436,6 +3456,7 @@
 			"compoundbow",
 			"fadingtwilight",
 			"ironsting",
+			"lightbearingmoonshard",
 			"lithicspear",
 			"luxurioussealord",
 			"mappamare",
@@ -3454,6 +3475,7 @@
 			"compoundbow",
 			"fadingtwilight",
 			"ironsting",
+			"lightbearingmoonshard",
 			"lithicspear",
 			"luxurioussealord",
 			"mappamare",
@@ -3474,6 +3496,7 @@
 		],
 		"暗き霧の欠片": [
 			"bloodsoakedruins",
+			"lightbearingmoonshard",
 			"prospectorsshovel",
 			"sacrificersstaff",
 			"snarehook"
@@ -3486,6 +3509,7 @@
 		],
 		"暗き霧の鎧": [
 			"bloodsoakedruins",
+			"lightbearingmoonshard",
 			"prospectorsshovel",
 			"sacrificersstaff",
 			"snarehook"
@@ -3498,6 +3522,7 @@
 		],
 		"暗き霧の兜": [
 			"bloodsoakedruins",
+			"lightbearingmoonshard",
 			"prospectorsshovel",
 			"sacrificersstaff",
 			"snarehook"
@@ -3843,7 +3868,8 @@
 		"極北の末裔の零落": [
 			"etherlightspindlelute",
 			"masterkey",
-			"moonweaversdawn"
+			"moonweaversdawn",
+			"nocturnescurtaincall"
 		],
 		"失光の骨片": [
 			"etherlightspindlelute",
@@ -3854,7 +3880,8 @@
 		"極北の末裔の妄執": [
 			"etherlightspindlelute",
 			"masterkey",
-			"moonweaversdawn"
+			"moonweaversdawn",
+			"nocturnescurtaincall"
 		],
 		"淡光の遺骨": [
 			"etherlightspindlelute",
@@ -3865,7 +3892,8 @@
 		"極北の末裔の奉献": [
 			"etherlightspindlelute",
 			"masterkey",
-			"moonweaversdawn"
+			"moonweaversdawn",
+			"nocturnescurtaincall"
 		],
 		"輝光の外殻": [
 			"etherlightspindlelute",
@@ -3876,7 +3904,8 @@
 		"極北の末裔の煌光": [
 			"etherlightspindlelute",
 			"masterkey",
-			"moonweaversdawn"
+			"moonweaversdawn",
+			"nocturnescurtaincall"
 		],
 		"暗色プリズム": [
 			"everlastingmoonglow",
@@ -4071,6 +4100,15 @@
 			"sunnymorningsleepin",
 			"thunderingpulse",
 			"toukaboushigure"
+		],
+		"暗黒の裂眼": [
+			"nocturnescurtaincall"
+		],
+		"暗黒の怪核": [
+			"nocturnescurtaincall"
+		],
+		"暗黒のくちばし": [
+			"nocturnescurtaincall"
 		],
 		"砕けた意志の欠片": [
 			"ringofyaxche",
@@ -4337,6 +4375,9 @@
 			"鳴神御霊の歓喜",
 			"鳴神御霊の親愛",
 			"鳴神御霊の勇武",
+			"暗黒の裂眼",
+			"暗黒の怪核",
+			"暗黒のくちばし",
 			"砕けた意志の欠片",
 			"明瞭な意志の偶像",
 			"巡る意志の偶像"

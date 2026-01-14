@@ -20,6 +20,7 @@
 		"citlali": "Citlali",
 		"clorinde": "Clorinde",
 		"collei": "Collei",
+		"columbina": "Columbina",
 		"cyno": "Cyno",
 		"dahlia": "Dahlia",
 		"dehya": "Dehya",
@@ -41,6 +42,7 @@
 		"hutao": "Hu Tao",
 		"iansan": "Iansan",
 		"ifa": "Ifa",
+		"illuga": "Illuga",
 		"ineffa": "Ineffa",
 		"jahoda": "Jahoda",
 		"jean": "Jean",
@@ -115,7 +117,8 @@
 		"yoimiya": "Yoimiya",
 		"yumemizukimizuki": "Yumemizuki Mizuki",
 		"yunjin": "Yun Jin",
-		"zhongli": "Zhongli"
+		"zhongli": "Zhongli",
+		"zibai": "Zibai"
 	},
 	"names": {
 		"Aino": "aino",
@@ -138,6 +141,7 @@
 		"Citlali": "citlali",
 		"Clorinde": "clorinde",
 		"Collei": "collei",
+		"Columbina": "columbina",
 		"Cyno": "cyno",
 		"Dahlia": "dahlia",
 		"Dehya": "dehya",
@@ -159,6 +163,7 @@
 		"Hu Tao": "hutao",
 		"Iansan": "iansan",
 		"Ifa": "ifa",
+		"Illuga": "illuga",
 		"Ineffa": "ineffa",
 		"Jahoda": "jahoda",
 		"Jean": "jean",
@@ -233,7 +238,8 @@
 		"Yoimiya": "yoimiya",
 		"Yumemizuki Mizuki": "yumemizukimizuki",
 		"Yun Jin": "yunjin",
-		"Zhongli": "zhongli"
+		"Zhongli": "zhongli",
+		"Zibai": "zibai"
 	},
 	"aliases": {},
 	"categories": {
@@ -258,6 +264,7 @@
 			"citlali",
 			"clorinde",
 			"collei",
+			"columbina",
 			"cyno",
 			"dahlia",
 			"dehya",
@@ -279,6 +286,7 @@
 			"hutao",
 			"iansan",
 			"ifa",
+			"illuga",
 			"ineffa",
 			"jahoda",
 			"jean",
@@ -352,33 +360,40 @@
 			"yoimiya",
 			"yumemizukimizuki",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Teachings of Elysium": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"Broken Drive Shaft": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Guide to Elysium": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"Reinforced Drive Shaft": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Philosophies of Elysium": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"Precision Drive Shaft": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Silken Feather": [
@@ -407,6 +422,7 @@
 			"citlali",
 			"clorinde",
 			"collei",
+			"columbina",
 			"cyno",
 			"dahlia",
 			"dehya",
@@ -428,6 +444,7 @@
 			"hutao",
 			"iansan",
 			"ifa",
+			"illuga",
 			"ineffa",
 			"jahoda",
 			"jean",
@@ -501,7 +518,8 @@
 			"yoimiya",
 			"yumemizukimizuki",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Teachings of Ballad": [
 			"albedo",
@@ -727,6 +745,7 @@
 		],
 		"Slime Condensate": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -745,6 +764,7 @@
 		],
 		"Slime Secretions": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -763,6 +783,7 @@
 		],
 		"Slime Concentrate": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -841,7 +862,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Fungal Spore": [
 			"baizhu",
@@ -859,7 +881,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Luminescent Pollen": [
 			"baizhu",
@@ -877,7 +900,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Crystalline Cyst Dust": [
 			"baizhu",
@@ -1266,6 +1290,21 @@
 			"travelerdendro",
 			"wanderer"
 		],
+		"Teachings of Moonlight": [
+			"columbina",
+			"lauma"
+		],
+		"Guide to Moonlight": [
+			"columbina",
+			"lauma"
+		],
+		"Philosophies of Moonlight": [
+			"columbina",
+			"lauma"
+		],
+		"Mask of the Virtuous Doctor": [
+			"columbina"
+		],
 		"Mudra of the Malefic General": [
 			"cyno",
 			"kamisatoayato",
@@ -1294,17 +1333,20 @@
 		"Tattered Warrant": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Immaculate Warrant": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Frost-Etched Warrant": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Eroded Sunfire": [
 			"durin",
@@ -1315,6 +1357,7 @@
 		],
 		"Eroded Horn": [
 			"escoffier",
+			"illuga",
 			"mavuika"
 		],
 		"Dragon Lord's Crown": [
@@ -1341,7 +1384,8 @@
 			"jahoda"
 		],
 		"Ascended Sample: Queen": [
-			"flins"
+			"flins",
+			"zibai"
 		],
 		"Whopperflower Nectar": [
 			"furina",
@@ -1542,15 +1586,6 @@
 			"yoimiya",
 			"yumemizukimizuki"
 		],
-		"Teachings of Moonlight": [
-			"lauma"
-		],
-		"Guide to Moonlight": [
-			"lauma"
-		],
-		"Philosophies of Moonlight": [
-			"lauma"
-		],
 		"Dvalin's Claw": [
 			"lisa",
 			"noelle",
@@ -1706,6 +1741,10 @@
 			"Teachings of Praxis",
 			"Guide to Praxis",
 			"Philosophies of Praxis",
+			"Teachings of Moonlight",
+			"Guide to Moonlight",
+			"Philosophies of Moonlight",
+			"Mask of the Virtuous Doctor",
 			"Mudra of the Malefic General",
 			"Eroded Scale-Feather",
 			"Puppet Strings",
@@ -1746,9 +1785,6 @@
 			"Teachings of Transience",
 			"Guide to Transience",
 			"Philosophies of Transience",
-			"Teachings of Moonlight",
-			"Guide to Moonlight",
-			"Philosophies of Moonlight",
 			"Dvalin's Claw",
 			"Teachings of Equity",
 			"Guide to Equity",

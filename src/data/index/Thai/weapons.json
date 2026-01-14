@@ -95,6 +95,7 @@
 		"keyofkhajnisut": "Key of Khaj-Nisut",
 		"kingssquire": "King's Squire",
 		"kitaincrossspear": "Kitain Cross Spear",
+		"lightbearingmoonshard": "Lightbearing Moonshard",
 		"lightoffoliarincision": "Light of Foliar Incision",
 		"lionsroar": "Lion's Roar",
 		"lithicblade": "Lithic Blade",
@@ -117,6 +118,7 @@
 		"mountainbracingbolt": "Mountain-Bracing Bolt",
 		"mouunsmoon": "Mouun's Moon",
 		"nightweaverslookingglass": "Nightweaver's Looking Glass",
+		"nocturnescurtaincall": "Nocturne's Curtain Call",
 		"oathsworneye": "Oathsworn Eye",
 		"oldmercspal": "Old Merc's Pal",
 		"otherworldlystory": "Otherworldly Story",
@@ -327,6 +329,7 @@
 		"Key of Khaj-Nisut": "keyofkhajnisut",
 		"King's Squire": "kingssquire",
 		"Kitain Cross Spear": "kitaincrossspear",
+		"Lightbearing Moonshard": "lightbearingmoonshard",
 		"Light of Foliar Incision": "lightoffoliarincision",
 		"Lion's Roar": "lionsroar",
 		"Lithic Blade": "lithicblade",
@@ -349,6 +352,7 @@
 		"Mountain-Bracing Bolt": "mountainbracingbolt",
 		"Mouun's Moon": "mouunsmoon",
 		"Nightweaver's Looking Glass": "nightweaverslookingglass",
+		"Nocturne's Curtain Call": "nocturnescurtaincall",
 		"Oathsworn Eye": "oathsworneye",
 		"Old Merc's Pal": "oldmercspal",
 		"Otherworldly Story": "otherworldlystory",
@@ -668,12 +672,14 @@
 			"jadefallssplendor",
 			"kagurasverity",
 			"keyofkhajnisut",
+			"lightbearingmoonshard",
 			"lightoffoliarincision",
 			"lostprayertothesacredwinds",
 			"lumidouceelegy",
 			"memoryofdust",
 			"mistsplitterreforged",
 			"nightweaverslookingglass",
+			"nocturnescurtaincall",
 			"peakpatrolsong",
 			"polarstar",
 			"primordialjadecutter",
@@ -731,6 +737,7 @@
 			"ironsting",
 			"kagotsurubeisshin",
 			"keyofkhajnisut",
+			"lightbearingmoonshard",
 			"lightoffoliarincision",
 			"lionsroar",
 			"mistsplitterreforged",
@@ -776,9 +783,11 @@
 			"fracturedhalo",
 			"harbingerofdawn",
 			"kagurasverity",
+			"lightbearingmoonshard",
 			"lightoffoliarincision",
 			"messenger",
 			"mistsplitterreforged",
+			"nocturnescurtaincall",
 			"redhornstonethresher",
 			"reliquaryoftruth",
 			"sharpshootersoath",
@@ -891,6 +900,7 @@
 			"keyofkhajnisut",
 			"kingssquire",
 			"kitaincrossspear",
+			"lightbearingmoonshard",
 			"lightoffoliarincision",
 			"lionsroar",
 			"lithicblade",
@@ -913,6 +923,7 @@
 			"mountainbracingbolt",
 			"mouunsmoon",
 			"nightweaverslookingglass",
+			"nocturnescurtaincall",
 			"oathsworneye",
 			"oldmercspal",
 			"otherworldlystory",
@@ -1682,6 +1693,7 @@
 			"mappamare",
 			"memoryofdust",
 			"nightweaverslookingglass",
+			"nocturnescurtaincall",
 			"oathsworneye",
 			"otherworldlystory",
 			"pocketgrimoire",
@@ -2352,6 +2364,7 @@
 		],
 		"Broken Drive Shaft": [
 			"athameartis",
+			"lightbearingmoonshard",
 			"masterkey",
 			"moonweaversdawn",
 			"nightweaverslookingglass",
@@ -2367,6 +2380,7 @@
 		],
 		"Reinforced Drive Shaft": [
 			"athameartis",
+			"lightbearingmoonshard",
 			"masterkey",
 			"moonweaversdawn",
 			"nightweaverslookingglass",
@@ -2382,6 +2396,7 @@
 		],
 		"Precision Drive Shaft": [
 			"athameartis",
+			"lightbearingmoonshard",
 			"masterkey",
 			"moonweaversdawn",
 			"nightweaverslookingglass",
@@ -3357,6 +3372,7 @@
 			"bloodsoakedruins",
 			"dawningfrost",
 			"etherlightspindlelute",
+			"nocturnescurtaincall",
 			"rainbowserpentsrainbow",
 			"serenityscall"
 		],
@@ -3371,6 +3387,7 @@
 			"bloodsoakedruins",
 			"dawningfrost",
 			"etherlightspindlelute",
+			"nocturnescurtaincall",
 			"rainbowserpentsrainbow",
 			"serenityscall"
 		],
@@ -3385,6 +3402,7 @@
 			"bloodsoakedruins",
 			"dawningfrost",
 			"etherlightspindlelute",
+			"nocturnescurtaincall",
 			"rainbowserpentsrainbow",
 			"serenityscall"
 		],
@@ -3400,6 +3418,7 @@
 			"compoundbow",
 			"fadingtwilight",
 			"ironsting",
+			"lightbearingmoonshard",
 			"lithicspear",
 			"luxurioussealord",
 			"mappamare",
@@ -3418,6 +3437,7 @@
 			"compoundbow",
 			"fadingtwilight",
 			"ironsting",
+			"lightbearingmoonshard",
 			"lithicspear",
 			"luxurioussealord",
 			"mappamare",
@@ -3436,6 +3456,7 @@
 			"compoundbow",
 			"fadingtwilight",
 			"ironsting",
+			"lightbearingmoonshard",
 			"lithicspear",
 			"luxurioussealord",
 			"mappamare",
@@ -3454,6 +3475,7 @@
 			"compoundbow",
 			"fadingtwilight",
 			"ironsting",
+			"lightbearingmoonshard",
 			"lithicspear",
 			"luxurioussealord",
 			"mappamare",
@@ -3474,6 +3496,7 @@
 		],
 		"Mistshroud Manifestation": [
 			"bloodsoakedruins",
+			"lightbearingmoonshard",
 			"prospectorsshovel",
 			"sacrificersstaff",
 			"snarehook"
@@ -3486,6 +3509,7 @@
 		],
 		"Mistshroud Plate": [
 			"bloodsoakedruins",
+			"lightbearingmoonshard",
 			"prospectorsshovel",
 			"sacrificersstaff",
 			"snarehook"
@@ -3498,6 +3522,7 @@
 		],
 		"Mistshroud Helmet": [
 			"bloodsoakedruins",
+			"lightbearingmoonshard",
 			"prospectorsshovel",
 			"sacrificersstaff",
 			"snarehook"
@@ -3843,7 +3868,8 @@
 		"Sundered Glory of the Far-North Scions": [
 			"etherlightspindlelute",
 			"masterkey",
-			"moonweaversdawn"
+			"moonweaversdawn",
+			"nocturnescurtaincall"
 		],
 		"Lightless Bone": [
 			"etherlightspindlelute",
@@ -3854,7 +3880,8 @@
 		"Unyielding Delusion of the Far-North Scions": [
 			"etherlightspindlelute",
 			"masterkey",
-			"moonweaversdawn"
+			"moonweaversdawn",
+			"nocturnescurtaincall"
 		],
 		"Glowing Remains": [
 			"etherlightspindlelute",
@@ -3865,7 +3892,8 @@
 		"Oblation of the Far-North Scions": [
 			"etherlightspindlelute",
 			"masterkey",
-			"moonweaversdawn"
+			"moonweaversdawn",
+			"nocturnescurtaincall"
 		],
 		"Radiant Exoskeleton": [
 			"etherlightspindlelute",
@@ -3876,7 +3904,8 @@
 		"Aureate Radiance of the Far-North Scions": [
 			"etherlightspindlelute",
 			"masterkey",
-			"moonweaversdawn"
+			"moonweaversdawn",
+			"nocturnescurtaincall"
 		],
 		"Dismal Prism": [
 			"everlastingmoonglow",
@@ -4071,6 +4100,15 @@
 			"sunnymorningsleepin",
 			"thunderingpulse",
 			"toukaboushigure"
+		],
+		"Fractured Eye of the Deep Shadow": [
+			"nocturnescurtaincall"
+		],
+		"Aberrant Core of the Deep Shadow": [
+			"nocturnescurtaincall"
+		],
+		"Hooked Beak of the Deep Shadow": [
+			"nocturnescurtaincall"
 		],
 		"Shard of a Shattered Will": [
 			"ringofyaxche",
@@ -4337,6 +4375,9 @@
 			"Narukami's Joy",
 			"Narukami's Affection",
 			"Narukami's Valor",
+			"Fractured Eye of the Deep Shadow",
+			"Aberrant Core of the Deep Shadow",
+			"Hooked Beak of the Deep Shadow",
 			"Shard of a Shattered Will",
 			"Locus of a Clear Will",
 			"Sigil of a Striding Will"

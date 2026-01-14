@@ -1,7 +1,9 @@
 {
 	"namemap": {
+		"adaycarvedfromrisingwinds": "Rüzgarların Şekillendirdiği Bir Gün",
 		"adventurer": "Maceracı",
 		"archaicpetra": "Arkaik Taşlar",
+		"aubadeofmorningstarandmoon": "Seher Yıldızı ve Ayın Sabah Şarkısı",
 		"berserker": "Vahşi Savaşçı",
 		"blizzardstrayer": "Kış Gezgini",
 		"bloodstainedchivalry": "Kanlı Şövalyelik",
@@ -59,8 +61,10 @@
 		"wandererstroupe": "Göçebe Kumpanyası"
 	},
 	"names": {
+		"Rüzgarların Şekillendirdiği Bir Gün": "adaycarvedfromrisingwinds",
 		"Maceracı": "adventurer",
 		"Arkaik Taşlar": "archaicpetra",
+		"Seher Yıldızı ve Ayın Sabah Şarkısı": "aubadeofmorningstarandmoon",
 		"Vahşi Savaşçı": "berserker",
 		"Kış Gezgini": "blizzardstrayer",
 		"Kanlı Şövalyelik": "bloodstainedchivalry",
@@ -118,6 +122,11 @@
 		"Göçebe Kumpanyası": "wandererstroupe"
 	},
 	"aliases": {
+		"Rüzgar Çiçeğinin Vecizesi": "adaycarvedfromrisingwinds",
+		"Şafağın Muhteşem Yemini": "adaycarvedfromrisingwinds",
+		"Bahar Şarkısında Bir Nota": "adaycarvedfromrisingwinds",
+		"Heldenepos'un Anlatılmayan Hikayesi": "adaycarvedfromrisingwinds",
+		"Aşk ve Ağıt Baladı": "adaycarvedfromrisingwinds",
 		"Maceracının Çiçeği": "adventurer",
 		"Maceracının Kuyruk Tüyü": "adventurer",
 		"Maceracının Cep Saati": "adventurer",
@@ -128,6 +137,11 @@
 		"Dayanıklı Yeşim Güneş Saati": "archaicpetra",
 		"Yalçın Kayalık Kadehi": "archaicpetra",
 		"Münzevi Bazalt Maskesi": "archaicpetra",
+		"Mehtap Adağının Görkemli Rüyası": "aubadeofmorningstarandmoon",
+		"Mehtap Adağının Veda Işığı": "aubadeofmorningstarandmoon",
+		"Mehtap Adağının Son Saati": "aubadeofmorningstarandmoon",
+		"Mehtap Adağının Sunusu": "aubadeofmorningstarandmoon",
+		"Mehtap Adağının Gümüş Tacı": "aubadeofmorningstarandmoon",
 		"Vahşi Savaşçı Gülü": "berserker",
 		"Vahşi Savaşçı Çivit Tüyü": "berserker",
 		"Vahşi Savaşçı Saati": "berserker",
@@ -419,7 +433,9 @@
 			"travelingdoctor"
 		],
 		"4": [
+			"adaycarvedfromrisingwinds",
 			"archaicpetra",
+			"aubadeofmorningstarandmoon",
 			"berserker",
 			"blizzardstrayer",
 			"bloodstainedchivalry",
@@ -475,7 +491,9 @@
 			"wandererstroupe"
 		],
 		"5": [
+			"adaycarvedfromrisingwinds",
 			"archaicpetra",
+			"aubadeofmorningstarandmoon",
 			"blizzardstrayer",
 			"bloodstainedchivalry",
 			"crimsonwitchofflames",
@@ -519,11 +537,11 @@
 	},
 	"properties": {
 		"rarityList": [
+			4,
+			5,
 			1,
 			2,
-			3,
-			4,
-			5
+			3
 		]
 	}
 }

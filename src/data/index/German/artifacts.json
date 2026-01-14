@@ -1,7 +1,9 @@
 {
 	"namemap": {
+		"adaycarvedfromrisingwinds": "Tag des aufkommenden Windes",
 		"adventurer": "Abenteurer",
 		"archaicpetra": "Archaischer Fels",
+		"aubadeofmorningstarandmoon": "Gesang von Stern und Mond",
 		"berserker": "Berserker",
 		"blizzardstrayer": "Im Schnee irrender Recke",
 		"bloodstainedchivalry": "Blutiger Weg eines Ritters",
@@ -59,8 +61,10 @@
 		"wandererstroupe": "Wanderorchester"
 	},
 	"names": {
+		"Tag des aufkommenden Windes": "adaycarvedfromrisingwinds",
 		"Abenteurer": "adventurer",
 		"Archaischer Fels": "archaicpetra",
+		"Gesang von Stern und Mond": "aubadeofmorningstarandmoon",
 		"Berserker": "berserker",
 		"Im Schnee irrender Recke": "blizzardstrayer",
 		"Blutiger Weg eines Ritters": "bloodstainedchivalry",
@@ -118,6 +122,11 @@
 		"Wanderorchester": "wandererstroupe"
 	},
 	"aliases": {
+		"Spruchdichtung der Windblume": "adaycarvedfromrisingwinds",
+		"Eid des Morgenlichts": "adaycarvedfromrisingwinds",
+		"Note im Frühlingslied": "adaycarvedfromrisingwinds",
+		"Unausgesprochene Bankettgespräche": "adaycarvedfromrisingwinds",
+		"Ballade von Liebe und Klage": "adaycarvedfromrisingwinds",
 		"Blume eines Abenteurers": "adventurer",
 		"Abenteurerschwanzfeder": "adventurer",
 		"Taschenuhr eines Abenteurers": "adventurer",
@@ -128,6 +137,11 @@
 		"Sonnenuhr der düsteren Jade": "archaicpetra",
 		"Krug aus Felsgestein": "archaicpetra",
 		"Maske des starren Gesteins": "archaicpetra",
+		"Opulenter Traum des Mondlichtopfers": "aubadeofmorningstarandmoon",
+		"Durchsickerndes Licht des Mondlichtopfers": "aubadeofmorningstarandmoon",
+		"Letzte Stunde des Mondlichtopfers": "aubadeofmorningstarandmoon",
+		"Trunk des Mondlichtopfers": "aubadeofmorningstarandmoon",
+		"Silberne Krone des Mondlichtopfers": "aubadeofmorningstarandmoon",
 		"Berserkerrose": "berserker",
 		"Berserkerfeder": "berserker",
 		"Berserkersanduhr": "berserker",
@@ -419,7 +433,9 @@
 			"travelingdoctor"
 		],
 		"4": [
+			"adaycarvedfromrisingwinds",
 			"archaicpetra",
+			"aubadeofmorningstarandmoon",
 			"berserker",
 			"blizzardstrayer",
 			"bloodstainedchivalry",
@@ -475,7 +491,9 @@
 			"wandererstroupe"
 		],
 		"5": [
+			"adaycarvedfromrisingwinds",
 			"archaicpetra",
+			"aubadeofmorningstarandmoon",
 			"blizzardstrayer",
 			"bloodstainedchivalry",
 			"crimsonwitchofflames",
@@ -519,11 +537,11 @@
 	},
 	"properties": {
 		"rarityList": [
+			4,
+			5,
 			1,
 			2,
-			3,
-			4,
-			5
+			3
 		]
 	}
 }

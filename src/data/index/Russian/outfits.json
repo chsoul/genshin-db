@@ -12,6 +12,8 @@
 		"ardentsoul": "Пламенная душа",
 		"argentchimes": "Серебряный звон",
 		"armoredrose": "Железная роза",
+		"asheavenandeartharemadeanewaether": "И заново сотворены небо и земля",
+		"asheavenandeartharemadeanewlumine": "И заново сотворены небо и земля",
 		"asobriquetundershade": "Инкогнито в тени листвы",
 		"awrathfulvoid": "Безмолвие гневной пустоты",
 		"azuresilk": "Лазурные шелка",
@@ -65,10 +67,13 @@
 		"innocentlonging": "Невинные надежды",
 		"machinehunter": "Охотница на машины",
 		"mechanicaldreams": "Механические мечты",
+		"melusentgift": "Подарок мелюзин",
 		"mikosinstruction": "Наставление жрицы",
 		"minimujina": "Минимудзина",
 		"mistcloudstage": "Облачный покров",
 		"moonglare": "Лунный свет",
+		"moonlitcourser": "Лунный скакун",
+		"moonweavegossamer": "Лунное одеяние",
 		"narukamislaw": "Церемония Наруками Огосё",
 		"neitherflowernormist": "Не цветы и не туман",
 		"newmoonstarlight": "Звёзды и новолуние",
@@ -89,6 +94,7 @@
 		"pristineprayers": "Пречистые молитвы",
 		"purespirit": "Чистый дух",
 		"purplerose": "Пурпурная роза",
+		"rainlitbambooreverie": "Бамбуковые грёзы в дождь",
 		"rangingrainbow": "Далёкая радуга",
 		"reddeadofnight": "Алая ночь",
 		"redpepperandturmeric": "Острый перец и куркума",
@@ -106,6 +112,7 @@
 		"sparklingcoralbone": "Коралловая волна",
 		"spiritedvalor": "Боевой порыв",
 		"springbloommissive": "Послание весеннего цветения",
+		"steadfastresolve": "Непреклонная решимость",
 		"sugarrush": "Сладость счастья",
 		"sugarybrew": "Сахарный коктейль",
 		"summerchilldreams": "Грёзы морозного лета",
@@ -147,6 +154,7 @@
 		"Пламенная душа": "ardentsoul",
 		"Серебряный звон": "argentchimes",
 		"Железная роза": "armoredrose",
+		"И заново сотворены небо и земля": "asheavenandeartharemadeanewaether",
 		"Инкогнито в тени листвы": "asobriquetundershade",
 		"Безмолвие гневной пустоты": "awrathfulvoid",
 		"Лазурные шелка": "azuresilk",
@@ -200,10 +208,13 @@
 		"Невинные надежды": "innocentlonging",
 		"Охотница на машины": "machinehunter",
 		"Механические мечты": "mechanicaldreams",
+		"Подарок мелюзин": "melusentgift",
 		"Наставление жрицы": "mikosinstruction",
 		"Минимудзина": "minimujina",
 		"Облачный покров": "mistcloudstage",
 		"Лунный свет": "moonglare",
+		"Лунный скакун": "moonlitcourser",
+		"Лунное одеяние": "moonweavegossamer",
 		"Церемония Наруками Огосё": "narukamislaw",
 		"Не цветы и не туман": "neitherflowernormist",
 		"Звёзды и новолуние": "newmoonstarlight",
@@ -224,6 +235,7 @@
 		"Пречистые молитвы": "pristineprayers",
 		"Чистый дух": "purespirit",
 		"Пурпурная роза": "purplerose",
+		"Бамбуковые грёзы в дождь": "rainlitbambooreverie",
 		"Далёкая радуга": "rangingrainbow",
 		"Алая ночь": "reddeadofnight",
 		"Острый перец и куркума": "redpepperandturmeric",
@@ -240,6 +252,7 @@
 		"Коралловая волна": "sparklingcoralbone",
 		"Боевой порыв": "spiritedvalor",
 		"Послание весеннего цветения": "springbloommissive",
+		"Непреклонная решимость": "steadfastresolve",
 		"Сладость счастья": "sugarrush",
 		"Сахарный коктейль": "sugarybrew",
 		"Грёзы морозного лета": "summerchilldreams",
@@ -306,6 +319,14 @@
 		"Ноэлль": [
 			"armoredrose"
 		],
+		"Итэр": [
+			"asheavenandeartharemadeanewaether",
+			"risingstaraether"
+		],
+		"Люмин": [
+			"asheavenandeartharemadeanewlumine",
+			"risingstarlumine"
+		],
 		"Лиза": [
 			"asobriquetundershade",
 			"purplerose"
@@ -339,10 +360,12 @@
 			"plumblossombouquet"
 		],
 		"Яо Яо": [
-			"cherubicosmanthus"
+			"cherubicosmanthus",
+			"rainlitbambooreverie"
 		],
 		"Нёвиллет": [
-			"clearadjudication"
+			"clearadjudication",
+			"melusentgift"
 		],
 		"Фурина": [
 			"coronatedprimadonna"
@@ -482,6 +505,12 @@
 		"Арлекино": [
 			"moonglare"
 		],
+		"Цзы Бай": [
+			"moonlitcourser"
+		],
+		"Коломбина": [
+			"moonweavegossamer"
+		],
 		"Райдэн": [
 			"narukamislaw"
 		],
@@ -530,12 +559,6 @@
 		"Ка Мин": [
 			"rangingrainbow"
 		],
-		"Итэр": [
-			"risingstaraether"
-		],
-		"Люмин": [
-			"risingstarlumine"
-		],
 		"Бэй Доу": [
 			"rollingwaves"
 		],
@@ -559,6 +582,9 @@
 		],
 		"Хэйдзо": [
 			"spiritedvalor"
+		],
+		"Иллуги": [
+			"steadfastresolve"
 		],
 		"Вареса": [
 			"sugarrush"
@@ -635,6 +661,8 @@
 			"Синь Янь",
 			"Лань Янь",
 			"Ноэлль",
+			"Итэр",
+			"Люмин",
 			"Лиза",
 			"Странник",
 			"Син Цю",
@@ -688,6 +716,8 @@
 			"Саю",
 			"Юнь Цзинь",
 			"Арлекино",
+			"Цзы Бай",
+			"Коломбина",
 			"Райдэн",
 			"Альбедо",
 			"Сян Лин",
@@ -703,8 +733,6 @@
 			"Далия",
 			"Чун Юнь",
 			"Ка Мин",
-			"Итэр",
-			"Люмин",
 			"Бэй Доу",
 			"Скирк",
 			"Аято",
@@ -713,6 +741,7 @@
 			"Эскофье",
 			"Кокоми",
 			"Хэйдзо",
+			"Иллуги",
 			"Вареса",
 			"Диона",
 			"Ци Ци",

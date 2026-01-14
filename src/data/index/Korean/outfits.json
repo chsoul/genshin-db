@@ -12,6 +12,8 @@
 		"ardentsoul": "열렬한 영혼",
 		"argentchimes": "은방울",
 		"armoredrose": "갑옷을 입은 장미",
+		"asheavenandeartharemadeanewaether": "하늘과 대지",
+		"asheavenandeartharemadeanewlumine": "하늘과 대지",
 		"asobriquetundershade": "잎새에 숨겨진 이름",
 		"awrathfulvoid": "공허한 정적과 분노",
 		"azuresilk": "남빛 비단",
@@ -65,10 +67,13 @@
 		"innocentlonging": "순수한 기대",
 		"machinehunter": "기동 사냥꾼",
 		"mechanicaldreams": "기계의 꿈",
+		"melusentgift": "멜뤼진의 선물",
 		"mikosinstruction": "미코의 말씀",
 		"minimujina": "너구리 옷",
 		"mistcloudstage": "무대의 연기구름",
 		"moonglare": "달빛",
+		"moonlitcourser": "달빛 백마",
+		"moonweavegossamer": "달빛 비단",
 		"narukamislaw": "위대하신 나루카미 쇼군의 의식",
 		"neitherflowernormist": "꽃도 안개도 아닌",
 		"newmoonstarlight": "신월의 별빛",
@@ -89,6 +94,7 @@
 		"pristineprayers": "무결한 기도",
 		"purespirit": "청정한 영혼",
 		"purplerose": "보랏빛 장미",
+		"rainlitbambooreverie": "비와 대나무의 노래",
 		"rangingrainbow": "만리에 걸친 무지개",
 		"reddeadofnight": "진홍빛 종야",
 		"redpepperandturmeric": "홍고추와 황생강",
@@ -106,6 +112,7 @@
 		"sparklingcoralbone": "산호뼈의 맑은 물결",
 		"spiritedvalor": "용맹의 바람",
 		"springbloommissive": "꽃 피는 날의 편지",
+		"steadfastresolve": "쉬지 않는 등불",
 		"sugarrush": "달콤한 즐거움",
 		"sugarybrew": "달콤한 양조법",
 		"summerchilldreams": "차가운 여름의 꿈",
@@ -147,6 +154,7 @@
 		"열렬한 영혼": "ardentsoul",
 		"은방울": "argentchimes",
 		"갑옷을 입은 장미": "armoredrose",
+		"하늘과 대지": "asheavenandeartharemadeanewaether",
 		"잎새에 숨겨진 이름": "asobriquetundershade",
 		"공허한 정적과 분노": "awrathfulvoid",
 		"남빛 비단": "azuresilk",
@@ -200,10 +208,13 @@
 		"순수한 기대": "innocentlonging",
 		"기동 사냥꾼": "machinehunter",
 		"기계의 꿈": "mechanicaldreams",
+		"멜뤼진의 선물": "melusentgift",
 		"미코의 말씀": "mikosinstruction",
 		"너구리 옷": "minimujina",
 		"무대의 연기구름": "mistcloudstage",
 		"달빛": "moonglare",
+		"달빛 백마": "moonlitcourser",
+		"달빛 비단": "moonweavegossamer",
 		"위대하신 나루카미 쇼군의 의식": "narukamislaw",
 		"꽃도 안개도 아닌": "neitherflowernormist",
 		"신월의 별빛": "newmoonstarlight",
@@ -224,6 +235,7 @@
 		"무결한 기도": "pristineprayers",
 		"청정한 영혼": "purespirit",
 		"보랏빛 장미": "purplerose",
+		"비와 대나무의 노래": "rainlitbambooreverie",
 		"만리에 걸친 무지개": "rangingrainbow",
 		"진홍빛 종야": "reddeadofnight",
 		"홍고추와 황생강": "redpepperandturmeric",
@@ -240,6 +252,7 @@
 		"산호뼈의 맑은 물결": "sparklingcoralbone",
 		"용맹의 바람": "spiritedvalor",
 		"꽃 피는 날의 편지": "springbloommissive",
+		"쉬지 않는 등불": "steadfastresolve",
 		"달콤한 즐거움": "sugarrush",
 		"달콤한 양조법": "sugarybrew",
 		"차가운 여름의 꿈": "summerchilldreams",
@@ -306,6 +319,14 @@
 		"노엘": [
 			"armoredrose"
 		],
+		"아이테르": [
+			"asheavenandeartharemadeanewaether",
+			"risingstaraether"
+		],
+		"루미네": [
+			"asheavenandeartharemadeanewlumine",
+			"risingstarlumine"
+		],
 		"리사": [
 			"asobriquetundershade",
 			"purplerose"
@@ -339,10 +360,12 @@
 			"plumblossombouquet"
 		],
 		"요요": [
-			"cherubicosmanthus"
+			"cherubicosmanthus",
+			"rainlitbambooreverie"
 		],
 		"느비예트": [
-			"clearadjudication"
+			"clearadjudication",
+			"melusentgift"
 		],
 		"푸리나": [
 			"coronatedprimadonna"
@@ -482,6 +505,12 @@
 		"아를레키노": [
 			"moonglare"
 		],
+		"자백": [
+			"moonlitcourser"
+		],
+		"콜롬비나": [
+			"moonweavegossamer"
+		],
 		"라이덴 쇼군": [
 			"narukamislaw"
 		],
@@ -530,12 +559,6 @@
 		"가명": [
 			"rangingrainbow"
 		],
-		"아이테르": [
-			"risingstaraether"
-		],
-		"루미네": [
-			"risingstarlumine"
-		],
 		"북두": [
 			"rollingwaves"
 		],
@@ -559,6 +582,9 @@
 		],
 		"시카노인 헤이조": [
 			"spiritedvalor"
+		],
+		"일루가": [
+			"steadfastresolve"
 		],
 		"바레사": [
 			"sugarrush"
@@ -635,6 +661,8 @@
 			"신염",
 			"남연",
 			"노엘",
+			"아이테르",
+			"루미네",
 			"리사",
 			"방랑자",
 			"행추",
@@ -688,6 +716,8 @@
 			"사유",
 			"운근",
 			"아를레키노",
+			"자백",
+			"콜롬비나",
 			"라이덴 쇼군",
 			"알베도",
 			"향릉",
@@ -703,8 +733,6 @@
 			"달리아",
 			"중운",
 			"가명",
-			"아이테르",
-			"루미네",
 			"북두",
 			"스커크",
 			"카미사토 아야토",
@@ -713,6 +741,7 @@
 			"에스코피에",
 			"산고노미야 코코미",
 			"시카노인 헤이조",
+			"일루가",
 			"바레사",
 			"디오나",
 			"치치",

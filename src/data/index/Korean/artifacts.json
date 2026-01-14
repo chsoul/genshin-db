@@ -1,7 +1,9 @@
 {
 	"namemap": {
+		"adaycarvedfromrisingwinds": "바람이 시작되는 날",
 		"adventurer": "모험가",
 		"archaicpetra": "유구한 반암",
+		"aubadeofmorningstarandmoon": "샛별과 달의 여명",
 		"berserker": "전투광",
 		"blizzardstrayer": "얼음바람 속에서 길잃은 용사",
 		"bloodstainedchivalry": "피에 물든 기사도",
@@ -59,8 +61,10 @@
 		"wandererstroupe": "대지를 유랑하는 악단"
 	},
 	"names": {
+		"바람이 시작되는 날": "adaycarvedfromrisingwinds",
 		"모험가": "adventurer",
 		"유구한 반암": "archaicpetra",
+		"샛별과 달의 여명": "aubadeofmorningstarandmoon",
 		"전투광": "berserker",
 		"얼음바람 속에서 길잃은 용사": "blizzardstrayer",
 		"피에 물든 기사도": "bloodstainedchivalry",
@@ -118,6 +122,11 @@
 		"대지를 유랑하는 악단": "wandererstroupe"
 	},
 	"aliases": {
+		"바람꽃의 기록": "adaycarvedfromrisingwinds",
+		"서광의 서약": "adaycarvedfromrisingwinds",
+		"봄의 순간": "adaycarvedfromrisingwinds",
+		"연회의 비밀": "adaycarvedfromrisingwinds",
+		"애도의 연가": "adaycarvedfromrisingwinds",
 		"모험가의 꽃": "adventurer",
 		"모험가의 꽁지 깃털": "adventurer",
 		"모험가의 회중시계": "adventurer",
@@ -128,6 +137,11 @@
 		"성라규벽의 시계": "archaicpetra",
 		"위암 반석의 술잔": "archaicpetra",
 		"부동현석의 상": "archaicpetra",
+		"달에 바치는 꿈": "aubadeofmorningstarandmoon",
+		"달에 바치는 일광": "aubadeofmorningstarandmoon",
+		"달에 바치는 최후": "aubadeofmorningstarandmoon",
+		"달에 바치는 술": "aubadeofmorningstarandmoon",
+		"달에 바치는 은관": "aubadeofmorningstarandmoon",
 		"전투광의 장미": "berserker",
 		"전투광의 깃털": "berserker",
 		"전투광의 시계": "berserker",
@@ -419,7 +433,9 @@
 			"travelingdoctor"
 		],
 		"4": [
+			"adaycarvedfromrisingwinds",
 			"archaicpetra",
+			"aubadeofmorningstarandmoon",
 			"berserker",
 			"blizzardstrayer",
 			"bloodstainedchivalry",
@@ -475,7 +491,9 @@
 			"wandererstroupe"
 		],
 		"5": [
+			"adaycarvedfromrisingwinds",
 			"archaicpetra",
+			"aubadeofmorningstarandmoon",
 			"blizzardstrayer",
 			"bloodstainedchivalry",
 			"crimsonwitchofflames",
@@ -519,11 +537,11 @@
 	},
 	"properties": {
 		"rarityList": [
+			4,
+			5,
 			1,
 			2,
-			3,
-			4,
-			5
+			3
 		]
 	}
 }

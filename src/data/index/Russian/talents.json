@@ -20,6 +20,7 @@
 		"citlali": "Ситлали",
 		"clorinde": "Клоринда",
 		"collei": "Коллеи",
+		"columbina": "Коломбина",
 		"cyno": "Сайно",
 		"dahlia": "Далия",
 		"dehya": "Дэхья",
@@ -41,6 +42,7 @@
 		"hutao": "Ху Тао",
 		"iansan": "Иансан",
 		"ifa": "Ифа",
+		"illuga": "Иллуги",
 		"ineffa": "Инеффа",
 		"jahoda": "Ягода",
 		"jean": "Джинн",
@@ -115,7 +117,8 @@
 		"yoimiya": "Ёимия",
 		"yumemizukimizuki": "Мидзуки",
 		"yunjin": "Юнь Цзинь",
-		"zhongli": "Чжун Ли"
+		"zhongli": "Чжун Ли",
+		"zibai": "Цзы Бай"
 	},
 	"names": {
 		"Айно": "aino",
@@ -138,6 +141,7 @@
 		"Ситлали": "citlali",
 		"Клоринда": "clorinde",
 		"Коллеи": "collei",
+		"Коломбина": "columbina",
 		"Сайно": "cyno",
 		"Далия": "dahlia",
 		"Дэхья": "dehya",
@@ -159,6 +163,7 @@
 		"Ху Тао": "hutao",
 		"Иансан": "iansan",
 		"Ифа": "ifa",
+		"Иллуги": "illuga",
 		"Инеффа": "ineffa",
 		"Ягода": "jahoda",
 		"Джинн": "jean",
@@ -233,7 +238,8 @@
 		"Ёимия": "yoimiya",
 		"Мидзуки": "yumemizukimizuki",
 		"Юнь Цзинь": "yunjin",
-		"Чжун Ли": "zhongli"
+		"Чжун Ли": "zhongli",
+		"Цзы Бай": "zibai"
 	},
 	"aliases": {},
 	"categories": {
@@ -258,6 +264,7 @@
 			"citlali",
 			"clorinde",
 			"collei",
+			"columbina",
 			"cyno",
 			"dahlia",
 			"dehya",
@@ -279,6 +286,7 @@
 			"hutao",
 			"iansan",
 			"ifa",
+			"illuga",
 			"ineffa",
 			"jahoda",
 			"jean",
@@ -352,33 +360,40 @@
 			"yoimiya",
 			"yumemizukimizuki",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Учения о «Рае»": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"Сломанный вал": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Указания о «Рае»": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"Усиленный вал": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Философия о «Рае»": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"Высокоточный вал": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Шелковистое перо": [
@@ -407,6 +422,7 @@
 			"citlali",
 			"clorinde",
 			"collei",
+			"columbina",
 			"cyno",
 			"dahlia",
 			"dehya",
@@ -428,6 +444,7 @@
 			"hutao",
 			"iansan",
 			"ifa",
+			"illuga",
 			"ineffa",
 			"jahoda",
 			"jean",
@@ -501,7 +518,8 @@
 			"yoimiya",
 			"yumemizukimizuki",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Учения о «Поэзии»": [
 			"albedo",
@@ -727,6 +745,7 @@
 		],
 		"Слизь слайма": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -745,6 +764,7 @@
 		],
 		"Выделения слайма": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -763,6 +783,7 @@
 		],
 		"Концентрат слайма": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -841,7 +862,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Споры плесенника": [
 			"baizhu",
@@ -859,7 +881,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Светящаяся пыльца": [
 			"baizhu",
@@ -877,7 +900,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Пыль кристаллоцистов": [
 			"baizhu",
@@ -1266,6 +1290,21 @@
 			"travelerdendro",
 			"wanderer"
 		],
+		"Учения о «Лунном свете»": [
+			"columbina",
+			"lauma"
+		],
+		"Указания о «Лунном свете»": [
+			"columbina",
+			"lauma"
+		],
+		"Философия о «Лунном свете»": [
+			"columbina",
+			"lauma"
+		],
+		"Маска мудрого лекаря": [
+			"columbina"
+		],
 		"Мудра зловещего генерала": [
 			"cyno",
 			"kamisatoayato",
@@ -1294,17 +1333,20 @@
 		"Потрёпанный мандат": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Безупречный мандат": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Заиндевевший мандат": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Истлевшее солнечное пламя": [
 			"durin",
@@ -1315,6 +1357,7 @@
 		],
 		"Истлевший рог": [
 			"escoffier",
+			"illuga",
 			"mavuika"
 		],
 		"Корона лорда драконов": [
@@ -1341,7 +1384,8 @@
 			"jahoda"
 		],
 		"Вознёсшийся образец: Ферзь": [
-			"flins"
+			"flins",
+			"zibai"
 		],
 		"Нектар попрыгуньи": [
 			"furina",
@@ -1542,15 +1586,6 @@
 			"yoimiya",
 			"yumemizukimizuki"
 		],
-		"Учения о «Лунном свете»": [
-			"lauma"
-		],
-		"Указания о «Лунном свете»": [
-			"lauma"
-		],
-		"Философия о «Лунном свете»": [
-			"lauma"
-		],
 		"Коготь Двалина": [
 			"lisa",
 			"noelle",
@@ -1706,6 +1741,10 @@
 			"Учения о «Честности»",
 			"Указания о «Честности»",
 			"Философия о «Честности»",
+			"Учения о «Лунном свете»",
+			"Указания о «Лунном свете»",
+			"Философия о «Лунном свете»",
+			"Маска мудрого лекаря",
 			"Мудра зловещего генерала",
 			"Истлевшее чешуйчатое перо",
 			"Нити марионетки",
@@ -1746,9 +1785,6 @@
 			"Учения о «Бренности»",
 			"Указания о «Бренности»",
 			"Философия о «Бренности»",
-			"Учения о «Лунном свете»",
-			"Указания о «Лунном свете»",
-			"Философия о «Лунном свете»",
 			"Коготь Двалина",
 			"Учения о «Беспристрастии»",
 			"Указания о «Беспристрастии»",

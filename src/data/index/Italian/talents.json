@@ -20,6 +20,7 @@
 		"citlali": "Citlali",
 		"clorinde": "Clorinde",
 		"collei": "Collei",
+		"columbina": "Colombina",
 		"cyno": "Cyno",
 		"dahlia": "Dahlia",
 		"dehya": "Dehya",
@@ -41,6 +42,7 @@
 		"hutao": "Hu Tao",
 		"iansan": "Iansan",
 		"ifa": "Ifa",
+		"illuga": "Illuga",
 		"ineffa": "Ineffa",
 		"jahoda": "Jahoda",
 		"jean": "Jean",
@@ -115,7 +117,8 @@
 		"yoimiya": "Yoimiya",
 		"yumemizukimizuki": "Yumemizuki Mizuki",
 		"yunjin": "Yun Jin",
-		"zhongli": "Zhongli"
+		"zhongli": "Zhongli",
+		"zibai": "Zibai"
 	},
 	"names": {
 		"Aino": "aino",
@@ -138,6 +141,7 @@
 		"Citlali": "citlali",
 		"Clorinde": "clorinde",
 		"Collei": "collei",
+		"Colombina": "columbina",
 		"Cyno": "cyno",
 		"Dahlia": "dahlia",
 		"Dehya": "dehya",
@@ -159,6 +163,7 @@
 		"Hu Tao": "hutao",
 		"Iansan": "iansan",
 		"Ifa": "ifa",
+		"Illuga": "illuga",
 		"Ineffa": "ineffa",
 		"Jahoda": "jahoda",
 		"Jean": "jean",
@@ -233,7 +238,8 @@
 		"Yoimiya": "yoimiya",
 		"Yumemizuki Mizuki": "yumemizukimizuki",
 		"Yun Jin": "yunjin",
-		"Zhongli": "zhongli"
+		"Zhongli": "zhongli",
+		"Zibai": "zibai"
 	},
 	"aliases": {},
 	"categories": {
@@ -258,6 +264,7 @@
 			"citlali",
 			"clorinde",
 			"collei",
+			"columbina",
 			"cyno",
 			"dahlia",
 			"dehya",
@@ -279,6 +286,7 @@
 			"hutao",
 			"iansan",
 			"ifa",
+			"illuga",
 			"ineffa",
 			"jahoda",
 			"jean",
@@ -352,33 +360,40 @@
 			"yoimiya",
 			"yumemizukimizuki",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Insegnamenti dell'Elisio": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"Albero di trasmissione rotto": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Guida all'Elisio": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"Albero di trasmissione rinforzato": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Filosofie dell'Elisio": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"Albero di trasmissione di precisione": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Piuma setosa": [
@@ -407,6 +422,7 @@
 			"citlali",
 			"clorinde",
 			"collei",
+			"columbina",
 			"cyno",
 			"dahlia",
 			"dehya",
@@ -428,6 +444,7 @@
 			"hutao",
 			"iansan",
 			"ifa",
+			"illuga",
 			"ineffa",
 			"jahoda",
 			"jean",
@@ -501,7 +518,8 @@
 			"yoimiya",
 			"yumemizukimizuki",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Insegnamenti della poesia": [
 			"albedo",
@@ -727,6 +745,7 @@
 		],
 		"Bava di Melmoso": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -745,6 +764,7 @@
 		],
 		"Secrezioni di Melmoso": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -763,6 +783,7 @@
 		],
 		"Concentrato di Melmoso": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -841,7 +862,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Spore fungine": [
 			"baizhu",
@@ -859,7 +881,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Polline luminescente": [
 			"baizhu",
@@ -877,7 +900,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Polvere di ciste cristallina": [
 			"baizhu",
@@ -1266,6 +1290,21 @@
 			"travelerdendro",
 			"wanderer"
 		],
+		"Insegnamenti del chiaro di luna": [
+			"columbina",
+			"lauma"
+		],
+		"Guida al chiaro di luna": [
+			"columbina",
+			"lauma"
+		],
+		"Filosofie del chiaro di luna": [
+			"columbina",
+			"lauma"
+		],
+		"Maschera del dottore virtuoso": [
+			"columbina"
+		],
 		"Mudra della Generale malefica": [
 			"cyno",
 			"kamisatoayato",
@@ -1294,17 +1333,20 @@
 		"Distintivo rovinato": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Distintivo immacolato": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Distintivo gelinciso": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Fuoco solare eroso": [
 			"durin",
@@ -1315,6 +1357,7 @@
 		],
 		"Corno eroso": [
 			"escoffier",
+			"illuga",
 			"mavuika"
 		],
 		"Corona del re dei draghi": [
@@ -1341,7 +1384,8 @@
 			"jahoda"
 		],
 		"Campione asceso: Regina": [
-			"flins"
+			"flins",
+			"zibai"
 		],
 		"Nettare del Malefiore": [
 			"furina",
@@ -1542,15 +1586,6 @@
 			"yoimiya",
 			"yumemizukimizuki"
 		],
-		"Insegnamenti del chiaro di luna": [
-			"lauma"
-		],
-		"Guida al chiaro di luna": [
-			"lauma"
-		],
-		"Filosofie del chiaro di luna": [
-			"lauma"
-		],
 		"Artiglio di Dvalin": [
 			"lisa",
 			"noelle",
@@ -1706,6 +1741,10 @@
 			"Insegnamenti della pragmatica",
 			"Guida alla pragmatica",
 			"Filosofie della pragmatica",
+			"Insegnamenti del chiaro di luna",
+			"Guida al chiaro di luna",
+			"Filosofie del chiaro di luna",
+			"Maschera del dottore virtuoso",
 			"Mudra della Generale malefica",
 			"Squamopiuma erosa",
 			"Fili del burattino",
@@ -1746,9 +1785,6 @@
 			"Insegnamenti della fugacità",
 			"Guida alla fugacità",
 			"Filosofie della fugacità",
-			"Insegnamenti del chiaro di luna",
-			"Guida al chiaro di luna",
-			"Filosofie del chiaro di luna",
 			"Artiglio di Dvalin",
 			"Insegnamenti di equità",
 			"Guida all'equità",

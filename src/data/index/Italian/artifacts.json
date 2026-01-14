@@ -1,7 +1,9 @@
 {
 	"namemap": {
+		"adaycarvedfromrisingwinds": "Un giorno scolpito dai venti ascendenti",
 		"adventurer": "Avventuriere",
 		"archaicpetra": "Roccia arcaica",
+		"aubadeofmorningstarandmoon": "Aubade della stella del mattino e della luna",
 		"berserker": "Berserker",
 		"blizzardstrayer": "Nomade della tormenta",
 		"bloodstainedchivalry": "Cavalleria sanguinaria",
@@ -59,8 +61,10 @@
 		"wandererstroupe": "Compagnia del vagabondo"
 	},
 	"names": {
+		"Un giorno scolpito dai venti ascendenti": "adaycarvedfromrisingwinds",
 		"Avventuriere": "adventurer",
 		"Roccia arcaica": "archaicpetra",
+		"Aubade della stella del mattino e della luna": "aubadeofmorningstarandmoon",
 		"Berserker": "berserker",
 		"Nomade della tormenta": "blizzardstrayer",
 		"Cavalleria sanguinaria": "bloodstainedchivalry",
@@ -118,6 +122,11 @@
 		"Compagnia del vagabondo": "wandererstroupe"
 	},
 	"aliases": {
+		"Spruchdichtung del fiore nel vento": "adaycarvedfromrisingwinds",
+		"Giuramento brillante dell'alba": "adaycarvedfromrisingwinds",
+		"Nota nel leich della primavera": "adaycarvedfromrisingwinds",
+		"Racconto inespresso dell'heldenepos": "adaycarvedfromrisingwinds",
+		"Minnesang d'amore e lamento": "adaycarvedfromrisingwinds",
 		"Fiore dell'avventuriere": "adventurer",
 		"Piuma dell'avventuriere": "adventurer",
 		"Orologio dell'avventuriere": "adventurer",
@@ -128,6 +137,11 @@
 		"Meridiana di giada perenne": "archaicpetra",
 		"Calice di falesia": "archaicpetra",
 		"Maschera di basalto inerte": "archaicpetra",
+		"Sogno ornato dell'offerta al chiaro di luna": "aubadeofmorningstarandmoon",
+		"Luce d'addio dell'offerta al chiaro di luna": "aubadeofmorningstarandmoon",
+		"Ora finale dell'offerta al chiaro di luna": "aubadeofmorningstarandmoon",
+		"Libagione dell'offerta al chiaro di luna": "aubadeofmorningstarandmoon",
+		"Corona d'argento dell'offerta al chiaro di luna": "aubadeofmorningstarandmoon",
 		"Rosa del berserker": "berserker",
 		"Piuma blu del berserker": "berserker",
 		"Clessidra del berserker": "berserker",
@@ -419,7 +433,9 @@
 			"travelingdoctor"
 		],
 		"4": [
+			"adaycarvedfromrisingwinds",
 			"archaicpetra",
+			"aubadeofmorningstarandmoon",
 			"berserker",
 			"blizzardstrayer",
 			"bloodstainedchivalry",
@@ -475,7 +491,9 @@
 			"wandererstroupe"
 		],
 		"5": [
+			"adaycarvedfromrisingwinds",
 			"archaicpetra",
+			"aubadeofmorningstarandmoon",
 			"blizzardstrayer",
 			"bloodstainedchivalry",
 			"crimsonwitchofflames",
@@ -519,11 +537,11 @@
 	},
 	"properties": {
 		"rarityList": [
+			4,
+			5,
 			1,
 			2,
-			3,
-			4,
-			5
+			3
 		]
 	}
 }

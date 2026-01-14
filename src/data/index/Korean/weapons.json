@@ -95,6 +95,7 @@
 		"keyofkhajnisut": "성현의 열쇠",
 		"kingssquire": "왕의 측근",
 		"kitaincrossspear": "키타인 십자창",
+		"lightbearingmoonshard": "신월의 달빛",
 		"lightoffoliarincision": "잎을 가르는 빛",
 		"lionsroar": "용의 포효",
 		"lithicblade": "천암고검",
@@ -117,6 +118,7 @@
 		"mountainbracingbolt": "산을 고정하는 못",
 		"mouunsmoon": "모운의 달",
 		"nightweaverslookingglass": "밤을 엮는 거울",
+		"nocturnescurtaincall": "막간의 야상곡",
 		"oathsworneye": "맹세의 눈동자",
 		"oldmercspal": "용병 중검",
 		"otherworldlystory": "이세계 여행기",
@@ -327,6 +329,7 @@
 		"성현의 열쇠": "keyofkhajnisut",
 		"왕의 측근": "kingssquire",
 		"키타인 십자창": "kitaincrossspear",
+		"신월의 달빛": "lightbearingmoonshard",
 		"잎을 가르는 빛": "lightoffoliarincision",
 		"용의 포효": "lionsroar",
 		"천암고검": "lithicblade",
@@ -349,6 +352,7 @@
 		"산을 고정하는 못": "mountainbracingbolt",
 		"모운의 달": "mouunsmoon",
 		"밤을 엮는 거울": "nightweaverslookingglass",
+		"막간의 야상곡": "nocturnescurtaincall",
 		"맹세의 눈동자": "oathsworneye",
 		"용병 중검": "oldmercspal",
 		"이세계 여행기": "otherworldlystory",
@@ -668,12 +672,14 @@
 			"jadefallssplendor",
 			"kagurasverity",
 			"keyofkhajnisut",
+			"lightbearingmoonshard",
 			"lightoffoliarincision",
 			"lostprayertothesacredwinds",
 			"lumidouceelegy",
 			"memoryofdust",
 			"mistsplitterreforged",
 			"nightweaverslookingglass",
+			"nocturnescurtaincall",
 			"peakpatrolsong",
 			"polarstar",
 			"primordialjadecutter",
@@ -731,6 +737,7 @@
 			"ironsting",
 			"kagotsurubeisshin",
 			"keyofkhajnisut",
+			"lightbearingmoonshard",
 			"lightoffoliarincision",
 			"lionsroar",
 			"mistsplitterreforged",
@@ -776,9 +783,11 @@
 			"fracturedhalo",
 			"harbingerofdawn",
 			"kagurasverity",
+			"lightbearingmoonshard",
 			"lightoffoliarincision",
 			"messenger",
 			"mistsplitterreforged",
+			"nocturnescurtaincall",
 			"redhornstonethresher",
 			"reliquaryoftruth",
 			"sharpshootersoath",
@@ -891,6 +900,7 @@
 			"keyofkhajnisut",
 			"kingssquire",
 			"kitaincrossspear",
+			"lightbearingmoonshard",
 			"lightoffoliarincision",
 			"lionsroar",
 			"lithicblade",
@@ -913,6 +923,7 @@
 			"mountainbracingbolt",
 			"mouunsmoon",
 			"nightweaverslookingglass",
+			"nocturnescurtaincall",
 			"oathsworneye",
 			"oldmercspal",
 			"otherworldlystory",
@@ -1682,6 +1693,7 @@
 			"mappamare",
 			"memoryofdust",
 			"nightweaverslookingglass",
+			"nocturnescurtaincall",
 			"oathsworneye",
 			"otherworldlystory",
 			"pocketgrimoire",
@@ -2352,6 +2364,7 @@
 		],
 		"훼손된 구동축": [
 			"athameartis",
+			"lightbearingmoonshard",
 			"masterkey",
 			"moonweaversdawn",
 			"nightweaverslookingglass",
@@ -2367,6 +2380,7 @@
 		],
 		"강화 구동축": [
 			"athameartis",
+			"lightbearingmoonshard",
 			"masterkey",
 			"moonweaversdawn",
 			"nightweaverslookingglass",
@@ -2382,6 +2396,7 @@
 		],
 		"정밀 구동축": [
 			"athameartis",
+			"lightbearingmoonshard",
 			"masterkey",
 			"moonweaversdawn",
 			"nightweaverslookingglass",
@@ -3357,6 +3372,7 @@
 			"bloodsoakedruins",
 			"dawningfrost",
 			"etherlightspindlelute",
+			"nocturnescurtaincall",
 			"rainbowserpentsrainbow",
 			"serenityscall"
 		],
@@ -3371,6 +3387,7 @@
 			"bloodsoakedruins",
 			"dawningfrost",
 			"etherlightspindlelute",
+			"nocturnescurtaincall",
 			"rainbowserpentsrainbow",
 			"serenityscall"
 		],
@@ -3385,6 +3402,7 @@
 			"bloodsoakedruins",
 			"dawningfrost",
 			"etherlightspindlelute",
+			"nocturnescurtaincall",
 			"rainbowserpentsrainbow",
 			"serenityscall"
 		],
@@ -3400,6 +3418,7 @@
 			"compoundbow",
 			"fadingtwilight",
 			"ironsting",
+			"lightbearingmoonshard",
 			"lithicspear",
 			"luxurioussealord",
 			"mappamare",
@@ -3418,6 +3437,7 @@
 			"compoundbow",
 			"fadingtwilight",
 			"ironsting",
+			"lightbearingmoonshard",
 			"lithicspear",
 			"luxurioussealord",
 			"mappamare",
@@ -3436,6 +3456,7 @@
 			"compoundbow",
 			"fadingtwilight",
 			"ironsting",
+			"lightbearingmoonshard",
 			"lithicspear",
 			"luxurioussealord",
 			"mappamare",
@@ -3454,6 +3475,7 @@
 			"compoundbow",
 			"fadingtwilight",
 			"ironsting",
+			"lightbearingmoonshard",
 			"lithicspear",
 			"luxurioussealord",
 			"mappamare",
@@ -3474,6 +3496,7 @@
 		],
 		"짙은 안개 조각": [
 			"bloodsoakedruins",
+			"lightbearingmoonshard",
 			"prospectorsshovel",
 			"sacrificersstaff",
 			"snarehook"
@@ -3486,6 +3509,7 @@
 		],
 		"짙은 안개 철편": [
 			"bloodsoakedruins",
+			"lightbearingmoonshard",
 			"prospectorsshovel",
 			"sacrificersstaff",
 			"snarehook"
@@ -3498,6 +3522,7 @@
 		],
 		"짙은 안개 투구": [
 			"bloodsoakedruins",
+			"lightbearingmoonshard",
 			"prospectorsshovel",
 			"sacrificersstaff",
 			"snarehook"
@@ -3843,7 +3868,8 @@
 		"극북 유민의 영욕": [
 			"etherlightspindlelute",
 			"masterkey",
-			"moonweaversdawn"
+			"moonweaversdawn",
+			"nocturnescurtaincall"
 		],
 		"빛바랜 갑각": [
 			"etherlightspindlelute",
@@ -3854,7 +3880,8 @@
 		"극북 유민의 망집": [
 			"etherlightspindlelute",
 			"masterkey",
-			"moonweaversdawn"
+			"moonweaversdawn",
+			"nocturnescurtaincall"
 		],
 		"희미한 갑각": [
 			"etherlightspindlelute",
@@ -3865,7 +3892,8 @@
 		"극북 유민의 기도": [
 			"etherlightspindlelute",
 			"masterkey",
-			"moonweaversdawn"
+			"moonweaversdawn",
+			"nocturnescurtaincall"
 		],
 		"빛을 품은 갑각": [
 			"etherlightspindlelute",
@@ -3876,7 +3904,8 @@
 		"극북 유민의 광휘": [
 			"etherlightspindlelute",
 			"masterkey",
-			"moonweaversdawn"
+			"moonweaversdawn",
+			"nocturnescurtaincall"
 		],
 		"어두운 프리즘": [
 			"everlastingmoonglow",
@@ -4071,6 +4100,15 @@
 			"sunnymorningsleepin",
 			"thunderingpulse",
 			"toukaboushigure"
+		],
+		"어둠의 눈": [
+			"nocturnescurtaincall"
+		],
+		"어둠의 핵": [
+			"nocturnescurtaincall"
+		],
+		"어둠의 부리": [
+			"nocturnescurtaincall"
 		],
 		"의지가 희미한 파편": [
 			"ringofyaxche",
@@ -4337,6 +4375,9 @@
 			"나루카미 어령의 환희",
 			"나루카미 어령의 친애",
 			"나루카미 어령의 용맹",
+			"어둠의 눈",
+			"어둠의 핵",
+			"어둠의 부리",
 			"의지가 희미한 파편",
 			"의지가 명확한 조각",
 			"의지가 맴도는 우상"

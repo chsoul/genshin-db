@@ -20,6 +20,7 @@
 		"citlali": "Citlali",
 		"clorinde": "Clorinde",
 		"collei": "Collei",
+		"columbina": "Columbina",
 		"cyno": "Cyno",
 		"dahlia": "Dahlia",
 		"dehya": "Dehya",
@@ -41,6 +42,7 @@
 		"hutao": "Hu Tao",
 		"iansan": "Iansan",
 		"ifa": "Ifa",
+		"illuga": "Illuga",
 		"ineffa": "Ineffa",
 		"jahoda": "Jahoda",
 		"jean": "Jean",
@@ -115,7 +117,8 @@
 		"yoimiya": "Yoimiya",
 		"yumemizukimizuki": "Yumemizuki Mizuki",
 		"yunjin": "Yun Jin",
-		"zhongli": "Zhongli"
+		"zhongli": "Zhongli",
+		"zibai": "Zibai"
 	},
 	"names": {
 		"Aino": "aino",
@@ -138,6 +141,7 @@
 		"Citlali": "citlali",
 		"Clorinde": "clorinde",
 		"Collei": "collei",
+		"Columbina": "columbina",
 		"Cyno": "cyno",
 		"Dahlia": "dahlia",
 		"Dehya": "dehya",
@@ -159,6 +163,7 @@
 		"Hu Tao": "hutao",
 		"Iansan": "iansan",
 		"Ifa": "ifa",
+		"Illuga": "illuga",
 		"Ineffa": "ineffa",
 		"Jahoda": "jahoda",
 		"Jean": "jean",
@@ -233,7 +238,8 @@
 		"Yoimiya": "yoimiya",
 		"Yumemizuki Mizuki": "yumemizukimizuki",
 		"Yun Jin": "yunjin",
-		"Zhongli": "zhongli"
+		"Zhongli": "zhongli",
+		"Zibai": "zibai"
 	},
 	"aliases": {},
 	"categories": {
@@ -258,6 +264,7 @@
 			"citlali",
 			"clorinde",
 			"collei",
+			"columbina",
 			"cyno",
 			"dahlia",
 			"dehya",
@@ -279,6 +286,7 @@
 			"hutao",
 			"iansan",
 			"ifa",
+			"illuga",
 			"ineffa",
 			"jahoda",
 			"jean",
@@ -352,33 +360,40 @@
 			"yoimiya",
 			"yumemizukimizuki",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Cennet Öğretisi": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"Kırık Aks": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Cennet Rehberi": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"Güçlendirilmiş Aks": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Cennet Felsefesi": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"Hassas Aks": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"İpek Tüy": [
@@ -407,6 +422,7 @@
 			"citlali",
 			"clorinde",
 			"collei",
+			"columbina",
 			"cyno",
 			"dahlia",
 			"dehya",
@@ -428,6 +444,7 @@
 			"hutao",
 			"iansan",
 			"ifa",
+			"illuga",
 			"ineffa",
 			"jahoda",
 			"jean",
@@ -501,7 +518,8 @@
 			"yoimiya",
 			"yumemizukimizuki",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Şiir Öğretisi": [
 			"albedo",
@@ -727,6 +745,7 @@
 		],
 		"Bodurlop Özü": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -745,6 +764,7 @@
 		],
 		"Bodurlop Salgıları": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -763,6 +783,7 @@
 		],
 		"Yoğun Bodurlop Özü": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -841,7 +862,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Mantar Sporları": [
 			"baizhu",
@@ -859,7 +881,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Parlak Polen": [
 			"baizhu",
@@ -877,7 +900,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Kristal Toz Kutusu": [
 			"baizhu",
@@ -1266,6 +1290,21 @@
 			"travelerdendro",
 			"wanderer"
 		],
+		"Ay Işığı Öğretisi": [
+			"columbina",
+			"lauma"
+		],
+		"Ay Işığı Rehberi": [
+			"columbina",
+			"lauma"
+		],
+		"Ay Işığı Felsefesi": [
+			"columbina",
+			"lauma"
+		],
+		"Erdemli Doktorun Maskesi": [
+			"columbina"
+		],
 		"Korkunç Generalin İşareti": [
 			"cyno",
 			"kamisatoayato",
@@ -1294,17 +1333,20 @@
 		"Yıpranmış Yetki Belgesi": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Kusursuz Yetki Belgesi": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Donuk Yetki Belgesi": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Aşınmış Güneş Alevi": [
 			"durin",
@@ -1315,6 +1357,7 @@
 		],
 		"Aşınmış Boynuz": [
 			"escoffier",
+			"illuga",
 			"mavuika"
 		],
 		"Ejderler Kralının Tacı": [
@@ -1341,7 +1384,8 @@
 			"jahoda"
 		],
 		"Yükselmiş Örnek: Vezir": [
-			"flins"
+			"flins",
+			"zibai"
 		],
 		"Yalancı Çiçek Nektarı": [
 			"furina",
@@ -1542,15 +1586,6 @@
 			"yoimiya",
 			"yumemizukimizuki"
 		],
-		"Ay Işığı Öğretisi": [
-			"lauma"
-		],
-		"Ay Işığı Rehberi": [
-			"lauma"
-		],
-		"Ay Işığı Felsefesi": [
-			"lauma"
-		],
 		"Dvalin'in Pençesi": [
 			"lisa",
 			"noelle",
@@ -1706,6 +1741,10 @@
 			"Uygulama Öğretisi",
 			"Uygulama Rehberi",
 			"Uygulama Felsefesi",
+			"Ay Işığı Öğretisi",
+			"Ay Işığı Rehberi",
+			"Ay Işığı Felsefesi",
+			"Erdemli Doktorun Maskesi",
 			"Korkunç Generalin İşareti",
 			"Aşınmış Pullu Tüy",
 			"Kukla İpleri",
@@ -1746,9 +1785,6 @@
 			"Fani Dünya Öğretisi",
 			"Fani Dünya Rehberi",
 			"Fani Dünya Felsefesi",
-			"Ay Işığı Öğretisi",
-			"Ay Işığı Rehberi",
-			"Ay Işığı Felsefesi",
 			"Dvalin'in Pençesi",
 			"Eşitlik Öğretisi",
 			"Eşitlik Rehberi",

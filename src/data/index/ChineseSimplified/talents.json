@@ -20,6 +20,7 @@
 		"citlali": "茜特菈莉",
 		"clorinde": "克洛琳德",
 		"collei": "柯莱",
+		"columbina": "哥伦比娅",
 		"cyno": "赛诺",
 		"dahlia": "塔利雅",
 		"dehya": "迪希雅",
@@ -41,6 +42,7 @@
 		"hutao": "胡桃",
 		"iansan": "伊安珊",
 		"ifa": "伊法",
+		"illuga": "叶洛亚",
 		"ineffa": "伊涅芙",
 		"jahoda": "雅珂达",
 		"jean": "琴",
@@ -115,7 +117,8 @@
 		"yoimiya": "宵宫",
 		"yumemizukimizuki": "梦见月瑞希",
 		"yunjin": "云堇",
-		"zhongli": "钟离"
+		"zhongli": "钟离",
+		"zibai": "兹白"
 	},
 	"names": {
 		"爱诺": "aino",
@@ -138,6 +141,7 @@
 		"茜特菈莉": "citlali",
 		"克洛琳德": "clorinde",
 		"柯莱": "collei",
+		"哥伦比娅": "columbina",
 		"赛诺": "cyno",
 		"塔利雅": "dahlia",
 		"迪希雅": "dehya",
@@ -159,6 +163,7 @@
 		"胡桃": "hutao",
 		"伊安珊": "iansan",
 		"伊法": "ifa",
+		"叶洛亚": "illuga",
 		"伊涅芙": "ineffa",
 		"雅珂达": "jahoda",
 		"琴": "jean",
@@ -233,7 +238,8 @@
 		"宵宫": "yoimiya",
 		"梦见月瑞希": "yumemizukimizuki",
 		"云堇": "yunjin",
-		"钟离": "zhongli"
+		"钟离": "zhongli",
+		"兹白": "zibai"
 	},
 	"aliases": {},
 	"categories": {
@@ -258,6 +264,7 @@
 			"citlali",
 			"clorinde",
 			"collei",
+			"columbina",
 			"cyno",
 			"dahlia",
 			"dehya",
@@ -279,6 +286,7 @@
 			"hutao",
 			"iansan",
 			"ifa",
+			"illuga",
 			"ineffa",
 			"jahoda",
 			"jean",
@@ -352,33 +360,40 @@
 			"yoimiya",
 			"yumemizukimizuki",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"「乐园」的教导": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"毁损机轴": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"「乐园」的指引": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"加固机轴": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"「乐园」的哲学": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"精制机轴": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"丝织之羽": [
@@ -407,6 +422,7 @@
 			"citlali",
 			"clorinde",
 			"collei",
+			"columbina",
 			"cyno",
 			"dahlia",
 			"dehya",
@@ -428,6 +444,7 @@
 			"hutao",
 			"iansan",
 			"ifa",
+			"illuga",
 			"ineffa",
 			"jahoda",
 			"jean",
@@ -501,7 +518,8 @@
 			"yoimiya",
 			"yumemizukimizuki",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"「诗文」的教导": [
 			"albedo",
@@ -727,6 +745,7 @@
 		],
 		"史莱姆凝液": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -745,6 +764,7 @@
 		],
 		"史莱姆清": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -763,6 +783,7 @@
 		],
 		"史莱姆原浆": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -841,7 +862,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"蕈兽孢子": [
 			"baizhu",
@@ -859,7 +881,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"荧光孢粉": [
 			"baizhu",
@@ -877,7 +900,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"孢囊晶尘": [
 			"baizhu",
@@ -1266,6 +1290,21 @@
 			"travelerdendro",
 			"wanderer"
 		],
+		"「月光」的教导": [
+			"columbina",
+			"lauma"
+		],
+		"「月光」的指引": [
+			"columbina",
+			"lauma"
+		],
+		"「月光」的哲学": [
+			"columbina",
+			"lauma"
+		],
+		"贤医的假面": [
+			"columbina"
+		],
 		"凶将之手眼": [
 			"cyno",
 			"kamisatoayato",
@@ -1294,17 +1333,20 @@
 		"磨损的执凭": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"精致的执凭": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"霜镌的执凭": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"蚀灭的阳焰": [
 			"durin",
@@ -1315,6 +1357,7 @@
 		],
 		"蚀灭的灵犀": [
 			"escoffier",
+			"illuga",
 			"mavuika"
 		],
 		"龙王之冕": [
@@ -1341,7 +1384,8 @@
 			"jahoda"
 		],
 		"升扬样本·王族": [
-			"flins"
+			"flins",
+			"zibai"
 		],
 		"骗骗花蜜": [
 			"furina",
@@ -1542,15 +1586,6 @@
 			"yoimiya",
 			"yumemizukimizuki"
 		],
-		"「月光」的教导": [
-			"lauma"
-		],
-		"「月光」的指引": [
-			"lauma"
-		],
-		"「月光」的哲学": [
-			"lauma"
-		],
 		"东风之爪": [
 			"lisa",
 			"noelle",
@@ -1706,6 +1741,10 @@
 			"「笃行」的教导",
 			"「笃行」的指引",
 			"「笃行」的哲学",
+			"「月光」的教导",
+			"「月光」的指引",
+			"「月光」的哲学",
+			"贤医的假面",
 			"凶将之手眼",
 			"蚀灭的鳞羽",
 			"傀儡的悬丝",
@@ -1746,9 +1785,6 @@
 			"「浮世」的教导",
 			"「浮世」的指引",
 			"「浮世」的哲学",
-			"「月光」的教导",
-			"「月光」的指引",
-			"「月光」的哲学",
 			"东风之爪",
 			"「公平」的教导",
 			"「公平」的指引",

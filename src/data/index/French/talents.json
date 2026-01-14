@@ -20,6 +20,7 @@
 		"citlali": "Citlali",
 		"clorinde": "Clorinde",
 		"collei": "Collei",
+		"columbina": "Columbina",
 		"cyno": "Cyno",
 		"dahlia": "Dahlia",
 		"dehya": "Dehya",
@@ -41,6 +42,7 @@
 		"hutao": "Hu Tao",
 		"iansan": "Iansan",
 		"ifa": "Ifa",
+		"illuga": "Illuga",
 		"ineffa": "Ineffa",
 		"jahoda": "Jahoda",
 		"jean": "Jean",
@@ -115,7 +117,8 @@
 		"yoimiya": "Yoimiya",
 		"yumemizukimizuki": "Yumemizuki Mizuki",
 		"yunjin": "Yun Jin",
-		"zhongli": "Zhongli"
+		"zhongli": "Zhongli",
+		"zibai": "Zibai"
 	},
 	"names": {
 		"Aino": "aino",
@@ -138,6 +141,7 @@
 		"Citlali": "citlali",
 		"Clorinde": "clorinde",
 		"Collei": "collei",
+		"Columbina": "columbina",
 		"Cyno": "cyno",
 		"Dahlia": "dahlia",
 		"Dehya": "dehya",
@@ -159,6 +163,7 @@
 		"Hu Tao": "hutao",
 		"Iansan": "iansan",
 		"Ifa": "ifa",
+		"Illuga": "illuga",
 		"Ineffa": "ineffa",
 		"Jahoda": "jahoda",
 		"Jean": "jean",
@@ -233,7 +238,8 @@
 		"Yoimiya": "yoimiya",
 		"Yumemizuki Mizuki": "yumemizukimizuki",
 		"Yun Jin": "yunjin",
-		"Zhongli": "zhongli"
+		"Zhongli": "zhongli",
+		"Zibai": "zibai"
 	},
 	"aliases": {},
 	"categories": {
@@ -258,6 +264,7 @@
 			"citlali",
 			"clorinde",
 			"collei",
+			"columbina",
 			"cyno",
 			"dahlia",
 			"dehya",
@@ -279,6 +286,7 @@
 			"hutao",
 			"iansan",
 			"ifa",
+			"illuga",
 			"ineffa",
 			"jahoda",
 			"jean",
@@ -352,33 +360,40 @@
 			"yoimiya",
 			"yumemizukimizuki",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Enseignement de l'Élysium": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"Arbre de transmission cassé": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Guide de l'Élysium": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"Arbre de transmission renforcé": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Philosophie de l'Élysium": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"Arbre de transmission raffiné": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Plume soyeuse": [
@@ -407,6 +422,7 @@
 			"citlali",
 			"clorinde",
 			"collei",
+			"columbina",
 			"cyno",
 			"dahlia",
 			"dehya",
@@ -428,6 +444,7 @@
 			"hutao",
 			"iansan",
 			"ifa",
+			"illuga",
 			"ineffa",
 			"jahoda",
 			"jean",
@@ -501,7 +518,8 @@
 			"yoimiya",
 			"yumemizukimizuki",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Enseignement de la Poésie": [
 			"albedo",
@@ -727,6 +745,7 @@
 		],
 		"Bave de Blob": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -745,6 +764,7 @@
 		],
 		"Mucus de Blob": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -763,6 +783,7 @@
 		],
 		"Essence de Blob": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -841,7 +862,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Spores de Fongus": [
 			"baizhu",
@@ -859,7 +881,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Pollen fluorescent": [
 			"baizhu",
@@ -877,7 +900,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Poussière cristalline de sporange": [
 			"baizhu",
@@ -1266,6 +1290,21 @@
 			"travelerdendro",
 			"wanderer"
 		],
+		"Enseignement de la Lune": [
+			"columbina",
+			"lauma"
+		],
+		"Guide de la Lune": [
+			"columbina",
+			"lauma"
+		],
+		"Philosophie de la Lune": [
+			"columbina",
+			"lauma"
+		],
+		"Masque du médecin vertueux": [
+			"columbina"
+		],
 		"Mudra du général maléfique": [
 			"cyno",
 			"kamisatoayato",
@@ -1294,17 +1333,20 @@
 		"Mandat en lambeaux": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Mandat immaculé": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Mandat gelé": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Rayon érodé": [
 			"durin",
@@ -1315,6 +1357,7 @@
 		],
 		"Corne érodée": [
 			"escoffier",
+			"illuga",
 			"mavuika"
 		],
 		"Couronne du roi-dragon": [
@@ -1341,7 +1384,8 @@
 			"jahoda"
 		],
 		"Échantillon ascensionné : Dame": [
-			"flins"
+			"flins",
+			"zibai"
 		],
 		"Nectar de Fleur mensongère": [
 			"furina",
@@ -1542,15 +1586,6 @@
 			"yoimiya",
 			"yumemizukimizuki"
 		],
-		"Enseignement de la Lune": [
-			"lauma"
-		],
-		"Guide de la Lune": [
-			"lauma"
-		],
-		"Philosophie de la Lune": [
-			"lauma"
-		],
 		"Griffe de Stormterror": [
 			"lisa",
 			"noelle",
@@ -1706,6 +1741,10 @@
 			"Enseignement de l'Usage",
 			"Guide de l'Usage",
 			"Philosophie de l'Usage",
+			"Enseignement de la Lune",
+			"Guide de la Lune",
+			"Philosophie de la Lune",
+			"Masque du médecin vertueux",
 			"Mudra du général maléfique",
 			"Plume érodée",
 			"Fils de marionnette",
@@ -1746,9 +1785,6 @@
 			"Enseignement de l'Éphémère",
 			"Guide de l'Éphémère",
 			"Philosophie de l'Éphémère",
-			"Enseignement de la Lune",
-			"Guide de la Lune",
-			"Philosophie de la Lune",
 			"Griffe de Stormterror",
 			"Enseignement de l'Équité",
 			"Guide de l'Équité",

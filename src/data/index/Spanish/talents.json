@@ -20,6 +20,7 @@
 		"citlali": "Citlalí",
 		"clorinde": "Clorinde",
 		"collei": "Collei",
+		"columbina": "Colombina",
 		"cyno": "Cyno",
 		"dahlia": "Dahlia",
 		"dehya": "Dehya",
@@ -41,6 +42,7 @@
 		"hutao": "Hu Tao",
 		"iansan": "Iansán",
 		"ifa": "Ifá",
+		"illuga": "Illuga",
 		"ineffa": "Ineffa",
 		"jahoda": "Jahoda",
 		"jean": "Jean",
@@ -115,7 +117,8 @@
 		"yoimiya": "Yoimiya",
 		"yumemizukimizuki": "Yumemizuki Mizuki",
 		"yunjin": "Yun Jin",
-		"zhongli": "Zhongli"
+		"zhongli": "Zhongli",
+		"zibai": "Zibai"
 	},
 	"names": {
 		"Aino": "aino",
@@ -138,6 +141,7 @@
 		"Citlalí": "citlali",
 		"Clorinde": "clorinde",
 		"Collei": "collei",
+		"Colombina": "columbina",
 		"Cyno": "cyno",
 		"Dahlia": "dahlia",
 		"Dehya": "dehya",
@@ -159,6 +163,7 @@
 		"Hu Tao": "hutao",
 		"Iansán": "iansan",
 		"Ifá": "ifa",
+		"Illuga": "illuga",
 		"Ineffa": "ineffa",
 		"Jahoda": "jahoda",
 		"Jean": "jean",
@@ -233,7 +238,8 @@
 		"Yoimiya": "yoimiya",
 		"Yumemizuki Mizuki": "yumemizukimizuki",
 		"Yun Jin": "yunjin",
-		"Zhongli": "zhongli"
+		"Zhongli": "zhongli",
+		"Zibai": "zibai"
 	},
 	"aliases": {},
 	"categories": {
@@ -258,6 +264,7 @@
 			"citlali",
 			"clorinde",
 			"collei",
+			"columbina",
 			"cyno",
 			"dahlia",
 			"dehya",
@@ -279,6 +286,7 @@
 			"hutao",
 			"iansan",
 			"ifa",
+			"illuga",
 			"ineffa",
 			"jahoda",
 			"jean",
@@ -352,33 +360,40 @@
 			"yoimiya",
 			"yumemizukimizuki",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Enseñanzas del paraíso": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"Eje dañado": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Guía del paraíso": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"Eje reforzado": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Filosofía del paraíso": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"Eje refinado": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Pluma de seda": [
@@ -407,6 +422,7 @@
 			"citlali",
 			"clorinde",
 			"collei",
+			"columbina",
 			"cyno",
 			"dahlia",
 			"dehya",
@@ -428,6 +444,7 @@
 			"hutao",
 			"iansan",
 			"ifa",
+			"illuga",
 			"ineffa",
 			"jahoda",
 			"jean",
@@ -501,7 +518,8 @@
 			"yoimiya",
 			"yumemizukimizuki",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Enseñanzas de la poesía": [
 			"albedo",
@@ -727,6 +745,7 @@
 		],
 		"Condensado de Slime": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -745,6 +764,7 @@
 		],
 		"Babas de Slime": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -763,6 +783,7 @@
 		],
 		"Esencia de Slime": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -841,7 +862,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Espora fúngica": [
 			"baizhu",
@@ -859,7 +881,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Polen fluorescente": [
 			"baizhu",
@@ -877,7 +900,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Polvo quistecristalino": [
 			"baizhu",
@@ -1266,6 +1290,21 @@
 			"travelerdendro",
 			"wanderer"
 		],
+		"Enseñanzas de la luz lunar": [
+			"columbina",
+			"lauma"
+		],
+		"Guía de la luz lunar": [
+			"columbina",
+			"lauma"
+		],
+		"Filosofía de la luz lunar": [
+			"columbina",
+			"lauma"
+		],
+		"Máscara del doctor virtuoso": [
+			"columbina"
+		],
 		"Mudra de la Shogun implacable": [
 			"cyno",
 			"kamisatoayato",
@@ -1294,17 +1333,20 @@
 		"Distintivo desgastado": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Distintivo sofisticado": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Distintivo escarchado": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Fuego solar corroído": [
 			"durin",
@@ -1315,6 +1357,7 @@
 		],
 		"Cuerno corroído": [
 			"escoffier",
+			"illuga",
 			"mavuika"
 		],
 		"Corona del rey dragón": [
@@ -1341,7 +1384,8 @@
 			"jahoda"
 		],
 		"Muestra ascendida: Reina": [
-			"flins"
+			"flins",
+			"zibai"
 		],
 		"Néctar de Megaflora": [
 			"furina",
@@ -1542,15 +1586,6 @@
 			"yoimiya",
 			"yumemizukimizuki"
 		],
-		"Enseñanzas de la luz lunar": [
-			"lauma"
-		],
-		"Guía de la luz lunar": [
-			"lauma"
-		],
-		"Filosofía de la luz lunar": [
-			"lauma"
-		],
 		"Garra de Stormterror": [
 			"lisa",
 			"noelle",
@@ -1706,6 +1741,10 @@
 			"Enseñanzas de la praxis",
 			"Guía de la praxis",
 			"Filosofía de la praxis",
+			"Enseñanzas de la luz lunar",
+			"Guía de la luz lunar",
+			"Filosofía de la luz lunar",
+			"Máscara del doctor virtuoso",
 			"Mudra de la Shogun implacable",
 			"Plumaescama corroída",
 			"Tubo de marioneta",
@@ -1746,9 +1785,6 @@
 			"Enseñanzas de la transitoriedad",
 			"Guía de la transitoriedad",
 			"Filosofía de la transitoriedad",
-			"Enseñanzas de la luz lunar",
-			"Guía de la luz lunar",
-			"Filosofía de la luz lunar",
 			"Garra de Stormterror",
 			"Enseñanzas de la ecuanimidad",
 			"Guía de la ecuanimidad",

@@ -20,6 +20,7 @@
 		"citlali": "Citlali",
 		"clorinde": "Clorinde",
 		"collei": "Collei",
+		"columbina": "Columbina",
 		"cyno": "Cyno",
 		"dahlia": "Dahlia",
 		"dehya": "Dehya",
@@ -41,6 +42,7 @@
 		"hutao": "Hu Tao",
 		"iansan": "Iansan",
 		"ifa": "Ifa",
+		"illuga": "Illuga",
 		"ineffa": "Ineffa",
 		"jahoda": "Jahoda",
 		"jean": "Jean",
@@ -115,7 +117,8 @@
 		"yoimiya": "Yoimiya",
 		"yumemizukimizuki": "Yumemizuki Mizuki",
 		"yunjin": "Yun Jin",
-		"zhongli": "Zhongli"
+		"zhongli": "Zhongli",
+		"zibai": "Zibai"
 	},
 	"names": {
 		"Aino": "aino",
@@ -138,6 +141,7 @@
 		"Citlali": "citlali",
 		"Clorinde": "clorinde",
 		"Collei": "collei",
+		"Columbina": "columbina",
 		"Cyno": "cyno",
 		"Dahlia": "dahlia",
 		"Dehya": "dehya",
@@ -159,6 +163,7 @@
 		"Hu Tao": "hutao",
 		"Iansan": "iansan",
 		"Ifa": "ifa",
+		"Illuga": "illuga",
 		"Ineffa": "ineffa",
 		"Jahoda": "jahoda",
 		"Jean": "jean",
@@ -233,7 +238,8 @@
 		"Yoimiya": "yoimiya",
 		"Yumemizuki Mizuki": "yumemizukimizuki",
 		"Yun Jin": "yunjin",
-		"Zhongli": "zhongli"
+		"Zhongli": "zhongli",
+		"Zibai": "zibai"
 	},
 	"aliases": {},
 	"categories": {
@@ -258,6 +264,7 @@
 			"citlali",
 			"clorinde",
 			"collei",
+			"columbina",
 			"cyno",
 			"dahlia",
 			"dehya",
@@ -279,6 +286,7 @@
 			"hutao",
 			"iansan",
 			"ifa",
+			"illuga",
 			"ineffa",
 			"jahoda",
 			"jean",
@@ -352,33 +360,40 @@
 			"yoimiya",
 			"yumemizukimizuki",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Lehren des „Elysiums“": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"Zerstörte Maschinenachse": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Anleitung zum „Elysium“": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"Verstärkte Maschinenachse": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Philosophie des „Elysiums“": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"Verfeinerte Maschinenachse": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Seidene Feder": [
@@ -407,6 +422,7 @@
 			"citlali",
 			"clorinde",
 			"collei",
+			"columbina",
 			"cyno",
 			"dahlia",
 			"dehya",
@@ -428,6 +444,7 @@
 			"hutao",
 			"iansan",
 			"ifa",
+			"illuga",
 			"ineffa",
 			"jahoda",
 			"jean",
@@ -501,7 +518,8 @@
 			"yoimiya",
 			"yumemizukimizuki",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Lehren der „Poesie“": [
 			"albedo",
@@ -727,6 +745,7 @@
 		],
 		"Schleimabsonderung": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -745,6 +764,7 @@
 		],
 		"Schleimkondensat": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -763,6 +783,7 @@
 		],
 		"Schleimkonzentrat": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -841,7 +862,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Sporen der Pilzbestie": [
 			"baizhu",
@@ -859,7 +881,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Leuchtendes Sporenpulver": [
 			"baizhu",
@@ -877,7 +900,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Kristalliner Zystenstaub": [
 			"baizhu",
@@ -1266,6 +1290,21 @@
 			"travelerdendro",
 			"wanderer"
 		],
+		"Lehren des „Mondlichts“": [
+			"columbina",
+			"lauma"
+		],
+		"Anleitung zum „Mondlicht“": [
+			"columbina",
+			"lauma"
+		],
+		"Philosophie des „Mondlichts“": [
+			"columbina",
+			"lauma"
+		],
+		"Maske des tugendhaften Arztes": [
+			"columbina"
+		],
 		"Mudra des grimmigen Generals": [
 			"cyno",
 			"kamisatoayato",
@@ -1294,17 +1333,20 @@
 		"Abgenutzter Amtsausweis": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Fein verarbeiteter Amtsausweis": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Frostverzierter Amtsausweis": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Erodiertes Sonnenfeuer": [
 			"durin",
@@ -1315,6 +1357,7 @@
 		],
 		"Erodiertes Horn": [
 			"escoffier",
+			"illuga",
 			"mavuika"
 		],
 		"Horn des Drachenkönigs": [
@@ -1341,7 +1384,8 @@
 			"jahoda"
 		],
 		"Aufstiegsprobe – Dame": [
-			"flins"
+			"flins",
+			"zibai"
 		],
 		"Vaniloqua-Nektar": [
 			"furina",
@@ -1542,15 +1586,6 @@
 			"yoimiya",
 			"yumemizukimizuki"
 		],
-		"Lehren des „Mondlichts“": [
-			"lauma"
-		],
-		"Anleitung zum „Mondlicht“": [
-			"lauma"
-		],
-		"Philosophie des „Mondlichts“": [
-			"lauma"
-		],
 		"Klaue des Ostwinds": [
 			"lisa",
 			"noelle",
@@ -1706,6 +1741,10 @@
 			"Lehren der „Praxis“",
 			"Anleitung zur „Praxis“",
 			"Philosophie der „Praxis“",
+			"Lehren des „Mondlichts“",
+			"Anleitung zum „Mondlicht“",
+			"Philosophie des „Mondlichts“",
+			"Maske des tugendhaften Arztes",
 			"Mudra des grimmigen Generals",
 			"Erodierte Schuppenfeder",
 			"Puppenstränge",
@@ -1746,9 +1785,6 @@
 			"Lehren der „Vergänglichkeit“",
 			"Anleitung zur „Vergänglichkeit“",
 			"Philosophie der „Vergänglichkeit“",
-			"Lehren des „Mondlichts“",
-			"Anleitung zum „Mondlicht“",
-			"Philosophie des „Mondlichts“",
 			"Klaue des Ostwinds",
 			"Lehren der „Fairness“",
 			"Anleitung zur „Fairness“",

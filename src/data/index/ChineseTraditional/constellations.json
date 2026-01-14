@@ -20,6 +20,7 @@
 		"citlali": "茜特菈莉",
 		"clorinde": "克洛琳德",
 		"collei": "柯萊",
+		"columbina": "哥倫比婭",
 		"cyno": "賽諾",
 		"dahlia": "塔利雅",
 		"dehya": "迪希雅",
@@ -41,6 +42,7 @@
 		"hutao": "胡桃",
 		"iansan": "伊安珊",
 		"ifa": "伊法",
+		"illuga": "葉洛亞",
 		"ineffa": "伊涅芙",
 		"jahoda": "雅珂達",
 		"jean": "琴",
@@ -112,7 +114,8 @@
 		"yoimiya": "宵宮",
 		"yumemizukimizuki": "夢見月瑞希",
 		"yunjin": "雲堇",
-		"zhongli": "鍾離"
+		"zhongli": "鍾離",
+		"zibai": "茲白"
 	},
 	"names": {
 		"愛諾": "aino",
@@ -135,6 +138,7 @@
 		"茜特菈莉": "citlali",
 		"克洛琳德": "clorinde",
 		"柯萊": "collei",
+		"哥倫比婭": "columbina",
 		"賽諾": "cyno",
 		"塔利雅": "dahlia",
 		"迪希雅": "dehya",
@@ -156,6 +160,7 @@
 		"胡桃": "hutao",
 		"伊安珊": "iansan",
 		"伊法": "ifa",
+		"葉洛亞": "illuga",
 		"伊涅芙": "ineffa",
 		"雅珂達": "jahoda",
 		"琴": "jean",
@@ -227,7 +232,8 @@
 		"宵宮": "yoimiya",
 		"夢見月瑞希": "yumemizukimizuki",
 		"雲堇": "yunjin",
-		"鍾離": "zhongli"
+		"鍾離": "zhongli",
+		"茲白": "zibai"
 	},
 	"aliases": {},
 	"categories": {},

@@ -21,6 +21,7 @@
 		"citlali": "Citlali",
 		"clorinde": "Clorinde",
 		"collei": "Collei",
+		"columbina": "Columbina",
 		"cyno": "Cyno",
 		"dahlia": "Dahlia",
 		"dehya": "Dehya",
@@ -42,6 +43,7 @@
 		"hutao": "Hu Tao",
 		"iansan": "Iansan",
 		"ifa": "Ifa",
+		"illuga": "Illuga",
 		"ineffa": "Ineffa",
 		"jahoda": "Jahoda",
 		"jean": "Jean",
@@ -110,7 +112,8 @@
 		"yoimiya": "Yoimiya",
 		"yumemizukimizuki": "Yumemizuki Mizuki",
 		"yunjin": "Yun Jin",
-		"zhongli": "Zhongli"
+		"zhongli": "Zhongli",
+		"zibai": "Zibai"
 	},
 	"names": {
 		"Aether": "aether",
@@ -134,6 +137,7 @@
 		"Citlali": "citlali",
 		"Clorinde": "clorinde",
 		"Collei": "collei",
+		"Columbina": "columbina",
 		"Cyno": "cyno",
 		"Dahlia": "dahlia",
 		"Dehya": "dehya",
@@ -155,6 +159,7 @@
 		"Hu Tao": "hutao",
 		"Iansan": "iansan",
 		"Ifa": "ifa",
+		"Illuga": "illuga",
 		"Ineffa": "ineffa",
 		"Jahoda": "jahoda",
 		"Jean": "jean",
@@ -223,7 +228,8 @@
 		"Yoimiya": "yoimiya",
 		"Yumemizuki Mizuki": "yumemizukimizuki",
 		"Yun Jin": "yunjin",
-		"Zhongli": "zhongli"
+		"Zhongli": "zhongli",
+		"Zibai": "zibai"
 	},
 	"aliases": {
 		"Viator": "aether",
@@ -267,6 +273,8 @@
 		"Rapperia": "clorinde",
 		"Sprout of Rebirth": "collei",
 		"Leptailurus Cervarius": "collei",
+		"Welkin Moon's Homecoming": "columbina",
+		"???": "neuvillette",
 		"Judicator of Secrets": "cyno",
 		"Lupus Aureus": "cyno",
 		"Ode and Oblation": "dahlia",
@@ -309,6 +317,8 @@
 		"Carnotaurus": "iansan",
 		"In the Wake of Wandering Winds": "ifa",
 		"Catena Opele": "ifa",
+		"Nightmare's Burning Heart": "illuga",
+		"Oriolus": "illuga",
 		"Boom Boom Thunderwave": "ineffa",
 		"Vanilla Planifolia": "ineffa",
 		"Windthreading Shadow": "jahoda",
@@ -368,7 +378,6 @@
 		"Secret Beneath the Sands": "nefer",
 		"Ludus Latrunculorum": "nefer",
 		"Ordainer of Inexorable Judgment": "neuvillette",
-		"???": "neuvillette",
 		"Dance of Lotuslight": "nilou",
 		"Lotos Somno": "nilou",
 		"Eclipsing Star": "ningguang",
@@ -442,7 +451,9 @@
 		"Stage Lucida": "yunjin",
 		"Opera Grandis": "yunjin",
 		"Vago Mundo": "zhongli",
-		"Lapis Dei": "zhongli"
+		"Lapis Dei": "zhongli",
+		"White Horse's Fleeting Spring": "zibai",
+		"Equa Alba": "zibai"
 	},
 	"categories": {
 		"4": [
@@ -466,6 +477,7 @@
 			"gorou",
 			"iansan",
 			"ifa",
+			"illuga",
 			"jahoda",
 			"kachina",
 			"kaeya",
@@ -507,6 +519,7 @@
 			"chiori",
 			"citlali",
 			"clorinde",
+			"columbina",
 			"cyno",
 			"dehya",
 			"diluc",
@@ -558,7 +571,8 @@
 			"yelan",
 			"yoimiya",
 			"yumemizukimizuki",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"ELEMENT_NONE": [
 			"aether",
@@ -593,7 +607,8 @@
 			"qiqi",
 			"skirk",
 			"xilonen",
-			"xingqiu"
+			"xingqiu",
+			"zibai"
 		],
 		"FIGHT_PROP_ATTACK_PERCENT": [
 			"aether",
@@ -636,6 +651,7 @@
 			"gaming",
 			"gorou",
 			"ifa",
+			"illuga",
 			"kaedeharakazuha",
 			"kaeya",
 			"kamisatoayato",
@@ -681,6 +697,7 @@
 			"citlali",
 			"clorinde",
 			"collei",
+			"columbina",
 			"cyno",
 			"dahlia",
 			"dehya",
@@ -702,6 +719,7 @@
 			"hutao",
 			"iansan",
 			"ifa",
+			"illuga",
 			"ineffa",
 			"jahoda",
 			"jean",
@@ -770,7 +788,8 @@
 			"yoimiya",
 			"yumemizukimizuki",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Brilliant Diamond Sliver": [
 			"aether",
@@ -834,6 +853,7 @@
 			"aino",
 			"barbara",
 			"candace",
+			"columbina",
 			"dahlia",
 			"furina",
 			"kamisatoayato",
@@ -871,6 +891,7 @@
 			"aino",
 			"citlali",
 			"ifa",
+			"illuga",
 			"kaedeharakazuha",
 			"kaveh",
 			"lauma",
@@ -896,6 +917,7 @@
 			"citlali",
 			"clorinde",
 			"collei",
+			"columbina",
 			"dehya",
 			"diona",
 			"dori",
@@ -954,11 +976,14 @@
 			"yelan",
 			"yoimiya",
 			"yumemizukimizuki",
-			"yunjin"
+			"yunjin",
+			"zibai"
 		],
 		"Nod-Krai": [
 			"aino",
+			"columbina",
 			"flins",
+			"illuga",
 			"ineffa",
 			"jahoda",
 			"lauma",
@@ -978,6 +1003,7 @@
 			"aino",
 			"barbara",
 			"candace",
+			"columbina",
 			"dahlia",
 			"furina",
 			"kamisatoayato",
@@ -998,12 +1024,14 @@
 		"Broken Drive Shaft": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Varunada Lazurite Fragment": [
 			"aino",
 			"barbara",
 			"candace",
+			"columbina",
 			"dahlia",
 			"furina",
 			"kamisatoayato",
@@ -1024,12 +1052,14 @@
 		"Reinforced Drive Shaft": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Varunada Lazurite Chunk": [
 			"aino",
 			"barbara",
 			"candace",
+			"columbina",
 			"dahlia",
 			"furina",
 			"kamisatoayato",
@@ -1046,12 +1076,14 @@
 		"Precision Drive Shaft": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Varunada Lazurite Gemstone": [
 			"aino",
 			"barbara",
 			"candace",
+			"columbina",
 			"dahlia",
 			"furina",
 			"kamisatoayato",
@@ -1070,13 +1102,15 @@
 			"aratakiitto",
 			"chiori",
 			"gorou",
+			"illuga",
 			"kachina",
 			"navia",
 			"ningguang",
 			"noelle",
 			"xilonen",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"FIGHT_PROP_ROCK_ADD_HURT": [
 			"albedo",
@@ -1113,13 +1147,15 @@
 			"aratakiitto",
 			"chiori",
 			"gorou",
+			"illuga",
 			"kachina",
 			"navia",
 			"ningguang",
 			"noelle",
 			"xilonen",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Cecilia": [
 			"albedo",
@@ -1140,13 +1176,15 @@
 			"aratakiitto",
 			"chiori",
 			"gorou",
+			"illuga",
 			"kachina",
 			"navia",
 			"ningguang",
 			"noelle",
 			"xilonen",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Basalt Pillar": [
 			"albedo",
@@ -1169,13 +1207,15 @@
 			"aratakiitto",
 			"chiori",
 			"gorou",
+			"illuga",
 			"kachina",
 			"navia",
 			"ningguang",
 			"noelle",
 			"xilonen",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Forbidden Curse Scroll": [
 			"albedo",
@@ -1192,13 +1232,15 @@
 			"aratakiitto",
 			"chiori",
 			"gorou",
+			"illuga",
 			"kachina",
 			"navia",
 			"ningguang",
 			"noelle",
 			"xilonen",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"ELEMENT_DENDRO": [
 			"alhaitham",
@@ -1647,6 +1689,7 @@
 			"chasca",
 			"chiori",
 			"clorinde",
+			"columbina",
 			"diluc",
 			"escoffier",
 			"furina",
@@ -1695,6 +1738,7 @@
 		],
 		"Slime Condensate": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -1709,6 +1753,7 @@
 		],
 		"Slime Secretions": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -1719,6 +1764,7 @@
 		],
 		"Slime Concentrate": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -1737,6 +1783,7 @@
 			"flins",
 			"hutao",
 			"iansan",
+			"illuga",
 			"ineffa",
 			"kachina",
 			"mika",
@@ -1768,7 +1815,8 @@
 			"nefer",
 			"neuvillette",
 			"skirk",
-			"wriothesley"
+			"wriothesley",
+			"zibai"
 		],
 		"Snezhnaya": [
 			"arlecchino",
@@ -1817,6 +1865,7 @@
 			"barbara",
 			"charlotte",
 			"citlali",
+			"columbina",
 			"ifa",
 			"klee",
 			"lanyan",
@@ -2090,7 +2139,8 @@
 			"gorou",
 			"nefer",
 			"sethos",
-			"yunjin"
+			"yunjin",
+			"zibai"
 		],
 		"Henna Berry": [
 			"candace",
@@ -2187,6 +2237,7 @@
 			"dori",
 			"gaming",
 			"ganyu",
+			"illuga",
 			"layla",
 			"neuvillette",
 			"nilou",
@@ -2301,6 +2352,7 @@
 		"January": [
 			"chevreuse",
 			"citlali",
+			"columbina",
 			"diona",
 			"jahoda",
 			"kirara",
@@ -2380,6 +2432,13 @@
 			"collei",
 			"tighnari"
 		],
+		"Winter Icelea": [
+			"columbina"
+		],
+		"Radiant Antler": [
+			"columbina",
+			"nefer"
+		],
 		"Scarab": [
 			"cyno"
 		],
@@ -2422,20 +2481,24 @@
 		"Tattered Warrant": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Cyclic Military Kuuvahki Core": [
-			"durin"
+			"durin",
+			"illuga"
 		],
 		"Immaculate Warrant": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Frost-Etched Warrant": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Lakelight Lily": [
 			"emilie",
@@ -2566,6 +2629,9 @@
 		"Sparkless Statue Core": [
 			"ifa",
 			"varesa"
+		],
+		"Pine Amber": [
+			"illuga"
 		],
 		"Glowing Hornshroom": [
 			"ineffa",
@@ -2717,15 +2783,13 @@
 		"Spring of the First Dewdrop": [
 			"navia"
 		],
-		"Radiant Antler": [
-			"nefer"
-		],
 		"Padisarah": [
 			"nilou"
 		],
 		"Glaze Lily": [
 			"ningguang",
-			"yunjin"
+			"yunjin",
+			"zibai"
 		],
 		"FIGHT_PROP_DEFENSE_PERCENT": [
 			"noelle",
@@ -2769,6 +2833,9 @@
 		],
 		"Brilliant Chrysanthemum": [
 			"xilonen"
+		],
+		"Remnant of the Dreadwing": [
+			"zibai"
 		]
 	},
 	"properties": {
@@ -2926,6 +2993,8 @@
 			"Xenochromatic Crystal",
 			"Rukkhashava Mushrooms",
 			"Majestic Hooked Beak",
+			"Winter Icelea",
+			"Radiant Antler",
 			"Scarab",
 			"Thunderclap Fruitcore",
 			"Calla Lily",
@@ -2957,6 +3026,7 @@
 			"Saurian-Crowned Warrior's Golden Whistle",
 			"Saurian Claw Succulent",
 			"Sparkless Statue Core",
+			"Pine Amber",
 			"Glowing Hornshroom",
 			"Lightbearing Scale-Feather",
 			"Hurricane Seed",
@@ -2984,7 +3054,6 @@
 			"Sprayfeather Gill",
 			"Mark of the Binding Blessing",
 			"Spring of the First Dewdrop",
-			"Radiant Antler",
 			"Padisarah",
 			"Glaze Lily",
 			"Trishiraite",
@@ -2995,7 +3064,8 @@
 			"Smoldering Pearl",
 			"Subdetection Unit",
 			"Jueyun Chili",
-			"Brilliant Chrysanthemum"
+			"Brilliant Chrysanthemum",
+			"Remnant of the Dreadwing"
 		],
 		"region": [
 			"Nod-Krai",

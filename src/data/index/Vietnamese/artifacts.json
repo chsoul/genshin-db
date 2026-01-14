@@ -1,7 +1,9 @@
 {
 	"namemap": {
+		"adaycarvedfromrisingwinds": "Ngày Nổi Gió",
 		"adventurer": "Nhà Mạo Hiểm",
 		"archaicpetra": "Phiến Đá Lâu Đời",
+		"aubadeofmorningstarandmoon": "Khúc Ca Của Trăng Và Sao Mai",
 		"berserker": "Cuồng Chiến",
 		"blizzardstrayer": "Dũng Sĩ Trong Băng Giá",
 		"bloodstainedchivalry": "Kỵ Sĩ Đạo Nhuốm Máu",
@@ -59,8 +61,10 @@
 		"wandererstroupe": "Đoàn Hát Lang Thang Đại Lục"
 	},
 	"names": {
+		"Ngày Nổi Gió": "adaycarvedfromrisingwinds",
 		"Nhà Mạo Hiểm": "adventurer",
 		"Phiến Đá Lâu Đời": "archaicpetra",
+		"Khúc Ca Của Trăng Và Sao Mai": "aubadeofmorningstarandmoon",
 		"Cuồng Chiến": "berserker",
 		"Dũng Sĩ Trong Băng Giá": "blizzardstrayer",
 		"Kỵ Sĩ Đạo Nhuốm Máu": "bloodstainedchivalry",
@@ -118,6 +122,11 @@
 		"Đoàn Hát Lang Thang Đại Lục": "wandererstroupe"
 	},
 	"aliases": {
+		"Lời Răn Của Hoa Gió": "adaycarvedfromrisingwinds",
+		"Lời Thề Nguyện Ánh Sáng": "adaycarvedfromrisingwinds",
+		"Khoảnh Khắc Của Mùa Xuân": "adaycarvedfromrisingwinds",
+		"Lời Tiệc Rượu Chưa Nói": "adaycarvedfromrisingwinds",
+		"Khúc Tình Ca Đau Thương": "adaycarvedfromrisingwinds",
 		"Hoa Nhà Mạo Hiểm": "adventurer",
 		"Lông Vũ Nhà Mạo Hiểm": "adventurer",
 		"Đồng Hồ Nhà Mạo Hiểm": "adventurer",
@@ -128,6 +137,11 @@
 		"Cát Tinh Đà": "archaicpetra",
 		"Ly Ngọc Bàn Thạch": "archaicpetra",
 		"Mặt Nạ Huyền Thạch": "archaicpetra",
+		"Mộng Đẹp Dâng Trăng": "aubadeofmorningstarandmoon",
+		"Ánh Sáng Dâng Trăng": "aubadeofmorningstarandmoon",
+		"Giây Cuối Dâng Trăng": "aubadeofmorningstarandmoon",
+		"Rượu Tế Dâng Trăng": "aubadeofmorningstarandmoon",
+		"Mũ Bạc Dâng Trăng": "aubadeofmorningstarandmoon",
 		"Tường Vi Cuồng Chiến": "berserker",
 		"Lông Vũ Cuồng Chiến": "berserker",
 		"Đồng Hồ Cuồng Chiến": "berserker",
@@ -419,7 +433,9 @@
 			"travelingdoctor"
 		],
 		"4": [
+			"adaycarvedfromrisingwinds",
 			"archaicpetra",
+			"aubadeofmorningstarandmoon",
 			"berserker",
 			"blizzardstrayer",
 			"bloodstainedchivalry",
@@ -475,7 +491,9 @@
 			"wandererstroupe"
 		],
 		"5": [
+			"adaycarvedfromrisingwinds",
 			"archaicpetra",
+			"aubadeofmorningstarandmoon",
 			"blizzardstrayer",
 			"bloodstainedchivalry",
 			"crimsonwitchofflames",
@@ -519,11 +537,11 @@
 	},
 	"properties": {
 		"rarityList": [
+			4,
+			5,
 			1,
 			2,
-			3,
-			4,
-			5
+			3
 		]
 	}
 }

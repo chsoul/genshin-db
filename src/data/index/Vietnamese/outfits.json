@@ -12,6 +12,8 @@
 		"ardentsoul": "Linh Hồn Mong Mỏi",
 		"argentchimes": "Chuông Bạc Lung Linh",
 		"armoredrose": "Hoa Hồng Sắt",
+		"asheavenandeartharemadeanewaether": "Phục Địa Trùng Thiên",
+		"asheavenandeartharemadeanewlumine": "Phục Địa Trùng Thiên",
 		"asobriquetundershade": "Danh Vang Trong Lá",
 		"awrathfulvoid": "Phẫn Nộ Trống Rỗng",
 		"azuresilk": "Áo Gấm Lan Ngọc",
@@ -65,10 +67,13 @@
 		"innocentlonging": "Mong Đợi Ngây Thơ",
 		"machinehunter": "Thợ Săn Cơ Động",
 		"mechanicaldreams": "Giấc Mơ Máy Móc",
+		"melusentgift": "Quà Tặng Của Melusine",
 		"mikosinstruction": "Chỉ Dụ Của Miko",
 		"minimujina": "Mini Mujina",
 		"mistcloudstage": "Khói Thoảng Mây Trôi",
 		"moonglare": "Ánh Trăng",
+		"moonlitcourser": "Ngựa Trắng Mời Trăng",
+		"moonweavegossamer": "Cắt Sáng Dệt Trăng",
 		"narukamislaw": "Lễ Phục Tôn Chủ Narukami Ogosho Đại Nhân",
 		"neitherflowernormist": "Tựa Sương Tựa Hoa",
 		"newmoonstarlight": "Ánh Sao Le Lói",
@@ -89,6 +94,7 @@
 		"pristineprayers": "Lời Cầu Nguyện Nguyên Sơ",
 		"purespirit": "Thanh Tẩy Tâm Hồn",
 		"purplerose": "Tường Vi Tím Đỏ",
+		"rainlitbambooreverie": "Lắng Nghe Mưa Trúc",
 		"rangingrainbow": "Vạn Lý Phi Hồng",
 		"reddeadofnight": "Màn Đêm Đỏ Thẫm",
 		"redpepperandturmeric": "Đỏ Tiêu Vàng Nghệ",
@@ -106,6 +112,7 @@
 		"sparklingcoralbone": "Nhánh San Hô Lấp Lánh",
 		"spiritedvalor": "Võ Thuật Vũ Bão",
 		"springbloommissive": "Thư Từ Hoa Xuân",
+		"steadfastresolve": "Chấp Niệm Bền Bỉ",
 		"sugarrush": "Niềm Vui Ngọt Ngào",
 		"sugarybrew": "Kẹo Ngọt Ủ Đường",
 		"summerchilldreams": "Giấc Mộng Băng Hè",
@@ -147,6 +154,7 @@
 		"Linh Hồn Mong Mỏi": "ardentsoul",
 		"Chuông Bạc Lung Linh": "argentchimes",
 		"Hoa Hồng Sắt": "armoredrose",
+		"Phục Địa Trùng Thiên": "asheavenandeartharemadeanewaether",
 		"Danh Vang Trong Lá": "asobriquetundershade",
 		"Phẫn Nộ Trống Rỗng": "awrathfulvoid",
 		"Áo Gấm Lan Ngọc": "azuresilk",
@@ -200,10 +208,13 @@
 		"Mong Đợi Ngây Thơ": "innocentlonging",
 		"Thợ Săn Cơ Động": "machinehunter",
 		"Giấc Mơ Máy Móc": "mechanicaldreams",
+		"Quà Tặng Của Melusine": "melusentgift",
 		"Chỉ Dụ Của Miko": "mikosinstruction",
 		"Mini Mujina": "minimujina",
 		"Khói Thoảng Mây Trôi": "mistcloudstage",
 		"Ánh Trăng": "moonglare",
+		"Ngựa Trắng Mời Trăng": "moonlitcourser",
+		"Cắt Sáng Dệt Trăng": "moonweavegossamer",
 		"Lễ Phục Tôn Chủ Narukami Ogosho Đại Nhân": "narukamislaw",
 		"Tựa Sương Tựa Hoa": "neitherflowernormist",
 		"Ánh Sao Le Lói": "newmoonstarlight",
@@ -224,6 +235,7 @@
 		"Lời Cầu Nguyện Nguyên Sơ": "pristineprayers",
 		"Thanh Tẩy Tâm Hồn": "purespirit",
 		"Tường Vi Tím Đỏ": "purplerose",
+		"Lắng Nghe Mưa Trúc": "rainlitbambooreverie",
 		"Vạn Lý Phi Hồng": "rangingrainbow",
 		"Màn Đêm Đỏ Thẫm": "reddeadofnight",
 		"Đỏ Tiêu Vàng Nghệ": "redpepperandturmeric",
@@ -240,6 +252,7 @@
 		"Nhánh San Hô Lấp Lánh": "sparklingcoralbone",
 		"Võ Thuật Vũ Bão": "spiritedvalor",
 		"Thư Từ Hoa Xuân": "springbloommissive",
+		"Chấp Niệm Bền Bỉ": "steadfastresolve",
 		"Niềm Vui Ngọt Ngào": "sugarrush",
 		"Kẹo Ngọt Ủ Đường": "sugarybrew",
 		"Giấc Mộng Băng Hè": "summerchilldreams",
@@ -306,6 +319,14 @@
 		"Noelle": [
 			"armoredrose"
 		],
+		"Aether": [
+			"asheavenandeartharemadeanewaether",
+			"risingstaraether"
+		],
+		"Lumine": [
+			"asheavenandeartharemadeanewlumine",
+			"risingstarlumine"
+		],
 		"Lisa": [
 			"asobriquetundershade",
 			"purplerose"
@@ -339,10 +360,12 @@
 			"plumblossombouquet"
 		],
 		"Yaoyao": [
-			"cherubicosmanthus"
+			"cherubicosmanthus",
+			"rainlitbambooreverie"
 		],
 		"Neuvillette": [
-			"clearadjudication"
+			"clearadjudication",
+			"melusentgift"
 		],
 		"Furina": [
 			"coronatedprimadonna"
@@ -482,6 +505,12 @@
 		"Arlecchino": [
 			"moonglare"
 		],
+		"Zibai": [
+			"moonlitcourser"
+		],
+		"Columbina": [
+			"moonweavegossamer"
+		],
 		"Raiden Shogun": [
 			"narukamislaw"
 		],
@@ -530,12 +559,6 @@
 		"Gaming": [
 			"rangingrainbow"
 		],
-		"Aether": [
-			"risingstaraether"
-		],
-		"Lumine": [
-			"risingstarlumine"
-		],
 		"Beidou": [
 			"rollingwaves"
 		],
@@ -559,6 +582,9 @@
 		],
 		"Shikanoin Heizou": [
 			"spiritedvalor"
+		],
+		"Illuga": [
+			"steadfastresolve"
 		],
 		"Varesa": [
 			"sugarrush"
@@ -635,6 +661,8 @@
 			"Xinyan",
 			"Lan Yan",
 			"Noelle",
+			"Aether",
+			"Lumine",
 			"Lisa",
 			"Kẻ Lang Thang",
 			"Xingqiu",
@@ -688,6 +716,8 @@
 			"Sayu",
 			"Yun Jin",
 			"Arlecchino",
+			"Zibai",
+			"Columbina",
 			"Raiden Shogun",
 			"Albedo",
 			"Xiangling",
@@ -703,8 +733,6 @@
 			"Dahlia",
 			"Chongyun",
 			"Gaming",
-			"Aether",
-			"Lumine",
 			"Beidou",
 			"Skirk",
 			"Kamisato Ayato",
@@ -713,6 +741,7 @@
 			"Escoffier",
 			"Sangonomiya Kokomi",
 			"Shikanoin Heizou",
+			"Illuga",
 			"Varesa",
 			"Diona",
 			"Qiqi",

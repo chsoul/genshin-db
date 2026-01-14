@@ -20,6 +20,7 @@
 		"citlali": "シトラリ",
 		"clorinde": "クロリンデ",
 		"collei": "コレイ",
+		"columbina": "コロンビーナ",
 		"cyno": "セノ",
 		"dahlia": "ダリア",
 		"dehya": "ディシア",
@@ -41,6 +42,7 @@
 		"hutao": "胡桃",
 		"iansan": "イアンサ",
 		"ifa": "イファ",
+		"illuga": "イルーガ",
 		"ineffa": "イネファ",
 		"jahoda": "ヤフォダ",
 		"jean": "ジン",
@@ -115,7 +117,8 @@
 		"yoimiya": "宵宮",
 		"yumemizukimizuki": "夢見月瑞希",
 		"yunjin": "雲菫",
-		"zhongli": "鍾離"
+		"zhongli": "鍾離",
+		"zibai": "兹白"
 	},
 	"names": {
 		"アイノ": "aino",
@@ -138,6 +141,7 @@
 		"シトラリ": "citlali",
 		"クロリンデ": "clorinde",
 		"コレイ": "collei",
+		"コロンビーナ": "columbina",
 		"セノ": "cyno",
 		"ダリア": "dahlia",
 		"ディシア": "dehya",
@@ -159,6 +163,7 @@
 		"胡桃": "hutao",
 		"イアンサ": "iansan",
 		"イファ": "ifa",
+		"イルーガ": "illuga",
 		"イネファ": "ineffa",
 		"ヤフォダ": "jahoda",
 		"ジン": "jean",
@@ -233,7 +238,8 @@
 		"宵宮": "yoimiya",
 		"夢見月瑞希": "yumemizukimizuki",
 		"雲菫": "yunjin",
-		"鍾離": "zhongli"
+		"鍾離": "zhongli",
+		"兹白": "zibai"
 	},
 	"aliases": {},
 	"categories": {
@@ -258,6 +264,7 @@
 			"citlali",
 			"clorinde",
 			"collei",
+			"columbina",
 			"cyno",
 			"dahlia",
 			"dehya",
@@ -279,6 +286,7 @@
 			"hutao",
 			"iansan",
 			"ifa",
+			"illuga",
 			"ineffa",
 			"jahoda",
 			"jean",
@@ -352,33 +360,40 @@
 			"yoimiya",
 			"yumemizukimizuki",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"「楽園」の教え": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"破損した駆動軸": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"「楽園」の導き": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"強固な駆動軸": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"「楽園」の哲学": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"精巧な駆動軸": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"絹織りの羽": [
@@ -407,6 +422,7 @@
 			"citlali",
 			"clorinde",
 			"collei",
+			"columbina",
 			"cyno",
 			"dahlia",
 			"dehya",
@@ -428,6 +444,7 @@
 			"hutao",
 			"iansan",
 			"ifa",
+			"illuga",
 			"ineffa",
 			"jahoda",
 			"jean",
@@ -501,7 +518,8 @@
 			"yoimiya",
 			"yumemizukimizuki",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"「詩文」の教え": [
 			"albedo",
@@ -727,6 +745,7 @@
 		],
 		"スライムの液体": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -745,6 +764,7 @@
 		],
 		"スライムの分泌物": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -763,6 +783,7 @@
 		],
 		"スライムのピュレ": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -841,7 +862,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"キノコンの胞子": [
 			"baizhu",
@@ -859,7 +881,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"キノコンの蛍胞子": [
 			"baizhu",
@@ -877,7 +900,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"キノコンの晶胞子": [
 			"baizhu",
@@ -1266,6 +1290,21 @@
 			"travelerdendro",
 			"wanderer"
 		],
+		"「月光」の教え": [
+			"columbina",
+			"lauma"
+		],
+		"「月光」の導き": [
+			"columbina",
+			"lauma"
+		],
+		"「月光」の哲学": [
+			"columbina",
+			"lauma"
+		],
+		"賢医の仮面": [
+			"columbina"
+		],
 		"凶将の手眼": [
 			"cyno",
 			"kamisatoayato",
@@ -1294,17 +1333,20 @@
 		"破損した徽章": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"精巧な徽章": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"霜刻の徽章": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"蝕滅の陽炎": [
 			"durin",
@@ -1315,6 +1357,7 @@
 		],
 		"蝕滅の焔角": [
 			"escoffier",
+			"illuga",
 			"mavuika"
 		],
 		"龍王の冠": [
@@ -1341,7 +1384,8 @@
 			"jahoda"
 		],
 		"昇揚のサンプル「王族」": [
-			"flins"
+			"flins",
+			"zibai"
 		],
 		"トリックフラワーの蜜": [
 			"furina",
@@ -1542,15 +1586,6 @@
 			"yoimiya",
 			"yumemizukimizuki"
 		],
-		"「月光」の教え": [
-			"lauma"
-		],
-		"「月光」の導き": [
-			"lauma"
-		],
-		"「月光」の哲学": [
-			"lauma"
-		],
 		"東風の爪": [
 			"lisa",
 			"noelle",
@@ -1706,6 +1741,10 @@
 			"「篤行」の教え",
 			"「篤行」の導き",
 			"「篤行」の哲学",
+			"「月光」の教え",
+			"「月光」の導き",
+			"「月光」の哲学",
+			"賢医の仮面",
 			"凶将の手眼",
 			"蝕滅の羽鱗",
 			"傀儡の糸",
@@ -1746,9 +1785,6 @@
 			"「浮世」の教え",
 			"「浮世」の導き",
 			"「浮世」の哲学",
-			"「月光」の教え",
-			"「月光」の導き",
-			"「月光」の哲学",
 			"東風の爪",
 			"「公平」の教え",
 			"「公平」の導き",

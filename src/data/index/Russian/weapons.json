@@ -95,6 +95,7 @@
 		"keyofkhajnisut": "Ключ Хадж-нисут",
 		"kingssquire": "Приближённый короля",
 		"kitaincrossspear": "Крест-копьё Китаин",
+		"lightbearingmoonshard": "Светоносный осколок луны",
 		"lightoffoliarincision": "Свет лиственного разреза",
 		"lionsroar": "Драконий рык",
 		"lithicblade": "Каменный меч",
@@ -117,6 +118,7 @@
 		"mountainbracingbolt": "Крепящий горы шип",
 		"mouunsmoon": "Луна Моун",
 		"nightweaverslookingglass": "Зеркало прядильщицы ночи",
+		"nocturnescurtaincall": "Вызов ноктюрна",
 		"oathsworneye": "Око клятвы",
 		"oldmercspal": "Лучший друг наёмника",
 		"otherworldlystory": "Потусторонняя история",
@@ -327,6 +329,7 @@
 		"Ключ Хадж-нисут": "keyofkhajnisut",
 		"Приближённый короля": "kingssquire",
 		"Крест-копьё Китаин": "kitaincrossspear",
+		"Светоносный осколок луны": "lightbearingmoonshard",
 		"Свет лиственного разреза": "lightoffoliarincision",
 		"Драконий рык": "lionsroar",
 		"Каменный меч": "lithicblade",
@@ -349,6 +352,7 @@
 		"Крепящий горы шип": "mountainbracingbolt",
 		"Луна Моун": "mouunsmoon",
 		"Зеркало прядильщицы ночи": "nightweaverslookingglass",
+		"Вызов ноктюрна": "nocturnescurtaincall",
 		"Око клятвы": "oathsworneye",
 		"Лучший друг наёмника": "oldmercspal",
 		"Потусторонняя история": "otherworldlystory",
@@ -668,12 +672,14 @@
 			"jadefallssplendor",
 			"kagurasverity",
 			"keyofkhajnisut",
+			"lightbearingmoonshard",
 			"lightoffoliarincision",
 			"lostprayertothesacredwinds",
 			"lumidouceelegy",
 			"memoryofdust",
 			"mistsplitterreforged",
 			"nightweaverslookingglass",
+			"nocturnescurtaincall",
 			"peakpatrolsong",
 			"polarstar",
 			"primordialjadecutter",
@@ -731,6 +737,7 @@
 			"ironsting",
 			"kagotsurubeisshin",
 			"keyofkhajnisut",
+			"lightbearingmoonshard",
 			"lightoffoliarincision",
 			"lionsroar",
 			"mistsplitterreforged",
@@ -776,9 +783,11 @@
 			"fracturedhalo",
 			"harbingerofdawn",
 			"kagurasverity",
+			"lightbearingmoonshard",
 			"lightoffoliarincision",
 			"messenger",
 			"mistsplitterreforged",
+			"nocturnescurtaincall",
 			"redhornstonethresher",
 			"reliquaryoftruth",
 			"sharpshootersoath",
@@ -891,6 +900,7 @@
 			"keyofkhajnisut",
 			"kingssquire",
 			"kitaincrossspear",
+			"lightbearingmoonshard",
 			"lightoffoliarincision",
 			"lionsroar",
 			"lithicblade",
@@ -913,6 +923,7 @@
 			"mountainbracingbolt",
 			"mouunsmoon",
 			"nightweaverslookingglass",
+			"nocturnescurtaincall",
 			"oathsworneye",
 			"oldmercspal",
 			"otherworldlystory",
@@ -1682,6 +1693,7 @@
 			"mappamare",
 			"memoryofdust",
 			"nightweaverslookingglass",
+			"nocturnescurtaincall",
 			"oathsworneye",
 			"otherworldlystory",
 			"pocketgrimoire",
@@ -2352,6 +2364,7 @@
 		],
 		"Сломанный вал": [
 			"athameartis",
+			"lightbearingmoonshard",
 			"masterkey",
 			"moonweaversdawn",
 			"nightweaverslookingglass",
@@ -2367,6 +2380,7 @@
 		],
 		"Усиленный вал": [
 			"athameartis",
+			"lightbearingmoonshard",
 			"masterkey",
 			"moonweaversdawn",
 			"nightweaverslookingglass",
@@ -2382,6 +2396,7 @@
 		],
 		"Высокоточный вал": [
 			"athameartis",
+			"lightbearingmoonshard",
 			"masterkey",
 			"moonweaversdawn",
 			"nightweaverslookingglass",
@@ -3357,6 +3372,7 @@
 			"bloodsoakedruins",
 			"dawningfrost",
 			"etherlightspindlelute",
+			"nocturnescurtaincall",
 			"rainbowserpentsrainbow",
 			"serenityscall"
 		],
@@ -3371,6 +3387,7 @@
 			"bloodsoakedruins",
 			"dawningfrost",
 			"etherlightspindlelute",
+			"nocturnescurtaincall",
 			"rainbowserpentsrainbow",
 			"serenityscall"
 		],
@@ -3385,6 +3402,7 @@
 			"bloodsoakedruins",
 			"dawningfrost",
 			"etherlightspindlelute",
+			"nocturnescurtaincall",
 			"rainbowserpentsrainbow",
 			"serenityscall"
 		],
@@ -3400,6 +3418,7 @@
 			"compoundbow",
 			"fadingtwilight",
 			"ironsting",
+			"lightbearingmoonshard",
 			"lithicspear",
 			"luxurioussealord",
 			"mappamare",
@@ -3418,6 +3437,7 @@
 			"compoundbow",
 			"fadingtwilight",
 			"ironsting",
+			"lightbearingmoonshard",
 			"lithicspear",
 			"luxurioussealord",
 			"mappamare",
@@ -3436,6 +3456,7 @@
 			"compoundbow",
 			"fadingtwilight",
 			"ironsting",
+			"lightbearingmoonshard",
 			"lithicspear",
 			"luxurioussealord",
 			"mappamare",
@@ -3454,6 +3475,7 @@
 			"compoundbow",
 			"fadingtwilight",
 			"ironsting",
+			"lightbearingmoonshard",
 			"lithicspear",
 			"luxurioussealord",
 			"mappamare",
@@ -3474,6 +3496,7 @@
 		],
 		"Туманное воплощение": [
 			"bloodsoakedruins",
+			"lightbearingmoonshard",
 			"prospectorsshovel",
 			"sacrificersstaff",
 			"snarehook"
@@ -3486,6 +3509,7 @@
 		],
 		"Туманная пластина": [
 			"bloodsoakedruins",
+			"lightbearingmoonshard",
 			"prospectorsshovel",
 			"sacrificersstaff",
 			"snarehook"
@@ -3498,6 +3522,7 @@
 		],
 		"Туманный шлем": [
 			"bloodsoakedruins",
+			"lightbearingmoonshard",
 			"prospectorsshovel",
 			"sacrificersstaff",
 			"snarehook"
@@ -3843,7 +3868,8 @@
 		"Растоптанная слава последователей крайнего севера": [
 			"etherlightspindlelute",
 			"masterkey",
-			"moonweaversdawn"
+			"moonweaversdawn",
+			"nocturnescurtaincall"
 		],
 		"Потускневшая кость": [
 			"etherlightspindlelute",
@@ -3854,7 +3880,8 @@
 		"Упрямое заблуждение последователей крайнего севера": [
 			"etherlightspindlelute",
 			"masterkey",
-			"moonweaversdawn"
+			"moonweaversdawn",
+			"nocturnescurtaincall"
 		],
 		"Светящиеся останки": [
 			"etherlightspindlelute",
@@ -3865,7 +3892,8 @@
 		"Подношение последователей крайнего севера": [
 			"etherlightspindlelute",
 			"masterkey",
-			"moonweaversdawn"
+			"moonweaversdawn",
+			"nocturnescurtaincall"
 		],
 		"Сияющая кость": [
 			"etherlightspindlelute",
@@ -3876,7 +3904,8 @@
 		"Златое сияние последователей крайнего севера": [
 			"etherlightspindlelute",
 			"masterkey",
-			"moonweaversdawn"
+			"moonweaversdawn",
+			"nocturnescurtaincall"
 		],
 		"Тёмная призма": [
 			"everlastingmoonglow",
@@ -4071,6 +4100,15 @@
 			"sunnymorningsleepin",
 			"thunderingpulse",
 			"toukaboushigure"
+		],
+		"Расколотый глаз глубокой тьмы": [
+			"nocturnescurtaincall"
+		],
+		"Аномальное ядро глубокой тьмы": [
+			"nocturnescurtaincall"
+		],
+		"Клюв глубокой тьмы": [
+			"nocturnescurtaincall"
 		],
 		"Осколок разбитой воли": [
 			"ringofyaxche",
@@ -4337,6 +4375,9 @@
 			"Радость Наруками",
 			"Милость Наруками",
 			"Доблесть Наруками",
+			"Расколотый глаз глубокой тьмы",
+			"Аномальное ядро глубокой тьмы",
+			"Клюв глубокой тьмы",
 			"Осколок разбитой воли",
 			"Образ ясной воли",
 			"Талисман странствующей воли"

@@ -1,7 +1,9 @@
 {
 	"namemap": {
+		"adaycarvedfromrisingwinds": "风起之日",
 		"adventurer": "冒险家",
 		"archaicpetra": "悠古的磐岩",
+		"aubadeofmorningstarandmoon": "晨星与月的晓歌",
 		"berserker": "战狂",
 		"blizzardstrayer": "冰风迷途的勇士",
 		"bloodstainedchivalry": "染血的骑士道",
@@ -59,8 +61,10 @@
 		"wandererstroupe": "流浪大地的乐团"
 	},
 	"names": {
+		"风起之日": "adaycarvedfromrisingwinds",
 		"冒险家": "adventurer",
 		"悠古的磐岩": "archaicpetra",
+		"晨星与月的晓歌": "aubadeofmorningstarandmoon",
 		"战狂": "berserker",
 		"冰风迷途的勇士": "blizzardstrayer",
 		"染血的骑士道": "bloodstainedchivalry",
@@ -118,6 +122,11 @@
 		"流浪大地的乐团": "wandererstroupe"
 	},
 	"aliases": {
+		"风花的箴铭": "adaycarvedfromrisingwinds",
+		"晨光的明誓": "adaycarvedfromrisingwinds",
+		"春律的片刻": "adaycarvedfromrisingwinds",
+		"未言的宴话": "adaycarvedfromrisingwinds",
+		"哀慕的恋歌": "adaycarvedfromrisingwinds",
 		"冒险家之花": "adventurer",
 		"冒险家尾羽": "adventurer",
 		"冒险家怀表": "adventurer",
@@ -128,6 +137,11 @@
 		"星罗圭璧之晷": "archaicpetra",
 		"巉岩琢塑之樽": "archaicpetra",
 		"不动玄石之相": "archaicpetra",
+		"献与月的华梦": "aubadeofmorningstarandmoon",
+		"献与月的离光": "aubadeofmorningstarandmoon",
+		"献与月的终时": "aubadeofmorningstarandmoon",
+		"献与月的酹祭": "aubadeofmorningstarandmoon",
+		"献与月的银冕": "aubadeofmorningstarandmoon",
 		"战狂的蔷薇": "berserker",
 		"战狂的翎羽": "berserker",
 		"战狂的时计": "berserker",
@@ -419,7 +433,9 @@
 			"travelingdoctor"
 		],
 		"4": [
+			"adaycarvedfromrisingwinds",
 			"archaicpetra",
+			"aubadeofmorningstarandmoon",
 			"berserker",
 			"blizzardstrayer",
 			"bloodstainedchivalry",
@@ -475,7 +491,9 @@
 			"wandererstroupe"
 		],
 		"5": [
+			"adaycarvedfromrisingwinds",
 			"archaicpetra",
+			"aubadeofmorningstarandmoon",
 			"blizzardstrayer",
 			"bloodstainedchivalry",
 			"crimsonwitchofflames",
@@ -519,11 +537,11 @@
 	},
 	"properties": {
 		"rarityList": [
+			4,
+			5,
 			1,
 			2,
-			3,
-			4,
-			5
+			3
 		]
 	}
 }

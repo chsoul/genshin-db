@@ -12,6 +12,8 @@
 		"ardentsoul": "Ardent Soul",
 		"argentchimes": "Argent Chimes",
 		"armoredrose": "Armored Rose",
+		"asheavenandeartharemadeanewaether": "As Heaven and Earth Are Made Anew",
+		"asheavenandeartharemadeanewlumine": "As Heaven and Earth Are Made Anew",
 		"asobriquetundershade": "A Sobriquet Under Shade",
 		"awrathfulvoid": "A Wrathful Void",
 		"azuresilk": "Azure Silk",
@@ -65,10 +67,13 @@
 		"innocentlonging": "Innocent Longing",
 		"machinehunter": "Machine Hunter",
 		"mechanicaldreams": "Mechanical Dreams",
+		"melusentgift": "Melusent Gift",
 		"mikosinstruction": "Miko's Instruction",
 		"minimujina": "Mini Mujina",
 		"mistcloudstage": "Mistcloud Stage",
 		"moonglare": "Moonglare",
+		"moonlitcourser": "Moonlit Courser",
+		"moonweavegossamer": "Moonweave Gossamer",
 		"narukamislaw": "Narukami's Law",
 		"neitherflowernormist": "Neither Flower Nor Mist",
 		"newmoonstarlight": "Newmoon Starlight",
@@ -89,6 +94,7 @@
 		"pristineprayers": "Pristine Prayers",
 		"purespirit": "Pure Spirit",
 		"purplerose": "Purple Rose",
+		"rainlitbambooreverie": "Rainlit Bamboo Reverie",
 		"rangingrainbow": "Ranging Rainbow",
 		"reddeadofnight": "Red Dead of Night",
 		"redpepperandturmeric": "Red Pepper and Turmeric",
@@ -106,6 +112,7 @@
 		"sparklingcoralbone": "Sparkling Coralbone",
 		"spiritedvalor": "Spirited Valor",
 		"springbloommissive": "Springbloom Missive",
+		"steadfastresolve": "Steadfast Resolve",
 		"sugarrush": "Sugar Rush",
 		"sugarybrew": "Sugary Brew",
 		"summerchilldreams": "Summerchill Dreams",
@@ -147,6 +154,7 @@
 		"Ardent Soul": "ardentsoul",
 		"Argent Chimes": "argentchimes",
 		"Armored Rose": "armoredrose",
+		"As Heaven and Earth Are Made Anew": "asheavenandeartharemadeanewaether",
 		"A Sobriquet Under Shade": "asobriquetundershade",
 		"A Wrathful Void": "awrathfulvoid",
 		"Azure Silk": "azuresilk",
@@ -200,10 +208,13 @@
 		"Innocent Longing": "innocentlonging",
 		"Machine Hunter": "machinehunter",
 		"Mechanical Dreams": "mechanicaldreams",
+		"Melusent Gift": "melusentgift",
 		"Miko's Instruction": "mikosinstruction",
 		"Mini Mujina": "minimujina",
 		"Mistcloud Stage": "mistcloudstage",
 		"Moonglare": "moonglare",
+		"Moonlit Courser": "moonlitcourser",
+		"Moonweave Gossamer": "moonweavegossamer",
 		"Narukami's Law": "narukamislaw",
 		"Neither Flower Nor Mist": "neitherflowernormist",
 		"Newmoon Starlight": "newmoonstarlight",
@@ -224,6 +235,7 @@
 		"Pristine Prayers": "pristineprayers",
 		"Pure Spirit": "purespirit",
 		"Purple Rose": "purplerose",
+		"Rainlit Bamboo Reverie": "rainlitbambooreverie",
 		"Ranging Rainbow": "rangingrainbow",
 		"Red Dead of Night": "reddeadofnight",
 		"Red Pepper and Turmeric": "redpepperandturmeric",
@@ -240,6 +252,7 @@
 		"Sparkling Coralbone": "sparklingcoralbone",
 		"Spirited Valor": "spiritedvalor",
 		"Springbloom Missive": "springbloommissive",
+		"Steadfast Resolve": "steadfastresolve",
 		"Sugar Rush": "sugarrush",
 		"Sugary Brew": "sugarybrew",
 		"Summerchill Dreams": "summerchilldreams",
@@ -306,6 +319,14 @@
 		"Noelle": [
 			"armoredrose"
 		],
+		"Aether": [
+			"asheavenandeartharemadeanewaether",
+			"risingstaraether"
+		],
+		"Lumine": [
+			"asheavenandeartharemadeanewlumine",
+			"risingstarlumine"
+		],
 		"Lisa": [
 			"asobriquetundershade",
 			"purplerose"
@@ -339,10 +360,12 @@
 			"plumblossombouquet"
 		],
 		"Yaoyao": [
-			"cherubicosmanthus"
+			"cherubicosmanthus",
+			"rainlitbambooreverie"
 		],
 		"Neuvillette": [
-			"clearadjudication"
+			"clearadjudication",
+			"melusentgift"
 		],
 		"Furina": [
 			"coronatedprimadonna"
@@ -482,6 +505,12 @@
 		"Arlecchino": [
 			"moonglare"
 		],
+		"Zibai": [
+			"moonlitcourser"
+		],
+		"Columbina": [
+			"moonweavegossamer"
+		],
 		"Raiden Shogun": [
 			"narukamislaw"
 		],
@@ -530,12 +559,6 @@
 		"Gaming": [
 			"rangingrainbow"
 		],
-		"Aether": [
-			"risingstaraether"
-		],
-		"Lumine": [
-			"risingstarlumine"
-		],
 		"Beidou": [
 			"rollingwaves"
 		],
@@ -559,6 +582,9 @@
 		],
 		"Shikanoin Heizou": [
 			"spiritedvalor"
+		],
+		"Illuga": [
+			"steadfastresolve"
 		],
 		"Varesa": [
 			"sugarrush"
@@ -635,6 +661,8 @@
 			"Xinyan",
 			"Lan Yan",
 			"Noelle",
+			"Aether",
+			"Lumine",
 			"Lisa",
 			"Wanderer",
 			"Xingqiu",
@@ -688,6 +716,8 @@
 			"Sayu",
 			"Yun Jin",
 			"Arlecchino",
+			"Zibai",
+			"Columbina",
 			"Raiden Shogun",
 			"Albedo",
 			"Xiangling",
@@ -703,8 +733,6 @@
 			"Dahlia",
 			"Chongyun",
 			"Gaming",
-			"Aether",
-			"Lumine",
 			"Beidou",
 			"Skirk",
 			"Kamisato Ayato",
@@ -713,6 +741,7 @@
 			"Escoffier",
 			"Sangonomiya Kokomi",
 			"Shikanoin Heizou",
+			"Illuga",
 			"Varesa",
 			"Diona",
 			"Qiqi",

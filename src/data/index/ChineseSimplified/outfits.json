@@ -12,6 +12,8 @@
 		"ardentsoul": "灵魂热望",
 		"argentchimes": "银铛琳琅",
 		"armoredrose": "甲铁玫瑰",
+		"asheavenandeartharemadeanewaether": "复地重天",
+		"asheavenandeartharemadeanewlumine": "复地重天",
 		"asobriquetundershade": "叶隐芳名",
 		"awrathfulvoid": "寂忿空相",
 		"azuresilk": "锦钰兰衫",
@@ -65,10 +67,13 @@
 		"innocentlonging": "纯真期待",
 		"machinehunter": "机动猎手",
 		"mechanicaldreams": "机械梦",
+		"melusentgift": "莘露的赠礼",
 		"mikosinstruction": "御子之谕",
 		"minimujina": "小貉服",
 		"mistcloudstage": "氍毹烟云",
 		"moonglare": "月光",
+		"moonlitcourser": "白驹邀月",
+		"moonweavegossamer": "织月裁光",
 		"narukamislaw": "御建鸣神主尊之典",
 		"neitherflowernormist": "非花非雾",
 		"newmoonstarlight": "朔分星芒",
@@ -89,6 +94,7 @@
 		"pristineprayers": "无瑕祷言",
 		"purespirit": "清正灵台",
 		"purplerose": "绀紫蔷薇",
+		"rainlitbambooreverie": "聆雨听竹",
 		"rangingrainbow": "万里飞虹",
 		"reddeadofnight": "殷红终夜",
 		"redpepperandturmeric": "椒红姜黄",
@@ -106,6 +112,7 @@
 		"sparklingcoralbone": "珊骨粼波",
 		"spiritedvalor": "弁武朝风",
 		"springbloommissive": "花时来信",
+		"steadfastresolve": "不懈执望",
 		"sugarrush": "糖分欢意",
 		"sugarybrew": "粉糖青酿",
 		"summerchilldreams": "夏冰梦身",
@@ -147,6 +154,7 @@
 		"灵魂热望": "ardentsoul",
 		"银铛琳琅": "argentchimes",
 		"甲铁玫瑰": "armoredrose",
+		"复地重天": "asheavenandeartharemadeanewaether",
 		"叶隐芳名": "asobriquetundershade",
 		"寂忿空相": "awrathfulvoid",
 		"锦钰兰衫": "azuresilk",
@@ -200,10 +208,13 @@
 		"纯真期待": "innocentlonging",
 		"机动猎手": "machinehunter",
 		"机械梦": "mechanicaldreams",
+		"莘露的赠礼": "melusentgift",
 		"御子之谕": "mikosinstruction",
 		"小貉服": "minimujina",
 		"氍毹烟云": "mistcloudstage",
 		"月光": "moonglare",
+		"白驹邀月": "moonlitcourser",
+		"织月裁光": "moonweavegossamer",
 		"御建鸣神主尊之典": "narukamislaw",
 		"非花非雾": "neitherflowernormist",
 		"朔分星芒": "newmoonstarlight",
@@ -224,6 +235,7 @@
 		"无瑕祷言": "pristineprayers",
 		"清正灵台": "purespirit",
 		"绀紫蔷薇": "purplerose",
+		"聆雨听竹": "rainlitbambooreverie",
 		"万里飞虹": "rangingrainbow",
 		"殷红终夜": "reddeadofnight",
 		"椒红姜黄": "redpepperandturmeric",
@@ -240,6 +252,7 @@
 		"珊骨粼波": "sparklingcoralbone",
 		"弁武朝风": "spiritedvalor",
 		"花时来信": "springbloommissive",
+		"不懈执望": "steadfastresolve",
 		"糖分欢意": "sugarrush",
 		"粉糖青酿": "sugarybrew",
 		"夏冰梦身": "summerchilldreams",
@@ -306,6 +319,14 @@
 		"诺艾尔": [
 			"armoredrose"
 		],
+		"空": [
+			"asheavenandeartharemadeanewaether",
+			"risingstaraether"
+		],
+		"荧": [
+			"asheavenandeartharemadeanewlumine",
+			"risingstarlumine"
+		],
 		"丽莎": [
 			"asobriquetundershade",
 			"purplerose"
@@ -339,10 +360,12 @@
 			"plumblossombouquet"
 		],
 		"瑶瑶": [
-			"cherubicosmanthus"
+			"cherubicosmanthus",
+			"rainlitbambooreverie"
 		],
 		"那维莱特": [
-			"clearadjudication"
+			"clearadjudication",
+			"melusentgift"
 		],
 		"芙宁娜": [
 			"coronatedprimadonna"
@@ -482,6 +505,12 @@
 		"阿蕾奇诺": [
 			"moonglare"
 		],
+		"兹白": [
+			"moonlitcourser"
+		],
+		"哥伦比娅": [
+			"moonweavegossamer"
+		],
 		"雷电将军": [
 			"narukamislaw"
 		],
@@ -530,12 +559,6 @@
 		"嘉明": [
 			"rangingrainbow"
 		],
-		"空": [
-			"risingstaraether"
-		],
-		"荧": [
-			"risingstarlumine"
-		],
 		"北斗": [
 			"rollingwaves"
 		],
@@ -559,6 +582,9 @@
 		],
 		"鹿野院平藏": [
 			"spiritedvalor"
+		],
+		"叶洛亚": [
+			"steadfastresolve"
 		],
 		"瓦雷莎": [
 			"sugarrush"
@@ -635,6 +661,8 @@
 			"辛焱",
 			"蓝砚",
 			"诺艾尔",
+			"空",
+			"荧",
 			"丽莎",
 			"流浪者",
 			"行秋",
@@ -688,6 +716,8 @@
 			"早柚",
 			"云堇",
 			"阿蕾奇诺",
+			"兹白",
+			"哥伦比娅",
 			"雷电将军",
 			"阿贝多",
 			"香菱",
@@ -703,8 +733,6 @@
 			"塔利雅",
 			"重云",
 			"嘉明",
-			"空",
-			"荧",
 			"北斗",
 			"丝柯克",
 			"神里绫人",
@@ -713,6 +741,7 @@
 			"爱可菲",
 			"珊瑚宫心海",
 			"鹿野院平藏",
+			"叶洛亚",
 			"瓦雷莎",
 			"迪奥娜",
 			"七七",

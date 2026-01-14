@@ -1,7 +1,9 @@
 {
 	"namemap": {
+		"adaycarvedfromrisingwinds": "風立ちの日",
 		"adventurer": "冒険者",
 		"archaicpetra": "悠久の磐岩",
+		"aubadeofmorningstarandmoon": "暁の星と月の歌",
 		"berserker": "狂戦士",
 		"blizzardstrayer": "氷風を彷徨う勇士",
 		"bloodstainedchivalry": "血染めの騎士道",
@@ -59,8 +61,10 @@
 		"wandererstroupe": "大地を流浪する楽団"
 	},
 	"names": {
+		"風立ちの日": "adaycarvedfromrisingwinds",
 		"冒険者": "adventurer",
 		"悠久の磐岩": "archaicpetra",
+		"暁の星と月の歌": "aubadeofmorningstarandmoon",
 		"狂戦士": "berserker",
 		"氷風を彷徨う勇士": "blizzardstrayer",
 		"血染めの騎士道": "bloodstainedchivalry",
@@ -118,6 +122,11 @@
 		"大地を流浪する楽団": "wandererstroupe"
 	},
 	"aliases": {
+		"風花の箴言": "adaycarvedfromrisingwinds",
+		"朝日の誓約": "adaycarvedfromrisingwinds",
+		"春奏の一時": "adaycarvedfromrisingwinds",
+		"無言の酒宴": "adaycarvedfromrisingwinds",
+		"愛慕の恋歌": "adaycarvedfromrisingwinds",
 		"冒険者の花": "adventurer",
 		"冒険者の羽根": "adventurer",
 		"冒険者の懐中時計": "adventurer",
@@ -128,6 +137,11 @@
 		"星羅圭玉の日時計": "archaicpetra",
 		"危岩磐石の杯": "archaicpetra",
 		"不動玄石の相": "archaicpetra",
+		"月に捧ぐ夢華": "aubadeofmorningstarandmoon",
+		"月に捧ぐ彩光": "aubadeofmorningstarandmoon",
+		"月に捧ぐ終幕": "aubadeofmorningstarandmoon",
+		"月に捧ぐ祭礼": "aubadeofmorningstarandmoon",
+		"月に捧ぐ銀冠": "aubadeofmorningstarandmoon",
 		"狂戦士の薔薇": "berserker",
 		"狂戦士の羽根": "berserker",
 		"狂戦士の時計": "berserker",
@@ -140,7 +154,7 @@
 		"氷雪を踏む音": "blizzardstrayer",
 		"血染めの鉄の心": "bloodstainedchivalry",
 		"血染めの黒羽": "bloodstainedchivalry",
-		"騎士が血に染めた時": "bloodstainedchivalry",
+		"騎士が血に染まりし時": "bloodstainedchivalry",
 		"血染めの騎士のコップ": "bloodstainedchivalry",
 		"血染めの鉄仮面": "bloodstainedchivalry",
 		"勇士の勲章": "braveheart",
@@ -419,7 +433,9 @@
 			"travelingdoctor"
 		],
 		"4": [
+			"adaycarvedfromrisingwinds",
 			"archaicpetra",
+			"aubadeofmorningstarandmoon",
 			"berserker",
 			"blizzardstrayer",
 			"bloodstainedchivalry",
@@ -475,7 +491,9 @@
 			"wandererstroupe"
 		],
 		"5": [
+			"adaycarvedfromrisingwinds",
 			"archaicpetra",
+			"aubadeofmorningstarandmoon",
 			"blizzardstrayer",
 			"bloodstainedchivalry",
 			"crimsonwitchofflames",
@@ -519,11 +537,11 @@
 	},
 	"properties": {
 		"rarityList": [
+			4,
+			5,
 			1,
 			2,
-			3,
-			4,
-			5
+			3
 		]
 	}
 }

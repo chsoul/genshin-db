@@ -1,7 +1,9 @@
 {
 	"namemap": {
+		"adaycarvedfromrisingwinds": "Día de los Vientos Alzantes",
 		"adventurer": "Aventurero",
 		"archaicpetra": "Petra Arcaica",
+		"aubadeofmorningstarandmoon": "Alborada de la Estrella del Alba y la Luna",
 		"berserker": "Berserker",
 		"blizzardstrayer": "Nómada del Invierno",
 		"bloodstainedchivalry": "Caballería Sanguinaria",
@@ -59,8 +61,10 @@
 		"wandererstroupe": "Orquesta del Errante"
 	},
 	"names": {
+		"Día de los Vientos Alzantes": "adaycarvedfromrisingwinds",
 		"Aventurero": "adventurer",
 		"Petra Arcaica": "archaicpetra",
+		"Alborada de la Estrella del Alba y la Luna": "aubadeofmorningstarandmoon",
 		"Berserker": "berserker",
 		"Nómada del Invierno": "blizzardstrayer",
 		"Caballería Sanguinaria": "bloodstainedchivalry",
@@ -118,6 +122,11 @@
 		"Orquesta del Errante": "wandererstroupe"
 	},
 	"aliases": {
+		"Canto de la Flor de Viento": "adaycarvedfromrisingwinds",
+		"Juramento de la Luz del Alba": "adaycarvedfromrisingwinds",
+		"Nota de la Melodía Primaveral": "adaycarvedfromrisingwinds",
+		"Historia sin Contar del Heldenepos": "adaycarvedfromrisingwinds",
+		"Minnesang Melancólico de Amor": "adaycarvedfromrisingwinds",
 		"Flor del Aventurero": "adventurer",
 		"Pluma del Aventurero": "adventurer",
 		"Reloj de Bolsillo del Aventurero": "adventurer",
@@ -128,6 +137,11 @@
 		"Reloj de Sol de Jade Sempiterno": "archaicpetra",
 		"Cáliz del Escultor de Montañas": "archaicpetra",
 		"Máscara de Basalto Inerte": "archaicpetra",
+		"Sueño Esplendoroso para la Luna": "aubadeofmorningstarandmoon",
+		"Luz del Adiós para la Luna": "aubadeofmorningstarandmoon",
+		"Hora Final para la Luna": "aubadeofmorningstarandmoon",
+		"Libación para la Luna": "aubadeofmorningstarandmoon",
+		"Corona de Plata para la Luna": "aubadeofmorningstarandmoon",
 		"Rosa del Berserker": "berserker",
 		"Pluma del Berserker": "berserker",
 		"Reloj del Berserker": "berserker",
@@ -419,7 +433,9 @@
 			"travelingdoctor"
 		],
 		"4": [
+			"adaycarvedfromrisingwinds",
 			"archaicpetra",
+			"aubadeofmorningstarandmoon",
 			"berserker",
 			"blizzardstrayer",
 			"bloodstainedchivalry",
@@ -475,7 +491,9 @@
 			"wandererstroupe"
 		],
 		"5": [
+			"adaycarvedfromrisingwinds",
 			"archaicpetra",
+			"aubadeofmorningstarandmoon",
 			"blizzardstrayer",
 			"bloodstainedchivalry",
 			"crimsonwitchofflames",
@@ -519,11 +537,11 @@
 	},
 	"properties": {
 		"rarityList": [
+			4,
+			5,
 			1,
 			2,
-			3,
-			4,
-			5
+			3
 		]
 	}
 }

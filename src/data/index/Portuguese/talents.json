@@ -20,6 +20,7 @@
 		"citlali": "Citlali",
 		"clorinde": "Clorinde",
 		"collei": "Collei",
+		"columbina": "Columbina",
 		"cyno": "Cyno",
 		"dahlia": "Dahlia",
 		"dehya": "Dehya",
@@ -41,6 +42,7 @@
 		"hutao": "Hutao",
 		"iansan": "Iansan",
 		"ifa": "Ifa",
+		"illuga": "Illuga",
 		"ineffa": "Ineffa",
 		"jahoda": "Jahoda",
 		"jean": "Jean",
@@ -115,7 +117,8 @@
 		"yoimiya": "Yoimiya",
 		"yumemizukimizuki": "Yumemizuki Mizuki",
 		"yunjin": "Yunjin",
-		"zhongli": "Zhongli"
+		"zhongli": "Zhongli",
+		"zibai": "Zibai"
 	},
 	"names": {
 		"Aino": "aino",
@@ -138,6 +141,7 @@
 		"Citlali": "citlali",
 		"Clorinde": "clorinde",
 		"Collei": "collei",
+		"Columbina": "columbina",
 		"Cyno": "cyno",
 		"Dahlia": "dahlia",
 		"Dehya": "dehya",
@@ -159,6 +163,7 @@
 		"Hutao": "hutao",
 		"Iansan": "iansan",
 		"Ifa": "ifa",
+		"Illuga": "illuga",
 		"Ineffa": "ineffa",
 		"Jahoda": "jahoda",
 		"Jean": "jean",
@@ -233,7 +238,8 @@
 		"Yoimiya": "yoimiya",
 		"Yumemizuki Mizuki": "yumemizukimizuki",
 		"Yunjin": "yunjin",
-		"Zhongli": "zhongli"
+		"Zhongli": "zhongli",
+		"Zibai": "zibai"
 	},
 	"aliases": {},
 	"categories": {
@@ -258,6 +264,7 @@
 			"citlali",
 			"clorinde",
 			"collei",
+			"columbina",
 			"cyno",
 			"dahlia",
 			"dehya",
@@ -279,6 +286,7 @@
 			"hutao",
 			"iansan",
 			"ifa",
+			"illuga",
 			"ineffa",
 			"jahoda",
 			"jean",
@@ -352,33 +360,40 @@
 			"yoimiya",
 			"yumemizukimizuki",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Ensinamentos do Elísio": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"Eixo Destruído": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Guia do Elísio": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"Eixo Reforçado": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Filosofia do Elísio": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"Eixo de Precisão": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Pluma de Seda": [
@@ -407,6 +422,7 @@
 			"citlali",
 			"clorinde",
 			"collei",
+			"columbina",
 			"cyno",
 			"dahlia",
 			"dehya",
@@ -428,6 +444,7 @@
 			"hutao",
 			"iansan",
 			"ifa",
+			"illuga",
 			"ineffa",
 			"jahoda",
 			"jean",
@@ -501,7 +518,8 @@
 			"yoimiya",
 			"yumemizukimizuki",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Ensinamentos de Poemas": [
 			"albedo",
@@ -727,6 +745,7 @@
 		],
 		"Condensado de Slime": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -745,6 +764,7 @@
 		],
 		"Secreção de Slime": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -763,6 +783,7 @@
 		],
 		"Essência de Slime": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -841,7 +862,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Esporo de Cogumelo Flutuante": [
 			"baizhu",
@@ -859,7 +881,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Pólen fluorescente": [
 			"baizhu",
@@ -877,7 +900,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Poeira Cristalina de Cisto": [
 			"baizhu",
@@ -1266,6 +1290,21 @@
 			"travelerdendro",
 			"wanderer"
 		],
+		"Ensinamentos do Luar": [
+			"columbina",
+			"lauma"
+		],
+		"Guia do Luar": [
+			"columbina",
+			"lauma"
+		],
+		"Filosofia do Luar": [
+			"columbina",
+			"lauma"
+		],
+		"Máscara do Doutor Virtuoso": [
+			"columbina"
+		],
 		"Mudra da Shogun Maléfica": [
 			"cyno",
 			"kamisatoayato",
@@ -1294,17 +1333,20 @@
 		"Garantia Desgastada": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Garantia Imaculada": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Garantia Gélida": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Chamas Solares Erodidas": [
 			"durin",
@@ -1315,6 +1357,7 @@
 		],
 		"Chifre Erodido": [
 			"escoffier",
+			"illuga",
 			"mavuika"
 		],
 		"Coroa do Senhor dos Dragões": [
@@ -1341,7 +1384,8 @@
 			"jahoda"
 		],
 		"Amostra Ascendida: Rainha": [
-			"flins"
+			"flins",
+			"zibai"
 		],
 		"Néctar da Flor Gigante": [
 			"furina",
@@ -1542,15 +1586,6 @@
 			"yoimiya",
 			"yumemizukimizuki"
 		],
-		"Ensinamentos do Luar": [
-			"lauma"
-		],
-		"Guia do Luar": [
-			"lauma"
-		],
-		"Filosofia do Luar": [
-			"lauma"
-		],
 		"Garra do Vento Oriental": [
 			"lisa",
 			"noelle",
@@ -1706,6 +1741,10 @@
 			"Ensinamentos de Práxis",
 			"Guia da Práxis",
 			"Filosofia da Práxis",
+			"Ensinamentos do Luar",
+			"Guia do Luar",
+			"Filosofia do Luar",
+			"Máscara do Doutor Virtuoso",
 			"Mudra da Shogun Maléfica",
 			"Pluma-Escama Erodida",
 			"Fios da Marionete",
@@ -1746,9 +1785,6 @@
 			"Ensinamentos do Mundo Mortal",
 			"Guia do Mundo Mortal",
 			"Filosofia do Mundo Mortal",
-			"Ensinamentos do Luar",
-			"Guia do Luar",
-			"Filosofia do Luar",
 			"Garra do Vento Oriental",
 			"Ensinamentos da Igualdade",
 			"Guia da Igualdade",

@@ -12,6 +12,8 @@
 		"ardentsoul": "Ateşli Ruh",
 		"argentchimes": "Gümüş Çanlar",
 		"armoredrose": "Zırhlı Gül",
+		"asheavenandeartharemadeanewaether": "Yer ve Gök Yeniden Yaratılırken",
+		"asheavenandeartharemadeanewlumine": "Yer ve Gök Yeniden Yaratılırken",
 		"asobriquetundershade": "Yaprakların Gölgesindeki Bilgelik",
 		"awrathfulvoid": "Hiddetli Boşluk",
 		"azuresilk": "Mavi İpek",
@@ -65,10 +67,13 @@
 		"innocentlonging": "Masum Özlem",
 		"machinehunter": "Makina Avcısı",
 		"mechanicaldreams": "Mekanik Rüyalar",
+		"melusentgift": "Melusinaların Hediyesi",
 		"mikosinstruction": "Miko'nun Öğretileri",
 		"minimujina": "Mini Mujina",
 		"mistcloudstage": "Bulut Örtüsü",
 		"moonglare": "Ay Işığı",
+		"moonlitcourser": "Mehtabın Beyaz Atı",
+		"moonweavegossamer": "Ay Dokuması Tül",
 		"narukamislaw": "Narukami'nin Kanunu",
 		"neitherflowernormist": "Ne Çiçek Ne Sis",
 		"newmoonstarlight": "Hilal Işığı",
@@ -89,6 +94,7 @@
 		"pristineprayers": "Kadim Dualar",
 		"purespirit": "Saf Ruh",
 		"purplerose": "Mor Gül",
+		"rainlitbambooreverie": "Yağmurlu Bambu Rüyası",
 		"rangingrainbow": "Uzaktaki Gökkuşağı",
 		"reddeadofnight": "Kırmızı Gecenin Karanlığı",
 		"redpepperandturmeric": "Baharatlı Tatlar",
@@ -106,6 +112,7 @@
 		"sparklingcoralbone": "Işıltılı Mercan",
 		"spiritedvalor": "Coşkulu Cesaret",
 		"springbloommissive": "Bahar Çiçeği Mektubu",
+		"steadfastresolve": "Sarsılmaz Kararlılık",
 		"sugarrush": "Şeker Patlaması",
 		"sugarybrew": "Şekerli Kokteyl",
 		"summerchilldreams": "Serin Yaz Rüyası",
@@ -147,6 +154,7 @@
 		"Ateşli Ruh": "ardentsoul",
 		"Gümüş Çanlar": "argentchimes",
 		"Zırhlı Gül": "armoredrose",
+		"Yer ve Gök Yeniden Yaratılırken": "asheavenandeartharemadeanewaether",
 		"Yaprakların Gölgesindeki Bilgelik": "asobriquetundershade",
 		"Hiddetli Boşluk": "awrathfulvoid",
 		"Mavi İpek": "azuresilk",
@@ -200,10 +208,13 @@
 		"Masum Özlem": "innocentlonging",
 		"Makina Avcısı": "machinehunter",
 		"Mekanik Rüyalar": "mechanicaldreams",
+		"Melusinaların Hediyesi": "melusentgift",
 		"Miko'nun Öğretileri": "mikosinstruction",
 		"Mini Mujina": "minimujina",
 		"Bulut Örtüsü": "mistcloudstage",
 		"Ay Işığı": "moonglare",
+		"Mehtabın Beyaz Atı": "moonlitcourser",
+		"Ay Dokuması Tül": "moonweavegossamer",
 		"Narukami'nin Kanunu": "narukamislaw",
 		"Ne Çiçek Ne Sis": "neitherflowernormist",
 		"Hilal Işığı": "newmoonstarlight",
@@ -224,6 +235,7 @@
 		"Kadim Dualar": "pristineprayers",
 		"Saf Ruh": "purespirit",
 		"Mor Gül": "purplerose",
+		"Yağmurlu Bambu Rüyası": "rainlitbambooreverie",
 		"Uzaktaki Gökkuşağı": "rangingrainbow",
 		"Kırmızı Gecenin Karanlığı": "reddeadofnight",
 		"Baharatlı Tatlar": "redpepperandturmeric",
@@ -240,6 +252,7 @@
 		"Işıltılı Mercan": "sparklingcoralbone",
 		"Coşkulu Cesaret": "spiritedvalor",
 		"Bahar Çiçeği Mektubu": "springbloommissive",
+		"Sarsılmaz Kararlılık": "steadfastresolve",
 		"Şeker Patlaması": "sugarrush",
 		"Şekerli Kokteyl": "sugarybrew",
 		"Serin Yaz Rüyası": "summerchilldreams",
@@ -306,6 +319,14 @@
 		"Noelle": [
 			"armoredrose"
 		],
+		"Aether": [
+			"asheavenandeartharemadeanewaether",
+			"risingstaraether"
+		],
+		"Lumine": [
+			"asheavenandeartharemadeanewlumine",
+			"risingstarlumine"
+		],
 		"Lisa": [
 			"asobriquetundershade",
 			"purplerose"
@@ -339,10 +360,12 @@
 			"plumblossombouquet"
 		],
 		"Yaoyao": [
-			"cherubicosmanthus"
+			"cherubicosmanthus",
+			"rainlitbambooreverie"
 		],
 		"Neuvillette": [
-			"clearadjudication"
+			"clearadjudication",
+			"melusentgift"
 		],
 		"Furina": [
 			"coronatedprimadonna"
@@ -482,6 +505,12 @@
 		"Arlecchino": [
 			"moonglare"
 		],
+		"Zibai": [
+			"moonlitcourser"
+		],
+		"Columbina": [
+			"moonweavegossamer"
+		],
 		"Şogun Raiden": [
 			"narukamislaw"
 		],
@@ -530,12 +559,6 @@
 		"Gaming": [
 			"rangingrainbow"
 		],
-		"Aether": [
-			"risingstaraether"
-		],
-		"Lumine": [
-			"risingstarlumine"
-		],
 		"Beidou": [
 			"rollingwaves"
 		],
@@ -559,6 +582,9 @@
 		],
 		"Shikanoin Heizou": [
 			"spiritedvalor"
+		],
+		"Illuga": [
+			"steadfastresolve"
 		],
 		"Varesa": [
 			"sugarrush"
@@ -635,6 +661,8 @@
 			"Xinyan",
 			"Lan Yan",
 			"Noelle",
+			"Aether",
+			"Lumine",
 			"Lisa",
 			"Avare",
 			"Xingqiu",
@@ -688,6 +716,8 @@
 			"Sayu",
 			"Yun Jin",
 			"Arlecchino",
+			"Zibai",
+			"Columbina",
 			"Şogun Raiden",
 			"Albedo",
 			"Xiangling",
@@ -703,8 +733,6 @@
 			"Dahlia",
 			"Chongyun",
 			"Gaming",
-			"Aether",
-			"Lumine",
 			"Beidou",
 			"Skirk",
 			"Kamisato Ayato",
@@ -713,6 +741,7 @@
 			"Escoffier",
 			"Sangonomiya Kokomi",
 			"Shikanoin Heizou",
+			"Illuga",
 			"Varesa",
 			"Diona",
 			"Qiqi",

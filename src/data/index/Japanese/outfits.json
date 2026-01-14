@@ -12,6 +12,8 @@
 		"ardentsoul": "熱烈な魂",
 		"argentchimes": "銀鈴の響き",
 		"armoredrose": "甲鉄のバラ",
+		"asheavenandeartharemadeanewaether": "新たなる天地",
+		"asheavenandeartharemadeanewlumine": "新たなる天地",
 		"asobriquetundershade": "葉に隠れし芳名",
 		"awrathfulvoid": "寂忿空相",
 		"azuresilk": "藍色の錦衣",
@@ -65,10 +67,13 @@
 		"innocentlonging": "ピュアな期待",
 		"machinehunter": "機動狩人",
 		"mechanicaldreams": "メカニカルドリーム",
+		"melusentgift": "メリュジーヌの贈り物",
 		"mikosinstruction": "御子之説諭",
 		"minimujina": "子貉服",
 		"mistcloudstage": "氍毹煙雲",
 		"moonglare": "月光",
+		"moonlitcourser": "白駒、月を招く",
+		"moonweavegossamer": "織月の裁光",
 		"narukamislaw": "御建鳴神主尊の典",
 		"neitherflowernormist": "花や霧に非ず",
 		"newmoonstarlight": "新月の星芒",
@@ -89,6 +94,7 @@
 		"pristineprayers": "無瑕の祈り",
 		"purespirit": "清浄霊台",
 		"purplerose": "紫の薔薇",
+		"rainlitbambooreverie": "竹林に響く雨音",
 		"rangingrainbow": "万里の虹",
 		"reddeadofnight": "レッドデッド·オブ·ナイト",
 		"redpepperandturmeric": "赤唐辛子と黄生姜",
@@ -106,6 +112,7 @@
 		"sparklingcoralbone": "珊骨の白波",
 		"spiritedvalor": "武弁爽風",
 		"springbloommissive": "花時に訪れた手紙",
+		"steadfastresolve": "不断たる執念",
 		"sugarrush": "ハッピーシュガー",
 		"sugarybrew": "シュガー醸造",
 		"summerchilldreams": "夏氷の夢",
@@ -147,6 +154,7 @@
 		"熱烈な魂": "ardentsoul",
 		"銀鈴の響き": "argentchimes",
 		"甲鉄のバラ": "armoredrose",
+		"新たなる天地": "asheavenandeartharemadeanewaether",
 		"葉に隠れし芳名": "asobriquetundershade",
 		"寂忿空相": "awrathfulvoid",
 		"藍色の錦衣": "azuresilk",
@@ -200,10 +208,13 @@
 		"ピュアな期待": "innocentlonging",
 		"機動狩人": "machinehunter",
 		"メカニカルドリーム": "mechanicaldreams",
+		"メリュジーヌの贈り物": "melusentgift",
 		"御子之説諭": "mikosinstruction",
 		"子貉服": "minimujina",
 		"氍毹煙雲": "mistcloudstage",
 		"月光": "moonglare",
+		"白駒、月を招く": "moonlitcourser",
+		"織月の裁光": "moonweavegossamer",
 		"御建鳴神主尊の典": "narukamislaw",
 		"花や霧に非ず": "neitherflowernormist",
 		"新月の星芒": "newmoonstarlight",
@@ -224,6 +235,7 @@
 		"無瑕の祈り": "pristineprayers",
 		"清浄霊台": "purespirit",
 		"紫の薔薇": "purplerose",
+		"竹林に響く雨音": "rainlitbambooreverie",
 		"万里の虹": "rangingrainbow",
 		"レッドデッド·オブ·ナイト": "reddeadofnight",
 		"赤唐辛子と黄生姜": "redpepperandturmeric",
@@ -240,6 +252,7 @@
 		"珊骨の白波": "sparklingcoralbone",
 		"武弁爽風": "spiritedvalor",
 		"花時に訪れた手紙": "springbloommissive",
+		"不断たる執念": "steadfastresolve",
 		"ハッピーシュガー": "sugarrush",
 		"シュガー醸造": "sugarybrew",
 		"夏氷の夢": "summerchilldreams",
@@ -306,6 +319,14 @@
 		"ノエル": [
 			"armoredrose"
 		],
+		"空": [
+			"asheavenandeartharemadeanewaether",
+			"risingstaraether"
+		],
+		"蛍": [
+			"asheavenandeartharemadeanewlumine",
+			"risingstarlumine"
+		],
 		"リサ": [
 			"asobriquetundershade",
 			"purplerose"
@@ -339,10 +360,12 @@
 			"plumblossombouquet"
 		],
 		"ヨォーヨ": [
-			"cherubicosmanthus"
+			"cherubicosmanthus",
+			"rainlitbambooreverie"
 		],
 		"ヌヴィレット": [
-			"clearadjudication"
+			"clearadjudication",
+			"melusentgift"
 		],
 		"フリーナ": [
 			"coronatedprimadonna"
@@ -482,6 +505,12 @@
 		"アルレッキーノ": [
 			"moonglare"
 		],
+		"兹白": [
+			"moonlitcourser"
+		],
+		"コロンビーナ": [
+			"moonweavegossamer"
+		],
 		"雷電将軍": [
 			"narukamislaw"
 		],
@@ -530,12 +559,6 @@
 		"嘉明": [
 			"rangingrainbow"
 		],
-		"空": [
-			"risingstaraether"
-		],
-		"蛍": [
-			"risingstarlumine"
-		],
 		"北斗": [
 			"rollingwaves"
 		],
@@ -559,6 +582,9 @@
 		],
 		"鹿野院平蔵": [
 			"spiritedvalor"
+		],
+		"イルーガ": [
+			"steadfastresolve"
 		],
 		"ヴァレサ": [
 			"sugarrush"
@@ -635,6 +661,8 @@
 			"辛炎",
 			"藍硯",
 			"ノエル",
+			"空",
+			"蛍",
 			"リサ",
 			"放浪者",
 			"行秋",
@@ -688,6 +716,8 @@
 			"早柚",
 			"雲菫",
 			"アルレッキーノ",
+			"兹白",
+			"コロンビーナ",
 			"雷電将軍",
 			"アルベド",
 			"香菱",
@@ -703,8 +733,6 @@
 			"ダリア",
 			"重雲",
 			"嘉明",
-			"空",
-			"蛍",
 			"北斗",
 			"スカーク",
 			"神里綾人",
@@ -713,6 +741,7 @@
 			"エスコフィエ",
 			"珊瑚宮心海",
 			"鹿野院平蔵",
+			"イルーガ",
 			"ヴァレサ",
 			"ディオナ",
 			"七七",

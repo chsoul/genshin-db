@@ -20,6 +20,7 @@
 		"citlali": "시틀라리",
 		"clorinde": "클로린드",
 		"collei": "콜레이",
+		"columbina": "콜롬비나",
 		"cyno": "사이노",
 		"dahlia": "달리아",
 		"dehya": "데히야",
@@ -41,6 +42,7 @@
 		"hutao": "호두",
 		"iansan": "얀사",
 		"ifa": "이파",
+		"illuga": "일루가",
 		"ineffa": "이네파",
 		"jahoda": "야호다",
 		"jean": "진",
@@ -115,7 +117,8 @@
 		"yoimiya": "요이미야",
 		"yumemizukimizuki": "유메미즈키 미즈키",
 		"yunjin": "운근",
-		"zhongli": "종려"
+		"zhongli": "종려",
+		"zibai": "자백"
 	},
 	"names": {
 		"아이노": "aino",
@@ -138,6 +141,7 @@
 		"시틀라리": "citlali",
 		"클로린드": "clorinde",
 		"콜레이": "collei",
+		"콜롬비나": "columbina",
 		"사이노": "cyno",
 		"달리아": "dahlia",
 		"데히야": "dehya",
@@ -159,6 +163,7 @@
 		"호두": "hutao",
 		"얀사": "iansan",
 		"이파": "ifa",
+		"일루가": "illuga",
 		"이네파": "ineffa",
 		"야호다": "jahoda",
 		"진": "jean",
@@ -233,7 +238,8 @@
 		"요이미야": "yoimiya",
 		"유메미즈키 미즈키": "yumemizukimizuki",
 		"운근": "yunjin",
-		"종려": "zhongli"
+		"종려": "zhongli",
+		"자백": "zibai"
 	},
 	"aliases": {},
 	"categories": {
@@ -258,6 +264,7 @@
 			"citlali",
 			"clorinde",
 			"collei",
+			"columbina",
 			"cyno",
 			"dahlia",
 			"dehya",
@@ -279,6 +286,7 @@
 			"hutao",
 			"iansan",
 			"ifa",
+			"illuga",
 			"ineffa",
 			"jahoda",
 			"jean",
@@ -352,33 +360,40 @@
 			"yoimiya",
 			"yumemizukimizuki",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"「낙원」의 가르침": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"훼손된 구동축": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"「낙원」의 인도": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"강화 구동축": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"「낙원」의 철학": [
 			"aino",
+			"illuga",
 			"nefer"
 		],
 		"정밀 구동축": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"거미 비단깃": [
@@ -407,6 +422,7 @@
 			"citlali",
 			"clorinde",
 			"collei",
+			"columbina",
 			"cyno",
 			"dahlia",
 			"dehya",
@@ -428,6 +444,7 @@
 			"hutao",
 			"iansan",
 			"ifa",
+			"illuga",
 			"ineffa",
 			"jahoda",
 			"jean",
@@ -501,7 +518,8 @@
 			"yoimiya",
 			"yumemizukimizuki",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"「시문」의 가르침": [
 			"albedo",
@@ -727,6 +745,7 @@
 		],
 		"슬라임 응축액": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -745,6 +764,7 @@
 		],
 		"슬라임청": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -763,6 +783,7 @@
 		],
 		"슬라임 원액": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -841,7 +862,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"버섯몬 포자": [
 			"baizhu",
@@ -859,7 +881,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"형광 포자 분말": [
 			"baizhu",
@@ -877,7 +900,8 @@
 			"xingqiu",
 			"xinyan",
 			"yanfei",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"포낭 결정 가루": [
 			"baizhu",
@@ -1266,6 +1290,21 @@
 			"travelerdendro",
 			"wanderer"
 		],
+		"「달빛」의 가르침": [
+			"columbina",
+			"lauma"
+		],
+		"「달빛」의 인도": [
+			"columbina",
+			"lauma"
+		],
+		"「달빛」의 철학": [
+			"columbina",
+			"lauma"
+		],
+		"의사의 가면": [
+			"columbina"
+		],
 		"흉장의 수안": [
 			"cyno",
 			"kamisatoayato",
@@ -1294,17 +1333,20 @@
 		"마모된 표장": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"정교한 표장": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"서릿빛 표장": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"침식된 태양": [
 			"durin",
@@ -1315,6 +1357,7 @@
 		],
 		"침식된 불꽃뿔": [
 			"escoffier",
+			"illuga",
 			"mavuika"
 		],
 		"용왕의 면류관": [
@@ -1341,7 +1384,8 @@
 			"jahoda"
 		],
 		"승격·퀸": [
-			"flins"
+			"flins",
+			"zibai"
 		],
 		"구라구라 꽃꿀": [
 			"furina",
@@ -1542,15 +1586,6 @@
 			"yoimiya",
 			"yumemizukimizuki"
 		],
-		"「달빛」의 가르침": [
-			"lauma"
-		],
-		"「달빛」의 인도": [
-			"lauma"
-		],
-		"「달빛」의 철학": [
-			"lauma"
-		],
 		"동풍의 발톱": [
 			"lisa",
 			"noelle",
@@ -1706,6 +1741,10 @@
 			"「실천」의 가르침",
 			"「실천」의 인도",
 			"「실천」의 철학",
+			"「달빛」의 가르침",
+			"「달빛」의 인도",
+			"「달빛」의 철학",
+			"의사의 가면",
 			"흉장의 수안",
 			"침식된 비늘깃",
 			"꼭두각시 줄",
@@ -1746,9 +1785,6 @@
 			"「부세」의 가르침",
 			"「부세」의 인도",
 			"「부세」의 철학",
-			"「달빛」의 가르침",
-			"「달빛」의 인도",
-			"「달빛」의 철학",
 			"동풍의 발톱",
 			"「공평」의 가르침",
 			"「공평」의 인도",

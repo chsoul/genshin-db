@@ -21,6 +21,7 @@
 		"citlali": "Citlalí",
 		"clorinde": "Clorinde",
 		"collei": "Collei",
+		"columbina": "Colombina",
 		"cyno": "Cyno",
 		"dahlia": "Dahlia",
 		"dehya": "Dehya",
@@ -42,6 +43,7 @@
 		"hutao": "Hu Tao",
 		"iansan": "Iansán",
 		"ifa": "Ifá",
+		"illuga": "Illuga",
 		"ineffa": "Ineffa",
 		"jahoda": "Jahoda",
 		"jean": "Jean",
@@ -110,7 +112,8 @@
 		"yoimiya": "Yoimiya",
 		"yumemizukimizuki": "Yumemizuki Mizuki",
 		"yunjin": "Yun Jin",
-		"zhongli": "Zhongli"
+		"zhongli": "Zhongli",
+		"zibai": "Zibai"
 	},
 	"names": {
 		"Éter": "aether",
@@ -134,6 +137,7 @@
 		"Citlalí": "citlali",
 		"Clorinde": "clorinde",
 		"Collei": "collei",
+		"Colombina": "columbina",
 		"Cyno": "cyno",
 		"Dahlia": "dahlia",
 		"Dehya": "dehya",
@@ -155,6 +159,7 @@
 		"Hu Tao": "hutao",
 		"Iansán": "iansan",
 		"Ifá": "ifa",
+		"Illuga": "illuga",
 		"Ineffa": "ineffa",
 		"Jahoda": "jahoda",
 		"Jean": "jean",
@@ -223,7 +228,8 @@
 		"Yoimiya": "yoimiya",
 		"Yumemizuki Mizuki": "yumemizukimizuki",
 		"Yun Jin": "yunjin",
-		"Zhongli": "zhongli"
+		"Zhongli": "zhongli",
+		"Zibai": "zibai"
 	},
 	"aliases": {
 		"Viator": "aether",
@@ -236,7 +242,7 @@
 		"La Salvadora de Otro Mundo": "aloy",
 		"Nora Fortis": "aloy",
 		"La Campeona de Vuelo": "amber",
-		"Lepus Minor": "amber",
+		"Lepus": "amber",
 		"El Héroe de Hanamizaka": "aratakiitto",
 		"Taurus Iracundus": "aratakiitto",
 		"La Portadora Lunaciaga": "arlecchino",
@@ -244,7 +250,7 @@
 		"El Transgresor de lo Mortal": "baizhu",
 		"Lagenaria": "baizhu",
 		"La Ídolo Radiante": "barbara",
-		"Cratus": "barbara",
+		"Crater": "barbara",
 		"La Reina del Océano sin Corona": "beidou",
 		"Victor Mare": "beidou",
 		"El Tentador del Destino": "bennett",
@@ -267,6 +273,8 @@
 		"Rapperia": "clorinde",
 		"La Promesa en Flor": "collei",
 		"Leptailurus Cervarius": "collei",
+		"La Luna Celestial Retornante": "columbina",
+		"¿?": "neuvillette",
 		"El Magistrado de lo Arcano": "cyno",
 		"Lupus Aureus": "cyno",
 		"El Diácono de las Oblaciones": "dahlia",
@@ -279,7 +287,7 @@
 		"Feles": "diona",
 		"La Magnate Acaudalada": "dori",
 		"Magicae Lucerna": "dori",
-		"El Fuego Inextinguible": "durin",
+		"“El Fuego Inextinguible”": "durin",
 		"Draco Rubedo": "durin",
 		"La Estela de Mil Aromas": "emilie",
 		"Pomum de Ambra": "emilie",
@@ -309,12 +317,14 @@
 		"Carnotaurus": "iansan",
 		"El Guiado por Vientos Errantes": "ifa",
 		"Catena Opele": "ifa",
+		"El Corazón Ardiente de la Pesadilla": "illuga",
+		"Oriolus": "illuga",
 		"La Onda Atronadora": "ineffa",
 		"Vanilla Planifolia": "ineffa",
 		"La Sombra Dominavientos": "jahoda",
 		"Fragum": "jahoda",
 		"La Caballera de Dandelion": "jean",
-		"Leo Menor": "jean",
+		"Leo Minor": "jean",
 		"La Gema de Oro en Bruto": "kachina",
 		"Ochotona Princeps": "kachina",
 		"El Mensajero del Viento": "kaedeharakazuha",
@@ -368,7 +378,6 @@
 		"La Guardasecretos de las Arenas": "nefer",
 		"Ludus Latrunculorum": "nefer",
 		"El Sentenciador de lo Inexorable": "neuvillette",
-		"¿?": "neuvillette",
 		"La Bailarina de los Lotos": "nilou",
 		"Lotos Somno": "nilou",
 		"La Estrella en Eclipse": "ningguang",
@@ -416,7 +425,7 @@
 		"El Emisario de los Culpables": "wriothesley",
 		"Cerberus": "wriothesley",
 		"La Maestra Culinaria de Liyue": "xiangling",
-		"Trullae": "xiangling",
+		"Trulla": "xiangling",
 		"La Grulla Emisaria": "xianyun",
 		"Grus Serena": "xianyun",
 		"El Guardián Yaksha": "xiao",
@@ -442,7 +451,9 @@
 		"La Prima Donna del Escenario": "yunjin",
 		"Opera Grandis": "yunjin",
 		"El Vagabundo del Reino Mortal": "zhongli",
-		"Lapis Dei": "zhongli"
+		"Lapis Dei": "zhongli",
+		"La Yegua del Manantial Escondido": "zibai",
+		"Equa Alba": "zibai"
 	},
 	"categories": {
 		"4": [
@@ -466,6 +477,7 @@
 			"gorou",
 			"iansan",
 			"ifa",
+			"illuga",
 			"jahoda",
 			"kachina",
 			"kaeya",
@@ -507,6 +519,7 @@
 			"chiori",
 			"citlali",
 			"clorinde",
+			"columbina",
 			"cyno",
 			"dehya",
 			"diluc",
@@ -558,7 +571,8 @@
 			"yelan",
 			"yoimiya",
 			"yumemizukimizuki",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"ELEMENT_NONE": [
 			"aether",
@@ -593,7 +607,8 @@
 			"qiqi",
 			"skirk",
 			"xilonen",
-			"xingqiu"
+			"xingqiu",
+			"zibai"
 		],
 		"FIGHT_PROP_ATTACK_PERCENT": [
 			"aether",
@@ -636,6 +651,7 @@
 			"gaming",
 			"gorou",
 			"ifa",
+			"illuga",
 			"kaedeharakazuha",
 			"kaeya",
 			"kamisatoayato",
@@ -681,6 +697,7 @@
 			"citlali",
 			"clorinde",
 			"collei",
+			"columbina",
 			"cyno",
 			"dahlia",
 			"dehya",
@@ -702,6 +719,7 @@
 			"hutao",
 			"iansan",
 			"ifa",
+			"illuga",
 			"ineffa",
 			"jahoda",
 			"jean",
@@ -770,7 +788,8 @@
 			"yoimiya",
 			"yumemizukimizuki",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Pedacito de diamante brillante": [
 			"aether",
@@ -834,6 +853,7 @@
 			"aino",
 			"barbara",
 			"candace",
+			"columbina",
 			"dahlia",
 			"furina",
 			"kamisatoayato",
@@ -871,6 +891,7 @@
 			"aino",
 			"citlali",
 			"ifa",
+			"illuga",
 			"kaedeharakazuha",
 			"kaveh",
 			"lauma",
@@ -896,6 +917,7 @@
 			"citlali",
 			"clorinde",
 			"collei",
+			"columbina",
 			"dehya",
 			"diona",
 			"dori",
@@ -954,11 +976,14 @@
 			"yelan",
 			"yoimiya",
 			"yumemizukimizuki",
-			"yunjin"
+			"yunjin",
+			"zibai"
 		],
 		"Nod Krai": [
 			"aino",
+			"columbina",
 			"flins",
+			"illuga",
 			"ineffa",
 			"jahoda",
 			"lauma",
@@ -978,6 +1003,7 @@
 			"aino",
 			"barbara",
 			"candace",
+			"columbina",
 			"dahlia",
 			"furina",
 			"kamisatoayato",
@@ -998,12 +1024,14 @@
 		"Eje dañado": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Fragmento de lazurita varunada": [
 			"aino",
 			"barbara",
 			"candace",
+			"columbina",
 			"dahlia",
 			"furina",
 			"kamisatoayato",
@@ -1024,12 +1052,14 @@
 		"Eje reforzado": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Trozo de lazurita varunada": [
 			"aino",
 			"barbara",
 			"candace",
+			"columbina",
 			"dahlia",
 			"furina",
 			"kamisatoayato",
@@ -1046,12 +1076,14 @@
 		"Eje refinado": [
 			"aino",
 			"flins",
+			"illuga",
 			"jahoda"
 		],
 		"Lazurita varunada": [
 			"aino",
 			"barbara",
 			"candace",
+			"columbina",
 			"dahlia",
 			"furina",
 			"kamisatoayato",
@@ -1070,13 +1102,15 @@
 			"aratakiitto",
 			"chiori",
 			"gorou",
+			"illuga",
 			"kachina",
 			"navia",
 			"ningguang",
 			"noelle",
 			"xilonen",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"FIGHT_PROP_ROCK_ADD_HURT": [
 			"albedo",
@@ -1113,13 +1147,15 @@
 			"aratakiitto",
 			"chiori",
 			"gorou",
+			"illuga",
 			"kachina",
 			"navia",
 			"ningguang",
 			"noelle",
 			"xilonen",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Cecilia": [
 			"albedo",
@@ -1140,13 +1176,15 @@
 			"aratakiitto",
 			"chiori",
 			"gorou",
+			"illuga",
 			"kachina",
 			"navia",
 			"ningguang",
 			"noelle",
 			"xilonen",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Pilar de basalto": [
 			"albedo",
@@ -1169,13 +1207,15 @@
 			"aratakiitto",
 			"chiori",
 			"gorou",
+			"illuga",
 			"kachina",
 			"navia",
 			"ningguang",
 			"noelle",
 			"xilonen",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"Pergamino maldito": [
 			"albedo",
@@ -1192,13 +1232,15 @@
 			"aratakiitto",
 			"chiori",
 			"gorou",
+			"illuga",
 			"kachina",
 			"navia",
 			"ningguang",
 			"noelle",
 			"xilonen",
 			"yunjin",
-			"zhongli"
+			"zhongli",
+			"zibai"
 		],
 		"ELEMENT_DENDRO": [
 			"alhaitham",
@@ -1647,6 +1689,7 @@
 			"chasca",
 			"chiori",
 			"clorinde",
+			"columbina",
 			"diluc",
 			"escoffier",
 			"furina",
@@ -1695,6 +1738,7 @@
 		],
 		"Condensado de Slime": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -1709,6 +1753,7 @@
 		],
 		"Babas de Slime": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -1719,6 +1764,7 @@
 		],
 		"Esencia de Slime": [
 			"aratakiitto",
+			"columbina",
 			"gaming",
 			"lisa",
 			"venti",
@@ -1737,6 +1783,7 @@
 			"flins",
 			"hutao",
 			"iansan",
+			"illuga",
 			"ineffa",
 			"kachina",
 			"mika",
@@ -1768,7 +1815,8 @@
 			"nefer",
 			"neuvillette",
 			"skirk",
-			"wriothesley"
+			"wriothesley",
+			"zibai"
 		],
 		"Snezhnaya": [
 			"arlecchino",
@@ -1817,6 +1865,7 @@
 			"barbara",
 			"charlotte",
 			"citlali",
+			"columbina",
 			"ifa",
 			"klee",
 			"lanyan",
@@ -2090,7 +2139,8 @@
 			"gorou",
 			"nefer",
 			"sethos",
-			"yunjin"
+			"yunjin",
+			"zibai"
 		],
 		"Añoraescarlata": [
 			"candace",
@@ -2187,6 +2237,7 @@
 			"dori",
 			"gaming",
 			"ganyu",
+			"illuga",
 			"layla",
 			"neuvillette",
 			"nilou",
@@ -2301,6 +2352,7 @@
 		"enero": [
 			"chevreuse",
 			"citlali",
+			"columbina",
 			"diona",
 			"jahoda",
 			"kirara",
@@ -2380,6 +2432,13 @@
 			"collei",
 			"tighnari"
 		],
+		"Hierba invernal": [
+			"columbina"
+		],
+		"Asta radiante": [
+			"columbina",
+			"nefer"
+		],
 		"Escarabajo dorado": [
 			"cyno"
 		],
@@ -2422,20 +2481,24 @@
 		"Distintivo desgastado": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Núcleo kuuvahki de bucle militar": [
-			"durin"
+			"durin",
+			"illuga"
 		],
 		"Distintivo sofisticado": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Distintivo escarchado": [
 			"durin",
 			"lauma",
-			"nefer"
+			"nefer",
+			"zibai"
 		],
 		"Lirio lumilago": [
 			"emilie",
@@ -2566,6 +2629,9 @@
 		"Núcleo inerte magmadracónico": [
 			"ifa",
 			"varesa"
+		],
+		"Ámbar de pino": [
+			"illuga"
 		],
 		"Cornihongo luminoso": [
 			"ineffa",
@@ -2717,15 +2783,13 @@
 		"Gota de rocío primigenio": [
 			"navia"
 		],
-		"Asta radiante": [
-			"nefer"
-		],
 		"Orquídea padishá": [
 			"nilou"
 		],
 		"Lirio de cristal": [
 			"ningguang",
-			"yunjin"
+			"yunjin",
+			"zibai"
 		],
 		"FIGHT_PROP_DEFENSE_PERCENT": [
 			"noelle",
@@ -2769,6 +2833,9 @@
 		],
 		"Crisantemo resplandeciente": [
 			"xilonen"
+		],
+		"Vestigio de las alas del terror": [
+			"zibai"
 		]
 	},
 	"properties": {
@@ -2926,6 +2993,8 @@
 			"Cristalización cromática",
 			"Champiñón rukkhashava",
 			"Picogancho fúngico",
+			"Hierba invernal",
+			"Asta radiante",
 			"Escarabajo dorado",
 			"Fruto atronador",
 			"Lirio cala",
@@ -2957,6 +3026,7 @@
 			"Silbato de oro del soldado sauriocoronado",
 			"Pata de saurio",
 			"Núcleo inerte magmadracónico",
+			"Ámbar de pino",
 			"Cornihongo luminoso",
 			"Ala rutilante",
 			"Semilla de huracán",
@@ -2984,7 +3054,6 @@
 			"Branquia plumaespuma",
 			"Sello de la bendición vinculante",
 			"Gota de rocío primigenio",
-			"Asta radiante",
 			"Orquídea padishá",
 			"Lirio de cristal",
 			"Trishiraíta",
@@ -2995,7 +3064,8 @@
 			"Perla abrasante",
 			"Unidad de subdetección",
 			"Chile de Jueyun",
-			"Crisantemo resplandeciente"
+			"Crisantemo resplandeciente",
+			"Vestigio de las alas del terror"
 		],
 		"region": [
 			"Nod Krai",

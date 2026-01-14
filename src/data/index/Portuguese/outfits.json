@@ -12,6 +12,8 @@
 		"ardentsoul": "Alma Ambiciosa",
 		"argentchimes": "Sinos Prateados",
 		"armoredrose": "Rosa de Aço",
+		"asheavenandeartharemadeanewaether": "Conforme Céu e Terra São Renovados",
+		"asheavenandeartharemadeanewlumine": "Conforme Céu e Terra São Renovados",
 		"asobriquetundershade": "Identidade Sob a Sombra",
 		"awrathfulvoid": "Um Vácuo de Vazio Furioso",
 		"azuresilk": "Magnólias Brocadas",
@@ -65,10 +67,13 @@
 		"innocentlonging": "Expectativas Inocentes",
 		"machinehunter": "Caçadora de Máquinas",
 		"mechanicaldreams": "Sonhos Mecânicos",
+		"melusentgift": "Presente Melusente",
 		"mikosinstruction": "Instrução de Miko",
 		"minimujina": "Roupinha de Mujina",
 		"mistcloudstage": "Manto das Nuvens",
 		"moonglare": "Luz do Luar",
+		"moonlitcourser": "Cruzador do Luar",
+		"moonweavegossamer": "Traje do Luar",
 		"narukamislaw": "Lei de Narukami",
 		"neitherflowernormist": "Nem Flor Nem Névoa",
 		"newmoonstarlight": "Aura Estelar da Lua Nova",
@@ -89,6 +94,7 @@
 		"pristineprayers": "Orações Imaculadas",
 		"purespirit": "Espírito Puro",
 		"purplerose": "Rosa Púrpura",
+		"rainlitbambooreverie": "Canção do Bambu na Chuva",
 		"rangingrainbow": "Arco-íris Longínquo",
 		"reddeadofnight": "Vermelho Escarlate da Noite",
 		"redpepperandturmeric": "Pimenta Vermelho-Cúrcuma",
@@ -106,6 +112,7 @@
 		"sparklingcoralbone": "Coral Cristalino",
 		"spiritedvalor": "Ar Marcial",
 		"springbloommissive": "Missiva da Floração",
+		"steadfastresolve": "Determinação Inabalável",
 		"sugarrush": "Carnaval Açucarado",
 		"sugarybrew": "Coquetel Adocicado",
 		"summerchilldreams": "Sonhos Gelados de Verão",
@@ -147,6 +154,7 @@
 		"Alma Ambiciosa": "ardentsoul",
 		"Sinos Prateados": "argentchimes",
 		"Rosa de Aço": "armoredrose",
+		"Conforme Céu e Terra São Renovados": "asheavenandeartharemadeanewaether",
 		"Identidade Sob a Sombra": "asobriquetundershade",
 		"Um Vácuo de Vazio Furioso": "awrathfulvoid",
 		"Magnólias Brocadas": "azuresilk",
@@ -200,10 +208,13 @@
 		"Expectativas Inocentes": "innocentlonging",
 		"Caçadora de Máquinas": "machinehunter",
 		"Sonhos Mecânicos": "mechanicaldreams",
+		"Presente Melusente": "melusentgift",
 		"Instrução de Miko": "mikosinstruction",
 		"Roupinha de Mujina": "minimujina",
 		"Manto das Nuvens": "mistcloudstage",
 		"Luz do Luar": "moonglare",
+		"Cruzador do Luar": "moonlitcourser",
+		"Traje do Luar": "moonweavegossamer",
 		"Lei de Narukami": "narukamislaw",
 		"Nem Flor Nem Névoa": "neitherflowernormist",
 		"Aura Estelar da Lua Nova": "newmoonstarlight",
@@ -224,6 +235,7 @@
 		"Orações Imaculadas": "pristineprayers",
 		"Espírito Puro": "purespirit",
 		"Rosa Púrpura": "purplerose",
+		"Canção do Bambu na Chuva": "rainlitbambooreverie",
 		"Arco-íris Longínquo": "rangingrainbow",
 		"Vermelho Escarlate da Noite": "reddeadofnight",
 		"Pimenta Vermelho-Cúrcuma": "redpepperandturmeric",
@@ -240,6 +252,7 @@
 		"Coral Cristalino": "sparklingcoralbone",
 		"Ar Marcial": "spiritedvalor",
 		"Missiva da Floração": "springbloommissive",
+		"Determinação Inabalável": "steadfastresolve",
 		"Carnaval Açucarado": "sugarrush",
 		"Coquetel Adocicado": "sugarybrew",
 		"Sonhos Gelados de Verão": "summerchilldreams",
@@ -306,6 +319,14 @@
 		"Noelle": [
 			"armoredrose"
 		],
+		"Aether": [
+			"asheavenandeartharemadeanewaether",
+			"risingstaraether"
+		],
+		"Lumine": [
+			"asheavenandeartharemadeanewlumine",
+			"risingstarlumine"
+		],
 		"Lisa": [
 			"asobriquetundershade",
 			"purplerose"
@@ -339,10 +360,12 @@
 			"plumblossombouquet"
 		],
 		"Yaoyao": [
-			"cherubicosmanthus"
+			"cherubicosmanthus",
+			"rainlitbambooreverie"
 		],
 		"Neuvillette": [
-			"clearadjudication"
+			"clearadjudication",
+			"melusentgift"
 		],
 		"Furina": [
 			"coronatedprimadonna"
@@ -482,6 +505,12 @@
 		"Arlecchino": [
 			"moonglare"
 		],
+		"Zibai": [
+			"moonlitcourser"
+		],
+		"Columbina": [
+			"moonweavegossamer"
+		],
 		"Shogun Raiden": [
 			"narukamislaw"
 		],
@@ -530,12 +559,6 @@
 		"Gaming": [
 			"rangingrainbow"
 		],
-		"Aether": [
-			"risingstaraether"
-		],
-		"Lumine": [
-			"risingstarlumine"
-		],
 		"Beidou": [
 			"rollingwaves"
 		],
@@ -559,6 +582,9 @@
 		],
 		"Shikanoin Heizou": [
 			"spiritedvalor"
+		],
+		"Illuga": [
+			"steadfastresolve"
 		],
 		"Varesa": [
 			"sugarrush"
@@ -635,6 +661,8 @@
 			"Xinyan",
 			"Lan Yan",
 			"Noelle",
+			"Aether",
+			"Lumine",
 			"Lisa",
 			"Andarilho",
 			"Xingqiu",
@@ -688,6 +716,8 @@
 			"Sayu",
 			"Yunjin",
 			"Arlecchino",
+			"Zibai",
+			"Columbina",
 			"Shogun Raiden",
 			"Albedo",
 			"Xiangling",
@@ -703,8 +733,6 @@
 			"Dahlia",
 			"Chongyun",
 			"Gaming",
-			"Aether",
-			"Lumine",
 			"Beidou",
 			"Skirk",
 			"Kamisato Ayato",
@@ -713,6 +741,7 @@
 			"Escoffier",
 			"Sangonomiya Kokomi",
 			"Shikanoin Heizou",
+			"Illuga",
 			"Varesa",
 			"Diona",
 			"Qiqi",
