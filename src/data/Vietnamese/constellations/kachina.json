@@ -3,8 +3,8 @@
 	"name": "Kachina",
 	"c1": {
 		"name": "Mảnh Tinh Thạch Cũng Là Đá Quý",
-		"descriptionRaw": "Kachina khi lái và thoát <color=#FFD780FF>Mũi Khoan Quay Tròn</color>, sẽ thu thập mảnh tinh thể sinh ra từ phản ứng Kết Tinh ở xung quanh.\nNgoài ra, khi nhân vật trong đội nhận mảnh tinh thể, sẽ hồi phục 3 điểm Năng Lượng Nguyên Tố cho Kachina. Mỗi 5s tối đa hồi phục một lần Năng Lượng Nguyên Tố bằng cách này.",
-		"description": "Kachina khi lái và thoát Mũi Khoan Quay Tròn, sẽ thu thập mảnh tinh thể sinh ra từ phản ứng Kết Tinh ở xung quanh.\nNgoài ra, khi nhân vật trong đội nhận mảnh tinh thể, sẽ hồi phục 3 điểm Năng Lượng Nguyên Tố cho Kachina. Mỗi 5s tối đa hồi phục một lần Năng Lượng Nguyên Tố bằng cách này."
+		"descriptionRaw": "Kachina khi lái và thoát <color=#FFD780FF>Mũi Khoan Quay Tròn</color>, sẽ thu thập mảnh tinh thể sinh ra từ phản ứng Kết Tinh ở xung quanh.\nNgoài ra, khi nhân vật trong đội nhận mảnh tinh thể hoặc kích hoạt phản ứng Nguyệt-Kết Tinh, sẽ hồi phục 3 điểm Năng Lượng Nguyên Tố cho Kachina. Mỗi 5s tối đa hồi phục một lần Năng Lượng Nguyên Tố bằng cách này.",
+		"description": "Kachina khi lái và thoát Mũi Khoan Quay Tròn, sẽ thu thập mảnh tinh thể sinh ra từ phản ứng Kết Tinh ở xung quanh.\nNgoài ra, khi nhân vật trong đội nhận mảnh tinh thể hoặc kích hoạt phản ứng Nguyệt-Kết Tinh, sẽ hồi phục 3 điểm Năng Lượng Nguyên Tố cho Kachina. Mỗi 5s tối đa hồi phục một lần Năng Lượng Nguyên Tố bằng cách này."
 	},
 	"c2": {
 		"name": "Không Thể Thiếu... Mũi Khoan Quay Tròn",

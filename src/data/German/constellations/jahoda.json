@@ -28,7 +28,7 @@
 	},
 	"c6": {
 		"name": "Das kleinste Glück",
-		"descriptionRaw": "#<color=#FFD780FF>Mondomen – Reifer Glanz</color>: Erhöht, wenn die {LINK#N11240001}<color=#FFD780FF>Hululu-Geheimflasche</color>{/LINK} der Elementarfähigkeit <color=#FFD780FF>Atemberaubende Kriegslist – Plan zur Reichtumsverteilung</color> gefüllt ist, 20{NON_BREAK_SPACE}s lang die KT der Mondomen-Truppenmitglieder in der Nähe um 5{NON_BREAK_SPACE}% und ihren kritischen Schaden um 40{NON_BREAK_SPACE}%.",
-		"description": "Mondomen – Reifer Glanz: Erhöht, wenn die **Hululu-Geheimflasche** der Elementarfähigkeit Atemberaubende Kriegslist – Plan zur Reichtumsverteilung gefüllt ist, 20 s lang die KT der Mondomen-Truppenmitglieder in der Nähe um 5 % und ihren kritischen Schaden um 40 %."
+		"descriptionRaw": "#<color=#FFD780FF>Mondomen – Reifer Glanz</color>: Erhöht, wenn die {LINK#N11240001}<color=#FFD780FF>Hululu-Geheimflasche</color>{/LINK} der Elementarfähigkeit <color=#FFD780FF>Atemberaubende Kriegslist – Plan zur Reichtumsverteilung</color> voll gefüllt ist, 20{NON_BREAK_SPACE}s lang die KT der Mondomen-Truppenmitglieder in der Nähe um 5{NON_BREAK_SPACE}% und ihren kritischen Schaden um 40{NON_BREAK_SPACE}%.",
+		"description": "Mondomen – Reifer Glanz: Erhöht, wenn die **Hululu-Geheimflasche** der Elementarfähigkeit Atemberaubende Kriegslist – Plan zur Reichtumsverteilung voll gefüllt ist, 20 s lang die KT der Mondomen-Truppenmitglieder in der Nähe um 5 % und ihren kritischen Schaden um 40 %."
 	}
 }

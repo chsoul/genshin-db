@@ -6,7 +6,7 @@
 	],
 	"name": "Roccia arcaica",
 	"effect2Pc": "Bonus DAN da Geo +15%.",
-	"effect4Pc": "Quando si ottiene un frammento elementale generato con la reazione della Cristallizzazione, tutti i membri del gruppo ricevono un 35% di bonus DAN per quel particolare elemento della durata di 10 s. È possibile ottenere un solo bonus DAN elementali alla volta.",
+	"effect4Pc": "Quando si ottiene un frammento elementale tramite Cristallizzazione o innescando una reazione di Cristallizzazione lunare, tutti i membri del gruppo ricevono un 35% di bonus DAN per l'elemento corrispondente della durata di 10 s. È possibile ottenere un solo bonus DAN elementali alla volta.",
 	"flower": {
 		"name": "Fiore rupestre",
 		"relicType": "EQUIP_BRACER",

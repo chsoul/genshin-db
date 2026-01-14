@@ -3,8 +3,8 @@
 	"name": "Kachina",
 	"c1": {
 		"name": "Los fragmentos también son gemas",
-		"descriptionRaw": "#Cuando Kachina se suba o se baje del <color=#FFD780FF>turbogirador</color>, recogerá los fragmentos cercanos creados con la reacción de Cristalización.\nAdemás, cuando un personaje del equipo recoge un fragmento, Kachina recupera 3{NON_BREAK_SPACE}pts. de Energía Elemental. Solo puede recuperar Energía Elemental una vez cada 5{NON_BREAK_SPACE}s de esta manera.",
-		"description": "Cuando Kachina se suba o se baje del turbogirador, recogerá los fragmentos cercanos creados con la reacción de Cristalización.\nAdemás, cuando un personaje del equipo recoge un fragmento, Kachina recupera 3 pts. de Energía Elemental. Solo puede recuperar Energía Elemental una vez cada 5 s de esta manera."
+		"descriptionRaw": "#Cuando Kachina se suba o se baje del <color=#FFD780FF>turbogirador</color>, recogerá los fragmentos cercanos creados con la reacción de Cristalización.\nAdemás, cuando un personaje del equipo recoge un fragmento o causa una reacción de Cristalización Lunar, Kachina recupera 3{NON_BREAK_SPACE}pts. de Energía Elemental. Solo puede recuperar Energía Elemental una vez cada 5{NON_BREAK_SPACE}s de esta manera.",
+		"description": "Cuando Kachina se suba o se baje del turbogirador, recogerá los fragmentos cercanos creados con la reacción de Cristalización.\nAdemás, cuando un personaje del equipo recoge un fragmento o causa una reacción de Cristalización Lunar, Kachina recupera 3 pts. de Energía Elemental. Solo puede recuperar Energía Elemental una vez cada 5 s de esta manera."
 	},
 	"c2": {
 		"name": "Nunca puede faltar... ¡mi turbogirador!",

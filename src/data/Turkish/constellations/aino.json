@@ -28,7 +28,7 @@
 	},
 	"c6": {
 		"name": "Yaratıcı Dehanın Ağırlığı",
-		"descriptionRaw": "Aino <color=#FFD780FF>{LINK#S11215}Hassas Hidronik Soğutucu{/LINK}</color> Element Patlamasını kullandıktan sonra 15sn boyunca, yakındaki aktif karakterlerin verdiği Elektrik Yüklü, Çiçeklenme, Ay Yüklü ve Ay Çiçeklenmesi tepkimesi Hasarları %15 artar.\n<color=#FFD780FF>Ay Sembolü: Yükselen Parıltı</color>: Yukarıda bahsedilen tepkimelerin verdikleri Hasar %20 daha artar.",
-		"description": "Aino **Hassas Hidronik Soğutucu** Element Patlamasını kullandıktan sonra 15sn boyunca, yakındaki aktif karakterlerin verdiği Elektrik Yüklü, Çiçeklenme, Ay Yüklü ve Ay Çiçeklenmesi tepkimesi Hasarları %15 artar.\nAy Sembolü: Yükselen Parıltı: Yukarıda bahsedilen tepkimelerin verdikleri Hasar %20 daha artar."
+		"descriptionRaw": "Aino <color=#FFD780FF>{LINK#S11215}Hassas Hidronik Soğutucu{/LINK}</color> Element Patlamasını kullandıktan sonra 15sn boyunca, yakındaki aktif karakterlerin verdiği Elektrik Yüklü, Çiçeklenme, Ay Yüklü, Ay Çiçeklenmesi ve Ay Kristalleşmesi tepkimelerinin Hasarları %15 artar.\n<color=#FFD780FF>Ay Sembolü: Yükselen Parıltı</color>: Yukarıda bahsedilen tepkimelerin verdikleri Hasar %20 daha artar.",
+		"description": "Aino **Hassas Hidronik Soğutucu** Element Patlamasını kullandıktan sonra 15sn boyunca, yakındaki aktif karakterlerin verdiği Elektrik Yüklü, Çiçeklenme, Ay Yüklü, Ay Çiçeklenmesi ve Ay Kristalleşmesi tepkimelerinin Hasarları %15 artar.\nAy Sembolü: Yükselen Parıltı: Yukarıda bahsedilen tepkimelerin verdikleri Hasar %20 daha artar."
 	}
 }

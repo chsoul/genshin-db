@@ -6,7 +6,7 @@
 	],
 	"name": "Nächtliches Geflüster in den widerhallenden Wäldern",
 	"effect2Pc": "Erhöht den ANG um 18 %.",
-	"effect4Pc": "Erhöht den Geo-SCH-Bonus 10 s lang um 20 %, nachdem eine Elementarfähigkeit eingesetzt wurde. Erhöht diesen Effekt zusätzlich um 150 %, wenn die Figur von einem Kristallschild, der durch die Reaktion „Kristallisation“ entsteht, geschützt wird. Diese weitere Verstärkung wird 1 s nach dem Verlieren des Schildes entfernt.",
+	"effect4Pc": "Erhöht den Geo-SCH-Bonus 10 s lang um 20 %, nachdem eine Elementarfähigkeit eingesetzt wurde. Erhöht diesen Effekt zusätzlich um 150 %, wenn die Figur von einem Kristallschild, der durch die Reaktion „Kristallisation“ entsteht, geschützt wird, oder sich in der Nähe ein durch die Reaktion „Mond-Kristallisation“ hervorgerufener Mondkäfig befindet – diese weitere Verstärkung wird 1 s nach der Nichterfüllung dieser Bedingungen entfernt.",
 	"flower": {
 		"name": "Selbstloser Blumenschmuck",
 		"relicType": "EQUIP_BRACER",

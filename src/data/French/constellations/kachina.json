@@ -3,8 +3,8 @@
 	"name": "Kachina",
 	"c1": {
 		"name": "Les fragments sont aussi des gemmes",
-		"descriptionRaw": "Lorsque Kachina monte sur <color=#FFD780FF>Virevolturbo</color> ou en descend, elle collecte les fragments proches qui ont été générés par des réactions de Cristallisation.\nDe plus, lorsqu'un personnage de l'équipe obtient un fragment, Kachina récupère 3 pts d'énergie élémentaire, l'énergie élémentaire pouvant être restaurée une fois toutes les 5 s de cette manière.",
-		"description": "Lorsque Kachina monte sur Virevolturbo ou en descend, elle collecte les fragments proches qui ont été générés par des réactions de Cristallisation.\nDe plus, lorsqu'un personnage de l'équipe obtient un fragment, Kachina récupère 3 pts d'énergie élémentaire, l'énergie élémentaire pouvant être restaurée une fois toutes les 5 s de cette manière."
+		"descriptionRaw": "Lorsque Kachina monte sur <color=#FFD780FF>Virevolturbo</color> ou en descend, elle collecte les fragments proches qui ont été générés par des réactions de Cristallisation.\nDe plus, lorsqu'un personnage de l'équipe obtient un fragment ou déclenche une réaction de Sélénocristallisation, Kachina récupère 3 pts d'énergie élémentaire, l'énergie élémentaire pouvant être restaurée une fois toutes les 5 s de cette manière.",
+		"description": "Lorsque Kachina monte sur Virevolturbo ou en descend, elle collecte les fragments proches qui ont été générés par des réactions de Cristallisation.\nDe plus, lorsqu'un personnage de l'équipe obtient un fragment ou déclenche une réaction de Sélénocristallisation, Kachina récupère 3 pts d'énergie élémentaire, l'énergie élémentaire pouvant être restaurée une fois toutes les 5 s de cette manière."
 	},
 	"c2": {
 		"name": "Jamais sans... Virevolturbo",

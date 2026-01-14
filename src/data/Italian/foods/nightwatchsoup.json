@@ -1,0 +1,36 @@
+{
+	"id": 10000127,
+	"name": "Zuppa della guardia notturna",
+	"rarity": 3,
+	"foodtype": "SPECIALTY",
+	"filterType": "COOK_FOOD_HEAL",
+	"filterText": "Piatti rigenerativi",
+	"effect": "Ripristina un 40% dei PS max e 2.350 PS aggiuntivi del personaggio selezionato.",
+	"description": "La specialità di Illuga. Una calda ciotola di brodo che scaccia la fatica con un solo sorso, alleviando la fatica dopo una lunga ronda notturna. Un simile effetto deve essere frutto dei molti anni di esperienza accumulata dal giovane capitano, che gli hanno permesso di perfezionare la sua ricetta speciale...",
+	"baseDishId": 3609,
+	"baseDishName": "Zuppa di verdure",
+	"characterId": 10000127,
+	"characterName": "Illuga",
+	"ingredients": [
+		{
+			"id": 100018,
+			"name": "Cavolo",
+			"count": 3
+		},
+		{
+			"id": 100013,
+			"name": "Carota",
+			"count": 3
+		},
+		{
+			"id": 100080,
+			"name": "Patata",
+			"count": 2
+		},
+		{
+			"id": 110015,
+			"name": "Smetana",
+			"count": 2
+		}
+	]
+}

@@ -6,7 +6,7 @@
 	],
 	"name": "Archaischer Fels",
 	"effect2Pc": "Erhöht den Geo-Schaden um 15 %.",
-	"effect4Pc": "Erhöht beim Erschaffen von Splittern durch eine Kristallisationsreaktion den mit dem jeweiligen Element verursachen Schaden aller Truppenmitglieder 10 s lang um 35 %. Zu einem Zeitpunkt kann nur ein SCH-Bonus aufgrund dieses Effekts bestehen.",
+	"effect4Pc": "Erhöht beim Erhalten von durch die Reaktion Kristallisation erschaffenen Splittern oder beim Auslösen der Reaktion Mond-Kristallisation den mit dem jeweiligen Element verursachten Schaden aller Truppenmitglieder 10 s lang um 35 %. Zu einem Zeitpunkt kann nur ein SCH-Bonus aufgrund dieses Effekts bestehen.",
 	"flower": {
 		"name": "Blüte der splitternden Felsen",
 		"relicType": "EQUIP_BRACER",

@@ -8,8 +8,8 @@
 	},
 	"c2": {
 		"name": "Segugio seduto: Affidabile come un orologio",
-		"descriptionRaw": "#Mentre <color=#FFD780FF>Gloria del generale</color> è attiva, la sua durata si estende di 1{NON_BREAK_SPACE}s quando un personaggio attivo vicino ottiene un frammento elementale tramite una reazione di Cristallizzazione. \nSi può verificare una sola volta ogni 0,1{NON_BREAK_SPACE}s. La durata può estendersi fino a 3{NON_BREAK_SPACE}s.",
-		"description": "Mentre Gloria del generale è attiva, la sua durata si estende di 1 s quando un personaggio attivo vicino ottiene un frammento elementale tramite una reazione di Cristallizzazione. \nSi può verificare una sola volta ogni 0,1 s. La durata può estendersi fino a 3 s."
+		"descriptionRaw": "#Mentre <color=#FFD780FF>Gloria del generale</color> è attiva, la sua durata si estende di 1{NON_BREAK_SPACE}s quando un personaggio attivo vicino ottiene un frammento elementale tramite una reazione di Cristallizzazione o quando innesca una reazione di Cristallizzazione lunare. \nSi può verificare una sola volta ogni 0,1{NON_BREAK_SPACE}s. La durata può estendersi fino a 3{NON_BREAK_SPACE}s.",
+		"description": "Mentre Gloria del generale è attiva, la sua durata si estende di 1 s quando un personaggio attivo vicino ottiene un frammento elementale tramite una reazione di Cristallizzazione o quando innesca una reazione di Cristallizzazione lunare. \nSi può verificare una sola volta ogni 0,1 s. La durata può estendersi fino a 3 s."
 	},
 	"c3": {
 		"name": "Segugio da combattimento: Feroce come il fuoco",

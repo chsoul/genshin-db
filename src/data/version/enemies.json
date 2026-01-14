@@ -35,9 +35,12 @@
 	"taintedwaterspoutingphantasm": "4.0",
 	"hydrotulpa": "4.2",
 	"blazingbrilliancefrostnightscion": "6.0",
+	"surgingcurrentsfrostnightscion": "6.3",
+	"veiledcloudchaserfrostnightscion": "6.3",
 	"gleamingchargefrostnightscion": "6.0",
 	"tangledvinesfrostnightscion": "6.0",
 	"icycrystalfrostnightscion": "6.0",
+	"gildedsunshardfrostnightscion": "6.3",
 	"frostnightherra": "6.1",
 	"hilichurl": "",
 	"hilichurlfighter": "",
@@ -96,6 +99,8 @@
 	"tenebrouspapillatypei": "5.2",
 	"wildernessexile": "6.0",
 	"wildernesshunter": "6.0",
+	"fisherofhiddendepths": "6.3",
+	"lordofthehiddendepthswhispererofnightmares": "6.3",
 	"fatuiskirmisherpyroslingerbracer": "",
 	"fatuiskirmisherhydrogunnerlegionnaire": "",
 	"fatuiskirmisheranemoboxervanguard": "",
@@ -299,6 +304,7 @@
 	"radiantantelope": "6.0",
 	"radiantbladehorn": "6.0",
 	"radiantlunapod": "6.0",
+	"radiantglacialwolf": "6.3",
 	"radiantmoonfly": "6.0",
 	"stormterror": "",
 	"lupusboreasdominatorofwolves": "",
@@ -311,5 +317,6 @@
 	"alldevouringnarwhal": "4.2",
 	"theknave": "4.6",
 	"lordoferodedprimalfire": "5.3",
-	"thegamebeforethegate": "5.6"
+	"thegamebeforethegate": "5.6",
+	"thedoctor": "6.3"
 }

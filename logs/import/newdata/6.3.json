@@ -1,0 +1,200 @@
+{
+	"characters": [
+		{
+			"dataid": 10000127,
+			"filename": "illuga"
+		},
+		{
+			"dataid": 10000125,
+			"filename": "columbina"
+		},
+		{
+			"dataid": 10000126,
+			"filename": "zibai"
+		}
+	],
+	"weapons": [
+		{
+			"dataid": 14522,
+			"filename": "nocturnescurtaincall"
+		},
+		{
+			"dataid": 11519,
+			"filename": "lightbearingmoonshard"
+		}
+	],
+	"artifacts": [
+		{
+			"dataid": 15044,
+			"filename": "adaycarvedfromrisingwinds"
+		},
+		{
+			"dataid": 15043,
+			"filename": "aubadeofmorningstarandmoon"
+		}
+	],
+	"constellations": [
+		{
+			"dataid": 12701,
+			"filename": "illuga"
+		},
+		{
+			"dataid": 12501,
+			"filename": "columbina"
+		},
+		{
+			"dataid": 12601,
+			"filename": "zibai"
+		}
+	],
+	"talents": [
+		{
+			"dataid": 12701,
+			"filename": "illuga"
+		},
+		{
+			"dataid": 12501,
+			"filename": "columbina"
+		},
+		{
+			"dataid": 12601,
+			"filename": "zibai"
+		}
+	],
+	"enemies": [
+		{
+			"dataid": 29130201,
+			"filename": "thedoctor"
+		},
+		{
+			"dataid": 22150101,
+			"filename": "lordofthehiddendepthswhispererofnightmares"
+		},
+		{
+			"dataid": 20080701,
+			"filename": "gildedsunshardfrostnightscion"
+		},
+		{
+			"dataid": 20080501,
+			"filename": "surgingcurrentsfrostnightscion"
+		},
+		{
+			"dataid": 20080601,
+			"filename": "veiledcloudchaserfrostnightscion"
+		},
+		{
+			"dataid": 22140101,
+			"filename": "fisherofhiddendepths"
+		},
+		{
+			"dataid": 26300401,
+			"filename": "radiantglacialwolf"
+		}
+	],
+	"materials": [
+		{
+			"dataid": 121452,
+			"filename": "irismoonseal-02"
+		},
+		{
+			"dataid": 121450,
+			"filename": "irismoonseal"
+		},
+		{
+			"dataid": 113083,
+			"filename": "elixiroftheheretic"
+		},
+		{
+			"dataid": 113081,
+			"filename": "maskofthevirtuousdoctor"
+		},
+		{
+			"dataid": 112138,
+			"filename": "aberrantcoreofthedeepshadow"
+		},
+		{
+			"dataid": 101269,
+			"filename": "pineamber"
+		},
+		{
+			"dataid": 101268,
+			"filename": "wintericelea"
+		},
+		{
+			"dataid": 112139,
+			"filename": "hookedbeakofthedeepshadow"
+		},
+		{
+			"dataid": 112137,
+			"filename": "fracturedeyeofthedeepshadow"
+		},
+		{
+			"dataid": 113082,
+			"filename": "madmansrestraint"
+		},
+		{
+			"dataid": 113084,
+			"filename": "remnantofthedreadwing"
+		},
+		{
+			"dataid": 121451,
+			"filename": "irismoonseal-01"
+		}
+	],
+	"domains": [
+		{
+			"dataid": 4686,
+			"filename": "domainofblessingsacredvaultiv"
+		},
+		{
+			"dataid": 4684,
+			"filename": "domainofblessingsacredvaultii"
+		},
+		{
+			"dataid": 4683,
+			"filename": "domainofblessingsacredvaulti"
+		},
+		{
+			"dataid": 4685,
+			"filename": "domainofblessingsacredvaultiii"
+		}
+	],
+	"foods": [
+		{
+			"dataid": 4107,
+			"filename": "luckysnowdelight"
+		},
+		{
+			"dataid": 3610,
+			"filename": "firesidemerriment"
+		},
+		{
+			"dataid": 3609,
+			"filename": "veggiepotsoup"
+		},
+		{
+			"dataid": 3608,
+			"filename": "berryherbalcandy"
+		},
+		{
+			"dataid": 3124,
+			"filename": "crispyspringrolls"
+		},
+		{
+			"dataid": 10000126,
+			"filename": "flavorofspring"
+		},
+		{
+			"dataid": 10000125,
+			"filename": "moonlitmirage"
+		},
+		{
+			"dataid": 10000127,
+			"filename": "nightwatchsoup"
+		},
+		{
+			"dataid": 3611,
+			"filename": "mushroomphantasm"
+		}
+	]
+}

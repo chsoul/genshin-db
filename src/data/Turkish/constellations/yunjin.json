@@ -18,8 +18,8 @@
 	},
 	"c4": {
 		"name": "Çiçek ve Savaşçı",
-		"descriptionRaw": "Yun Jin, Kristalleşme Tepkimesini tetiklediğinde 12 saniyeliğine Savunması %20 artar.",
-		"description": "Yun Jin, Kristalleşme Tepkimesini tetiklediğinde 12 saniyeliğine Savunması %20 artar."
+		"descriptionRaw": "Yun Jin Kristalleşme veya Ay Kristalleşmesi tepkimelerini tetiklediğinde 12 saniyeliğine Savunması %20 artar.",
+		"description": "Yun Jin Kristalleşme veya Ay Kristalleşmesi tepkimelerini tetiklediğinde 12 saniyeliğine Savunması %20 artar."
 	},
 	"c5": {
 		"name": "Meşhur Bir Oyuncu",

@@ -6,7 +6,7 @@
 	],
 	"name": "Yankılı Ormanda Gece Fısıltısı",
 	"effect2Pc": "+%18 Saldırı.",
-	"effect4Pc": "Bir Element Becerisi kullandıktan sonra 10 saniyeliğine %20 Toprak Hasarı Bonusu kazanılır. Kristalleşme tepkimesinden gelen bir kalkan mevcutsa bu etki %150 artar. Bu ek artış, kalkan etkisini kaybettikten 1sn sonra kaybolur.",
+	"effect4Pc": "Bir Element Becerisi kullandıktan sonra 10 saniyeliğine %20 Toprak Hasarı Bonusu kazanılır. Kristalleşme tepkimesinden gelen bir kalkan mevcutsa veya yakında Ay Kristalleşmesi tepkimeleriyle oluşan Ay Akıntıları varsa bu etki %150 artar. Bu ek artış, koşullar ortadan kalktıktan 1sn sonra kaybolur.",
 	"flower": {
 		"name": "Fedakar Çiçekli Aksesuar",
 		"relicType": "EQUIP_BRACER",

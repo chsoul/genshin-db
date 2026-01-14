@@ -8,8 +8,8 @@
 	},
 	"c2": {
 		"name": "Sitzender Hund – Verlässlich wie eine Uhr",
-		"descriptionRaw": "Verlängert die Wirkungsdauer von Gorous <color=#FFD780FF>Würde des Generals</color> beim Erhalten von durch Kristallisationsreaktionen entstehenden Splittern durch aktuelle Figuren in der Nähe während der Wirkungsdauer von Würde des Generals um 1 s.\n0,1 s Abklingzeit, verlängert die Wirkungsdauer auf diese Weise um bis zu 3 s.",
-		"description": "Verlängert die Wirkungsdauer von Gorous Würde des Generals beim Erhalten von durch Kristallisationsreaktionen entstehenden Splittern durch aktuelle Figuren in der Nähe während der Wirkungsdauer von Würde des Generals um 1 s.\n0,1 s Abklingzeit, verlängert die Wirkungsdauer auf diese Weise um bis zu 3 s."
+		"descriptionRaw": "#Verlängert die Wirkungsdauer von Gorous <color=#FFD780FF>Würde des Generals</color> beim Erhalten von durch Kristallisationsreaktionen entstehenden Splittern oder Auslösen der Reaktion „Mond-Kristallisation“ durch aktuelle Figuren in der Nähe während der Wirkungsdauer von Würde des Generals um 1{NON_BREAK_SPACE}s.\n0,1{NON_BREAK_SPACE}s Abklingzeit, verlängert die Wirkungsdauer auf diese Weise um bis zu 3{NON_BREAK_SPACE}s.",
+		"description": "Verlängert die Wirkungsdauer von Gorous Würde des Generals beim Erhalten von durch Kristallisationsreaktionen entstehenden Splittern oder Auslösen der Reaktion „Mond-Kristallisation“ durch aktuelle Figuren in der Nähe während der Wirkungsdauer von Würde des Generals um 1 s.\n0,1 s Abklingzeit, verlängert die Wirkungsdauer auf diese Weise um bis zu 3 s."
 	},
 	"c3": {
 		"name": "Bellender Hund – Fauchend wie Feuer",

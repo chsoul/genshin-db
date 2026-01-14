@@ -930,5 +930,32 @@
 		"filename_passive2": "UI_Talent_S_Jahoda_06",
 		"filename_passive3": "UI_Talent_S_Jahoda_07",
 		"filename_passive4": "UI_Talent_S_Jahoda_08"
+	},
+	"columbina": {
+		"filename_combat1": "Skill_A_Catalyst_MD",
+		"filename_combat2": "Skill_S_Columbina_01",
+		"filename_combat3": "Skill_E_Columbina_01_HD",
+		"filename_passive1": "UI_Talent_S_Columbina_05",
+		"filename_passive2": "UI_Talent_S_Columbina_06",
+		"filename_passive3": "UI_Talent_S_Columbina_07",
+		"filename_passive4": "UI_Talent_S_Columbina_08"
+	},
+	"zibai": {
+		"filename_combat1": "Skill_A_01",
+		"filename_combat2": "Skill_S_Zibai_01",
+		"filename_combat3": "Skill_E_Zibai_01_HD",
+		"filename_passive1": "UI_Talent_S_Zibai_05",
+		"filename_passive2": "UI_Talent_S_Zibai_06",
+		"filename_passive3": "UI_Talent_S_Zibai_07",
+		"filename_passive4": "UI_Talent_S_Zibai_08"
+	},
+	"illuga": {
+		"filename_combat1": "Skill_A_03",
+		"filename_combat2": "Skill_S_Illuga_01",
+		"filename_combat3": "Skill_E_Illuga_01_HD",
+		"filename_passive1": "UI_Talent_S_Illuga_05",
+		"filename_passive2": "UI_Talent_S_Illuga_06",
+		"filename_passive3": "UI_Talent_S_Illuga_07",
+		"filename_passive4": "UI_Talent_S_Illuga_08"
 	}
 }

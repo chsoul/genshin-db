@@ -8,8 +8,8 @@
 	},
 	"c2": {
 		"name": "Pegureiro Sentado: Firme Feito a Rocha",
-		"descriptionRaw": "Quando um personagem próximo ganha um Fragmento de Cristal da Reação de Cristalização criado enquanto a <color=#FFD780FF>Glória do General</color> está ativa, a duração da Glória do General do próprio Gorou é aumentada em 1s.\nIsso só pode ocorrer uma vez a cada 0.1s e sua duração só pode ser prolongada por um máximo de 3s.",
-		"description": "Quando um personagem próximo ganha um Fragmento de Cristal da Reação de Cristalização criado enquanto a Glória do General está ativa, a duração da Glória do General do próprio Gorou é aumentada em 1s.\nIsso só pode ocorrer uma vez a cada 0.1s e sua duração só pode ser prolongada por um máximo de 3s."
+		"descriptionRaw": "Enquanto <color=#FFD780FF>Glória do General</color> estiver ativa, sua duração é estendida em 1s quando um personagem ativo próximo obtém um Fragmento Elemental de uma reação de Cristalização, ou desencadeia uma Reação de Cristalização Lunar.\nIsso só pode ocorrer uma vez a cada 0.1s e sua duração só pode ser prolongada por um máximo de 3s.",
+		"description": "Enquanto Glória do General estiver ativa, sua duração é estendida em 1s quando um personagem ativo próximo obtém um Fragmento Elemental de uma reação de Cristalização, ou desencadeia uma Reação de Cristalização Lunar.\nIsso só pode ocorrer uma vez a cada 0.1s e sua duração só pode ser prolongada por um máximo de 3s."
 	},
 	"c3": {
 		"name": "Pegureiro Feroz: Feroz como o Fogo",

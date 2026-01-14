@@ -28,7 +28,7 @@
 	},
 	"c6": {
 		"name": "Đất Tinh Khiết",
-		"descriptionRaw": "Nhân vật trong đội trên trận ở khu vực Hoa Mặt Trời, nếu đang được bảo vệ bởi khiên sinh ra từ phản ứng kết tinh, thì sát thương tạo thành sẽ tăng 17%.",
-		"description": "Nhân vật trong đội trên trận ở khu vực Hoa Mặt Trời, nếu đang được bảo vệ bởi khiên sinh ra từ phản ứng kết tinh, thì sát thương tạo thành sẽ tăng 17%."
+		"descriptionRaw": "Nhân vật ra trận trong đội hiện tại khi ở trong phạm vi của Hoa Mặt Trời, nếu được bảo vệ bởi khiên sinh ra từ phản ứng Kết Tinh, hoặc khi có Trăng Trôi trong khu vực của Hoa Mặt Trời, thì sẽ tăng 17% sát thương gây ra.",
+		"description": "Nhân vật ra trận trong đội hiện tại khi ở trong phạm vi của Hoa Mặt Trời, nếu được bảo vệ bởi khiên sinh ra từ phản ứng Kết Tinh, hoặc khi có Trăng Trôi trong khu vực của Hoa Mặt Trời, thì sẽ tăng 17% sát thương gây ra."
 	}
 }

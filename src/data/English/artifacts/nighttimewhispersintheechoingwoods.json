@@ -6,7 +6,7 @@
 	],
 	"name": "Nighttime Whispers in the Echoing Woods",
 	"effect2Pc": "ATK +18%.",
-	"effect4Pc": "After using an Elemental Skill, gain a 20% Geo DMG Bonus for 10s. While under a shield granted by the Crystallize reaction, the above effect will be increased by 150%, and this additional increase disappears 1s after that shield is lost.",
+	"effect4Pc": "After using an Elemental Skill, gain a 20% Geo DMG Bonus for 10s. When under a shield granted by the Crystallize reaction, or when Moondrifts formed by Lunar-Crystallize reactions are nearby, the above effect is increased by 150%. When these conditions are no longer met, this additional increase disappears after 1s.",
 	"flower": {
 		"name": "Selfless Floral Accessory",
 		"relicType": "EQUIP_BRACER",

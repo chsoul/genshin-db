@@ -1,0 +1,14 @@
+{
+	"id": 101269,
+	"name": "Ámbar de pino",
+	"sortRank": 317,
+	"description": "Una gema formada a partir de la resina de los imponentes árboles antiguos que una vez cubrieron Nod Krai. Con el paso de las eras, la resina se endureció hasta convertirse en ámbar cristalino, que ahora brilla con vívidos y radiantes matices.",
+	"category": "EXCHANGE",
+	"typeText": "Objeto típico de Nod Krai",
+	"sources": [
+		"Recolectar en la Ciénaga Sombrapesadilla",
+		"Recolectar cerca del Puesto de Avanzada de Favonius",
+		"Plantar en la Relajatetera",
+		"Recolectar"
+	]
+}

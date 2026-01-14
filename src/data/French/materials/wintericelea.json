@@ -1,0 +1,14 @@
+{
+	"id": 101268,
+	"name": "Glacelée d'hiver",
+	"sortRank": 317,
+	"description": "Plante rustique réputée pour résister aux vents violents et au gel. Elle survit même aux plus froids des hivers.",
+	"category": "EXCHANGE",
+	"typeText": "Produit de Nod-Krai",
+	"sources": [
+		"Pilier d'Embla",
+		"Zone conseillée : Amsvartnir",
+		"Agriculture dans la Sérénithéière",
+		"Aller collecter"
+	]
+}

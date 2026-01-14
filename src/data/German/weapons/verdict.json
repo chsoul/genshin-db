@@ -12,37 +12,37 @@
 	"mainStatText": "KT",
 	"baseStatText": "4,8%",
 	"effectName": "Zahlreiche Eide der Morgenröte und Abenddämmerung",
-	"effectTemplateRaw": "#Erhöht den ANG um <color=#99FFFFFF>{0}</color>. Verleiht dem Träger, wenn Truppenmitglieder Elementarsplitter durch die Reaktion „Kristallisation“ erhalten, 1 Siegel, das den Schaden der Elementarfähigkeit um <color=#99FFFFFF>{1}</color> erhöht. Das Siegel hält 15{NON_BREAK_SPACE}s und der Träger kann bis zu 2 Siegel auf einmal haben. Alle Siegel des Trägers werden 0,2{NON_BREAK_SPACE}s, nachdem dessen Elementarfähigkeit Schaden verursacht hat, entfernt.",
+	"effectTemplateRaw": "#Erhöht den ANG um <color=#99FFFFFF>{0}</color>. Verleiht dem Träger, wenn Truppenmitglieder Elementarsplitter durch die Reaktion „Kristallisation“ erhalten oder die Reaktion „Mond-Kristallisation“ auslösen, 1 Siegel, das den Schaden der Elementarfähigkeit um <color=#99FFFFFF>{1}</color> erhöht. Das Siegel hält 15{NON_BREAK_SPACE}s und der Träger kann bis zu 2 Siegel auf einmal haben. Alle Siegel des Trägers werden 0,2{NON_BREAK_SPACE}s, nachdem dessen Elementarfähigkeit Schaden verursacht hat, entfernt. Durch die Reaktion „Mond-Kristallisation“ kann pro Sekunde nur 1 Siegel erhalten werden.",
 	"r1": {
-		"description": "Erhöht den ANG um 20 %. Verleiht dem Träger, wenn Truppenmitglieder Elementarsplitter durch die Reaktion „Kristallisation“ erhalten, 1 Siegel, das den Schaden der Elementarfähigkeit um 18 % erhöht. Das Siegel hält 15 s und der Träger kann bis zu 2 Siegel auf einmal haben. Alle Siegel des Trägers werden 0,2 s, nachdem dessen Elementarfähigkeit Schaden verursacht hat, entfernt.",
+		"description": "Erhöht den ANG um 20 %. Verleiht dem Träger, wenn Truppenmitglieder Elementarsplitter durch die Reaktion „Kristallisation“ erhalten oder die Reaktion „Mond-Kristallisation“ auslösen, 1 Siegel, das den Schaden der Elementarfähigkeit um 18 % erhöht. Das Siegel hält 15 s und der Träger kann bis zu 2 Siegel auf einmal haben. Alle Siegel des Trägers werden 0,2 s, nachdem dessen Elementarfähigkeit Schaden verursacht hat, entfernt. Durch die Reaktion „Mond-Kristallisation“ kann pro Sekunde nur 1 Siegel erhalten werden.",
 		"values": [
 			"20{NON_BREAK_SPACE}%",
 			"18{NON_BREAK_SPACE}%"
 		]
 	},
 	"r2": {
-		"description": "Erhöht den ANG um 25 %. Verleiht dem Träger, wenn Truppenmitglieder Elementarsplitter durch die Reaktion „Kristallisation“ erhalten, 1 Siegel, das den Schaden der Elementarfähigkeit um 22,5 % erhöht. Das Siegel hält 15 s und der Träger kann bis zu 2 Siegel auf einmal haben. Alle Siegel des Trägers werden 0,2 s, nachdem dessen Elementarfähigkeit Schaden verursacht hat, entfernt.",
+		"description": "Erhöht den ANG um 25 %. Verleiht dem Träger, wenn Truppenmitglieder Elementarsplitter durch die Reaktion „Kristallisation“ erhalten oder die Reaktion „Mond-Kristallisation“ auslösen, 1 Siegel, das den Schaden der Elementarfähigkeit um 22,5 % erhöht. Das Siegel hält 15 s und der Träger kann bis zu 2 Siegel auf einmal haben. Alle Siegel des Trägers werden 0,2 s, nachdem dessen Elementarfähigkeit Schaden verursacht hat, entfernt. Durch die Reaktion „Mond-Kristallisation“ kann pro Sekunde nur 1 Siegel erhalten werden.",
 		"values": [
 			"25{NON_BREAK_SPACE}%",
 			"22,5{NON_BREAK_SPACE}%"
 		]
 	},
 	"r3": {
-		"description": "Erhöht den ANG um 30 %. Verleiht dem Träger, wenn Truppenmitglieder Elementarsplitter durch die Reaktion „Kristallisation“ erhalten, 1 Siegel, das den Schaden der Elementarfähigkeit um 27 % erhöht. Das Siegel hält 15 s und der Träger kann bis zu 2 Siegel auf einmal haben. Alle Siegel des Trägers werden 0,2 s, nachdem dessen Elementarfähigkeit Schaden verursacht hat, entfernt.",
+		"description": "Erhöht den ANG um 30 %. Verleiht dem Träger, wenn Truppenmitglieder Elementarsplitter durch die Reaktion „Kristallisation“ erhalten oder die Reaktion „Mond-Kristallisation“ auslösen, 1 Siegel, das den Schaden der Elementarfähigkeit um 27 % erhöht. Das Siegel hält 15 s und der Träger kann bis zu 2 Siegel auf einmal haben. Alle Siegel des Trägers werden 0,2 s, nachdem dessen Elementarfähigkeit Schaden verursacht hat, entfernt. Durch die Reaktion „Mond-Kristallisation“ kann pro Sekunde nur 1 Siegel erhalten werden.",
 		"values": [
 			"30{NON_BREAK_SPACE}%",
 			"27{NON_BREAK_SPACE}%"
 		]
 	},
 	"r4": {
-		"description": "Erhöht den ANG um 35 %. Verleiht dem Träger, wenn Truppenmitglieder Elementarsplitter durch die Reaktion „Kristallisation“ erhalten, 1 Siegel, das den Schaden der Elementarfähigkeit um 31,5 % erhöht. Das Siegel hält 15 s und der Träger kann bis zu 2 Siegel auf einmal haben. Alle Siegel des Trägers werden 0,2 s, nachdem dessen Elementarfähigkeit Schaden verursacht hat, entfernt.",
+		"description": "Erhöht den ANG um 35 %. Verleiht dem Träger, wenn Truppenmitglieder Elementarsplitter durch die Reaktion „Kristallisation“ erhalten oder die Reaktion „Mond-Kristallisation“ auslösen, 1 Siegel, das den Schaden der Elementarfähigkeit um 31,5 % erhöht. Das Siegel hält 15 s und der Träger kann bis zu 2 Siegel auf einmal haben. Alle Siegel des Trägers werden 0,2 s, nachdem dessen Elementarfähigkeit Schaden verursacht hat, entfernt. Durch die Reaktion „Mond-Kristallisation“ kann pro Sekunde nur 1 Siegel erhalten werden.",
 		"values": [
 			"35{NON_BREAK_SPACE}%",
 			"31,5{NON_BREAK_SPACE}%"
 		]
 	},
 	"r5": {
-		"description": "Erhöht den ANG um 40 %. Verleiht dem Träger, wenn Truppenmitglieder Elementarsplitter durch die Reaktion „Kristallisation“ erhalten, 1 Siegel, das den Schaden der Elementarfähigkeit um 36 % erhöht. Das Siegel hält 15 s und der Träger kann bis zu 2 Siegel auf einmal haben. Alle Siegel des Trägers werden 0,2 s, nachdem dessen Elementarfähigkeit Schaden verursacht hat, entfernt.",
+		"description": "Erhöht den ANG um 40 %. Verleiht dem Träger, wenn Truppenmitglieder Elementarsplitter durch die Reaktion „Kristallisation“ erhalten oder die Reaktion „Mond-Kristallisation“ auslösen, 1 Siegel, das den Schaden der Elementarfähigkeit um 36 % erhöht. Das Siegel hält 15 s und der Träger kann bis zu 2 Siegel auf einmal haben. Alle Siegel des Trägers werden 0,2 s, nachdem dessen Elementarfähigkeit Schaden verursacht hat, entfernt. Durch die Reaktion „Mond-Kristallisation“ kann pro Sekunde nur 1 Siegel erhalten werden.",
 		"values": [
 			"40{NON_BREAK_SPACE}%",
 			"36{NON_BREAK_SPACE}%"

@@ -12,37 +12,37 @@
 	"mainStatText": "Taux CRIT",
 	"baseStatText": "4,8%",
 	"effectName": "Promesses des mille aubes et crépuscules",
-	"effectTemplateRaw": "Augmente l'ATQ de <color=#99FFFFFF>{0}</color>. Lorsqu'un personnage de l'équipe obtient un fragment généré par une réaction de Cristallisation, le personnage équipé de l'arme gagne 1 sceau pendant 15 s, ce qui augmente les DGT de ses compétences élémentaires de <color=#99FFFFFF>{1}</color>. Un maximum de 2 sceaux peut être obtenu en même temps, tous les sceaux disparaissant 0,2 s après que le personnage équipé de l'arme inflige des DGT avec une compétence élémentaire.",
+	"effectTemplateRaw": "Augmente l'ATQ de <color=#99FFFFFF>{0}</color>. Lorsqu'un personnage de l'équipe obtient un fragment généré par une réaction de Cristallisation ou déclenche une réaction de Sélénocristallisation, le personnage équipé de l'arme gagne 1 sceau pendant 15 s, ce qui augmente les DGT de ses compétences élémentaires de <color=#99FFFFFF>{1}</color>. Un maximum de 2 sceaux peut être obtenu en même temps, tous les sceaux disparaissant 0,2 s après que le personnage équipé de l'arme inflige des DGT avec une compétence élémentaire. Un maximum de 1 sceau peut être obtenu toutes les secondes grâce aux réactions de Sélénocristallisation.",
 	"r1": {
-		"description": "Augmente l'ATQ de 20 %. Lorsqu'un personnage de l'équipe obtient un fragment généré par une réaction de Cristallisation, le personnage équipé de l'arme gagne 1 sceau pendant 15 s, ce qui augmente les DGT de ses compétences élémentaires de 18 %. Un maximum de 2 sceaux peut être obtenu en même temps, tous les sceaux disparaissant 0,2 s après que le personnage équipé de l'arme inflige des DGT avec une compétence élémentaire.",
+		"description": "Augmente l'ATQ de 20 %. Lorsqu'un personnage de l'équipe obtient un fragment généré par une réaction de Cristallisation ou déclenche une réaction de Sélénocristallisation, le personnage équipé de l'arme gagne 1 sceau pendant 15 s, ce qui augmente les DGT de ses compétences élémentaires de 18 %. Un maximum de 2 sceaux peut être obtenu en même temps, tous les sceaux disparaissant 0,2 s après que le personnage équipé de l'arme inflige des DGT avec une compétence élémentaire. Un maximum de 1 sceau peut être obtenu toutes les secondes grâce aux réactions de Sélénocristallisation.",
 		"values": [
 			"20 %",
 			"18 %"
 		]
 	},
 	"r2": {
-		"description": "Augmente l'ATQ de 25 %. Lorsqu'un personnage de l'équipe obtient un fragment généré par une réaction de Cristallisation, le personnage équipé de l'arme gagne 1 sceau pendant 15 s, ce qui augmente les DGT de ses compétences élémentaires de 22,5 %. Un maximum de 2 sceaux peut être obtenu en même temps, tous les sceaux disparaissant 0,2 s après que le personnage équipé de l'arme inflige des DGT avec une compétence élémentaire.",
+		"description": "Augmente l'ATQ de 25 %. Lorsqu'un personnage de l'équipe obtient un fragment généré par une réaction de Cristallisation ou déclenche une réaction de Sélénocristallisation, le personnage équipé de l'arme gagne 1 sceau pendant 15 s, ce qui augmente les DGT de ses compétences élémentaires de 22,5 %. Un maximum de 2 sceaux peut être obtenu en même temps, tous les sceaux disparaissant 0,2 s après que le personnage équipé de l'arme inflige des DGT avec une compétence élémentaire. Un maximum de 1 sceau peut être obtenu toutes les secondes grâce aux réactions de Sélénocristallisation.",
 		"values": [
 			"25 %",
 			"22,5 %"
 		]
 	},
 	"r3": {
-		"description": "Augmente l'ATQ de 30 %. Lorsqu'un personnage de l'équipe obtient un fragment généré par une réaction de Cristallisation, le personnage équipé de l'arme gagne 1 sceau pendant 15 s, ce qui augmente les DGT de ses compétences élémentaires de 27 %. Un maximum de 2 sceaux peut être obtenu en même temps, tous les sceaux disparaissant 0,2 s après que le personnage équipé de l'arme inflige des DGT avec une compétence élémentaire.",
+		"description": "Augmente l'ATQ de 30 %. Lorsqu'un personnage de l'équipe obtient un fragment généré par une réaction de Cristallisation ou déclenche une réaction de Sélénocristallisation, le personnage équipé de l'arme gagne 1 sceau pendant 15 s, ce qui augmente les DGT de ses compétences élémentaires de 27 %. Un maximum de 2 sceaux peut être obtenu en même temps, tous les sceaux disparaissant 0,2 s après que le personnage équipé de l'arme inflige des DGT avec une compétence élémentaire. Un maximum de 1 sceau peut être obtenu toutes les secondes grâce aux réactions de Sélénocristallisation.",
 		"values": [
 			"30 %",
 			"27 %"
 		]
 	},
 	"r4": {
-		"description": "Augmente l'ATQ de 35 %. Lorsqu'un personnage de l'équipe obtient un fragment généré par une réaction de Cristallisation, le personnage équipé de l'arme gagne 1 sceau pendant 15 s, ce qui augmente les DGT de ses compétences élémentaires de 31,5 %. Un maximum de 2 sceaux peut être obtenu en même temps, tous les sceaux disparaissant 0,2 s après que le personnage équipé de l'arme inflige des DGT avec une compétence élémentaire.",
+		"description": "Augmente l'ATQ de 35 %. Lorsqu'un personnage de l'équipe obtient un fragment généré par une réaction de Cristallisation ou déclenche une réaction de Sélénocristallisation, le personnage équipé de l'arme gagne 1 sceau pendant 15 s, ce qui augmente les DGT de ses compétences élémentaires de 31,5 %. Un maximum de 2 sceaux peut être obtenu en même temps, tous les sceaux disparaissant 0,2 s après que le personnage équipé de l'arme inflige des DGT avec une compétence élémentaire. Un maximum de 1 sceau peut être obtenu toutes les secondes grâce aux réactions de Sélénocristallisation.",
 		"values": [
 			"35 %",
 			"31,5 %"
 		]
 	},
 	"r5": {
-		"description": "Augmente l'ATQ de 40 %. Lorsqu'un personnage de l'équipe obtient un fragment généré par une réaction de Cristallisation, le personnage équipé de l'arme gagne 1 sceau pendant 15 s, ce qui augmente les DGT de ses compétences élémentaires de 36 %. Un maximum de 2 sceaux peut être obtenu en même temps, tous les sceaux disparaissant 0,2 s après que le personnage équipé de l'arme inflige des DGT avec une compétence élémentaire.",
+		"description": "Augmente l'ATQ de 40 %. Lorsqu'un personnage de l'équipe obtient un fragment généré par une réaction de Cristallisation ou déclenche une réaction de Sélénocristallisation, le personnage équipé de l'arme gagne 1 sceau pendant 15 s, ce qui augmente les DGT de ses compétences élémentaires de 36 %. Un maximum de 2 sceaux peut être obtenu en même temps, tous les sceaux disparaissant 0,2 s après que le personnage équipé de l'arme inflige des DGT avec une compétence élémentaire. Un maximum de 1 sceau peut être obtenu toutes les secondes grâce aux réactions de Sélénocristallisation.",
 		"values": [
 			"40 %",
 			"36 %"

@@ -1,0 +1,14 @@
+{
+	"id": 101268,
+	"name": "Capim de Gelo Invernal",
+	"sortRank": 317,
+	"description": "Uma planta extremamente resistente que sobrevive até ao mais severo dos climas, balançando corajosamente pelo frio amargo do inverno.",
+	"category": "EXCHANGE",
+	"typeText": "Especialidade de Nod-Krai",
+	"sources": [
+		"Encontrado no Pilar de Embla",
+		"Recomendação: Encontrado próximo a Amsvartnir",
+		"Plantar no Bule de Relachá",
+		"Ir para coleta"
+	]
+}

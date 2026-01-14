@@ -2467,5 +2467,41 @@
 	},
 	"cyclicmilitarykuuvahkicore": {
 		"filename_icon": "UI_ItemIcon_113080"
+	},
+	"wintericelea": {
+		"filename_icon": "UI_ItemIcon_101266"
+	},
+	"pineamber": {
+		"filename_icon": "UI_ItemIcon_101269"
+	},
+	"hookedbeakofthedeepshadow": {
+		"filename_icon": "UI_ItemIcon_112139"
+	},
+	"aberrantcoreofthedeepshadow": {
+		"filename_icon": "UI_ItemIcon_112138"
+	},
+	"fracturedeyeofthedeepshadow": {
+		"filename_icon": "UI_ItemIcon_112137"
+	},
+	"maskofthevirtuousdoctor": {
+		"filename_icon": "UI_ItemIcon_113081"
+	},
+	"madmansrestraint": {
+		"filename_icon": "UI_ItemIcon_113082"
+	},
+	"elixiroftheheretic": {
+		"filename_icon": "UI_ItemIcon_113083"
+	},
+	"remnantofthedreadwing": {
+		"filename_icon": "UI_ItemIcon_113084"
+	},
+	"irismoonseal": {
+		"filename_icon": "UI_ItemIcon_121450"
+	},
+	"irismoonseal-01": {
+		"filename_icon": "UI_ItemIcon_121451"
+	},
+	"irismoonseal-02": {
+		"filename_icon": "UI_ItemIcon_121452"
 	}
 }

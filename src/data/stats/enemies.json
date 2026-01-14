@@ -791,6 +791,50 @@
 			"defense": "GROW_CURVE_DEFENSE"
 		}
 	},
+	"surgingcurrentsfrostnightscion": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.5,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 173.8752,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"veiledcloudchaserfrostnightscion": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.5,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 138.5568,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
 	"gleamingchargefrostnightscion": {
 		"resistance": {
 			"physical": 0.1,
@@ -848,6 +892,28 @@
 		},
 		"base": {
 			"hp": 176.592,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"gildedsunshardfrostnightscion": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.5,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 138.5568,
 			"attack": 75.36,
 			"defense": 500
 		},
@@ -2124,6 +2190,50 @@
 		},
 		"base": {
 			"hp": 141.2736,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"fisherofhiddendepths": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 40.752,
+			"attack": 37.68,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"lordofthehiddendepthswhispererofnightmares": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 366.768,
 			"attack": 75.36,
 			"defense": 500
 		},
@@ -6599,6 +6709,28 @@
 			"defense": "GROW_CURVE_DEFENSE"
 		}
 	},
+	"radiantglacialwolf": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.5,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 149.424,
+			"attack": 82.896,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
 	"radiantmoonfly": {
 		"resistance": {
 			"physical": 0.1,
@@ -6877,6 +7009,28 @@
 		"base": {
 			"hp": 679.2,
 			"attack": 125.6,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"thedoctor": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 1204.256,
+			"attack": 75.988,
 			"defense": 500
 		},
 		"curve": {

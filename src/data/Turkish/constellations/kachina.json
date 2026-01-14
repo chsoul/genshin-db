@@ -3,8 +3,8 @@
 	"name": "Kachina",
 	"c1": {
 		"name": "Cevher Parçalansa Da Cevherdir",
-		"descriptionRaw": "Kachina <color=#FFD780FF>Turbo Topaç'a</color> bindiğinde veya ondan indiğinde Kristalleşme ile oluşan yakındaki Element Parçalarını toplar.\nAyrıca bir grup üyesi bu Parçalardan birini aldığında Kachina için 3 Enerji yenilenir. Enerji, bu şekilde her 5 saniyede bir yenilenebilir.",
-		"description": "Kachina Turbo Topaç'a bindiğinde veya ondan indiğinde Kristalleşme ile oluşan yakındaki Element Parçalarını toplar.\nAyrıca bir grup üyesi bu Parçalardan birini aldığında Kachina için 3 Enerji yenilenir. Enerji, bu şekilde her 5 saniyede bir yenilenebilir."
+		"descriptionRaw": "Kachina <color=#FFD780FF>Turbo Topaç'a</color> bindiğinde veya ondan indiğinde Kristalleşme ile oluşan yakındaki Element Parçalarını toplar.\nAyrıca bir grup üyesi bu Parçalardan birini aldığında veya Ay Kristalleşmesi tepkimelerini tetiklediğinde Kachina için 3 Enerji yenilenir. Enerji, bu şekilde her 5 saniyede bir yenilenebilir.",
+		"description": "Kachina Turbo Topaç'a bindiğinde veya ondan indiğinde Kristalleşme ile oluşan yakındaki Element Parçalarını toplar.\nAyrıca bir grup üyesi bu Parçalardan birini aldığında veya Ay Kristalleşmesi tepkimelerini tetiklediğinde Kachina için 3 Enerji yenilenir. Enerji, bu şekilde her 5 saniyede bir yenilenebilir."
 	},
 	"c2": {
 		"name": "Turbo Topaç Olmadan Yola Çıkılmaz",

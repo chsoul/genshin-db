@@ -6,7 +6,7 @@
 	],
 	"name": "Nighttime Whispers in the Echoing Woods",
 	"effect2Pc": "ATK +18%.",
-	"effect4Pc": "Selama 10 detik setelah melancarkan Elemental Skill, Geo DMG Bonus akan meningkat 20%. Saat dilindungi oleh Perisai yang tercipta dari reaksi Crystallize, efek di atas akan ditingkatkan lagi sebesar 150%. Efek peningkatan tambahan tersebut akan dihapus setelah 1 detik Perisai Crystallize hilang.",
+	"effect4Pc": "Setelah melancarkan Elemental Skill, Geo DMG Bonus +20% selama 10 detik. Saat dilindungi oleh Perisai yang tercipta dari reaksi Crystallize atau ada Moondrift yang dihasilkan dari reaksi Lunar-Crystallize di sekitar, maka efek di atas akan meningkat sebesar 150%. Efek peningkatan tambahan ini akan hilang 1 detik setelah syarat di atas tak terpenuhi.",
 	"flower": {
 		"name": "Selfless Floral Accessory",
 		"relicType": "EQUIP_BRACER",

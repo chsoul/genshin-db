@@ -1,0 +1,14 @@
+{
+	"id": 101268,
+	"name": "Hierba invernal",
+	"sortRank": 317,
+	"description": "Una planta resistente conocida por soportar el viento y la escarcha implacables. Sobrevive incluso en el frío gélido del invierno.",
+	"category": "EXCHANGE",
+	"typeText": "Objeto típico de Nod Krai",
+	"sources": [
+		"Recolectar en Pilar de Embla",
+		"Recolectar cerca de Ámsvartnir",
+		"Plantar en la Relajatetera",
+		"Recolectar"
+	]
+}

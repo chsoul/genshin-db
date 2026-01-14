@@ -8,8 +8,8 @@
 	},
 	"c2": {
 		"name": "Ngồi: Vững Vàng Như Chuông",
-		"descriptionRaw": "Trong thời gian duy trì <color=#FFD780FF>Uy Nghi Đại Tướng</color>, sau khi nhân vật trong trận gần đó nhận mảnh kết tinh tạo ra từ phản ứng kết tinh, thì Uy Nghi Đại Tướng của Gorou sẽ kéo dài thêm 1s.\nHiệu quả này mỗi 0.1s tối đa kích hoạt 1 lần, tối đa kéo dài thêm 3s bằng cách này.",
-		"description": "Trong thời gian duy trì Uy Nghi Đại Tướng, sau khi nhân vật trong trận gần đó nhận mảnh kết tinh tạo ra từ phản ứng kết tinh, thì Uy Nghi Đại Tướng của Gorou sẽ kéo dài thêm 1s.\nHiệu quả này mỗi 0.1s tối đa kích hoạt 1 lần, tối đa kéo dài thêm 3s bằng cách này."
+		"descriptionRaw": "Trong thời gian duy trì <color=#FFD780FF>Uy Nghi Đại Tướng</color>, sau khi nhân vật trong trận gần đó nhận mảnh tinh thể sinh ra từ phản ứng Kết Tinh hoặc kích hoạt phản ứng Nguyệt-Kết Tinh, thì Uy Nghi Đại Tướng của Gorou sẽ kéo dài thêm 1s.\nHiệu quả này mỗi 0.1s tối đa kích hoạt 1 lần, tối đa kéo dài thêm 3s bằng cách này.",
+		"description": "Trong thời gian duy trì Uy Nghi Đại Tướng, sau khi nhân vật trong trận gần đó nhận mảnh tinh thể sinh ra từ phản ứng Kết Tinh hoặc kích hoạt phản ứng Nguyệt-Kết Tinh, thì Uy Nghi Đại Tướng của Gorou sẽ kéo dài thêm 1s.\nHiệu quả này mỗi 0.1s tối đa kích hoạt 1 lần, tối đa kéo dài thêm 3s bằng cách này."
 	},
 	"c3": {
 		"name": "Cào: Dữ Dội Như Lửa",

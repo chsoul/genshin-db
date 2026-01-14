@@ -18,8 +18,8 @@
 	},
 	"c4": {
 		"name": "Flower and a Fighter",
-		"descriptionRaw": "Setelah Yun Jin memicu reaksi Crystallize, DEF Yun Jin meningkat 20% selama 12 detik.",
-		"description": "Setelah Yun Jin memicu reaksi Crystallize, DEF Yun Jin meningkat 20% selama 12 detik."
+		"descriptionRaw": "Setelah Yun Jin memicu reaksi Crystallize atau Lunar-Crystallize, DEF-nya akan meningkat 20% selama 12 detik.",
+		"description": "Setelah Yun Jin memicu reaksi Crystallize atau Lunar-Crystallize, DEF-nya akan meningkat 20% selama 12 detik."
 	},
 	"c5": {
 		"name": "Famed Throughout the Land",

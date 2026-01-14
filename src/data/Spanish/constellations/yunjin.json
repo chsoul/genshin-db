@@ -18,8 +18,8 @@
 	},
 	"c4": {
 		"name": "Pose bélica",
-		"descriptionRaw": "Cuando Yun Jin causa una reacción de Cristalización, su DEF aumenta en un 20% durante 12 s.",
-		"description": "Cuando Yun Jin causa una reacción de Cristalización, su DEF aumenta en un 20% durante 12 s."
+		"descriptionRaw": "#Cuando Yun Jin causa una reacción de Cristalización o Cristalización Lunar, su DEF aumenta en un 20% durante 12{NON_BREAK_SPACE}s.",
+		"description": "Cuando Yun Jin causa una reacción de Cristalización o Cristalización Lunar, su DEF aumenta en un 20% durante 12 s."
 	},
 	"c5": {
 		"name": "Fama internacional",

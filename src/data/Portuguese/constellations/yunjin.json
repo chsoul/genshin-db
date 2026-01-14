@@ -18,8 +18,8 @@
 	},
 	"c4": {
 		"name": "Flor e Lutadora",
-		"descriptionRaw": "Quando Yunjin desencadeia Cristalização, sua DEF aumenta 20% por 12s.",
-		"description": "Quando Yunjin desencadeia Cristalização, sua DEF aumenta 20% por 12s."
+		"descriptionRaw": "Quando Yunjin desencadeia Cristalização ou Cristalização Lunar, sua DEF aumenta 20% por 12s.",
+		"description": "Quando Yunjin desencadeia Cristalização ou Cristalização Lunar, sua DEF aumenta 20% por 12s."
 	},
 	"c5": {
 		"name": "Fama Mundial",

@@ -28,7 +28,7 @@
 	},
 	"c6": {
 		"name": "Arınma Tozu",
-		"descriptionRaw": "Güneş Çiçeği alanının içinde bulunan aktif grup üyeleri, Kristalleşme tepkimesi ile oluşmuş bir kalkanla korunuyorlarsa verdikleri Hasar %17 artar.",
-		"description": "Güneş Çiçeği alanının içinde bulunan aktif grup üyeleri, Kristalleşme tepkimesi ile oluşmuş bir kalkanla korunuyorlarsa verdikleri Hasar %17 artar."
+		"descriptionRaw": "Güneş Çiçeği alanının içinde bulunan aktif grup üyeleri, Kristalleşme ile oluşturulan bir Kalkanla korunuyorsa veya Güneş Çiçeği alanında Ay Akıntıları mevcutsa o grup üyelerinin Hasarı %17 artar.",
+		"description": "Güneş Çiçeği alanının içinde bulunan aktif grup üyeleri, Kristalleşme ile oluşturulan bir Kalkanla korunuyorsa veya Güneş Çiçeği alanında Ay Akıntıları mevcutsa o grup üyelerinin Hasarı %17 artar."
 	}
 }

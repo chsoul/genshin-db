@@ -6,7 +6,7 @@
 	],
 	"name": "Phiến Đá Lâu Đời",
 	"effect2Pc": "Nhận 15% buff sát thương nguyên tố Nham.",
-	"effect4Pc": "Khi nhận được mảnh kết tinh do phản ứng Kết Tinh hình thành, tất cả thành viên đội sẽ được tăng 35% sát thương nguyên tố tương ứng, duy trì 10 giây. Chỉ được nhận một loại tăng sát thương nguyên tố cùng lúc.",
+	"effect4Pc": "Khi nhận mảnh tinh thể sinh ra từ phản ứng Kết Tinh hoặc kích hoạt phản ứng Nguyệt-Kết Tinh, tất cả nhân vật trong đội nhận 35% buff sát thương nguyên tố tương ứng, duy trì 10s. Chỉ được nhận một loại buff sát thương nguyên tố cùng lúc.",
 	"flower": {
 		"name": "Hoa Bàn Đà",
 		"relicType": "EQUIP_BRACER",

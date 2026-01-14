@@ -13,8 +13,8 @@
 	},
 	"c3": {
 		"name": "Stranger in the Night",
-		"descriptionRaw": "Meningkatkan 3 level <color=#FFD780FF>{LINK#S11205}Ancient Ritual: Cometh the Night{/LINK}</color>.\nMaksimum: Lv. 15.",
-		"description": "Meningkatkan 3 level **Ancient Ritual: Cometh the Night**.\nMaksimum: Lv. 15."
+		"descriptionRaw": "Meningkatkan 3 level Elemental Burst <color=#FFD780FF>{LINK#S11205}Ancient Ritual: Cometh the Night{/LINK}</color>.\nMaksimum: Lv. 15.",
+		"description": "Meningkatkan 3 level Elemental Burst **Ancient Ritual: Cometh the Night**.\nMaksimum: Lv. 15."
 	},
 	"c4": {
 		"name": "Night on Bald Mountain",

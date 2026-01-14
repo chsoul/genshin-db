@@ -28,7 +28,7 @@
 	},
 	"c6": {
 		"name": "The Burden of Creative Genius",
-		"descriptionRaw": "Setelah melancarkan Elemental Burst <color=#FFD780FF>{LINK#S11215}Precision Hydronic Cooler{/LINK}</color>, DMG reaksi Electro-Charged, Bloom, Lunar-Charged, dan Lunar-Bloom yang dipicu Karakter aktif di sekitar meningkat 15% selama 15 detik.\n<color=#FFD780FF>Moonsign: Ascendant Gleam</color>: Peningkatan DMG reaksi dari efek di atas meningkat 20% lagi.",
-		"description": "Setelah melancarkan Elemental Burst **Precision Hydronic Cooler**, DMG reaksi Electro-Charged, Bloom, Lunar-Charged, dan Lunar-Bloom yang dipicu Karakter aktif di sekitar meningkat 15% selama 15 detik.\nMoonsign: Ascendant Gleam: Peningkatan DMG reaksi dari efek di atas meningkat 20% lagi."
+		"descriptionRaw": "Setelah melancarkan Elemental Burst <color=#FFD780FF>{LINK#S11215}Precision Hydronic Cooler{/LINK}</color>, DMG reaksi Electro-Charged, Bloom, Lunar-Charged, Lunar-Bloom, Lunar-Crystallize yang dipicu Karakter aktif di sekitar meningkat 15% selama 15 detik.\n<color=#FFD780FF>Moonsign: Ascendant Gleam</color>: Peningkatan DMG reaksi dari efek di atas meningkat 20% lagi.",
+		"description": "Setelah melancarkan Elemental Burst **Precision Hydronic Cooler**, DMG reaksi Electro-Charged, Bloom, Lunar-Charged, Lunar-Bloom, Lunar-Crystallize yang dipicu Karakter aktif di sekitar meningkat 15% selama 15 detik.\nMoonsign: Ascendant Gleam: Peningkatan DMG reaksi dari efek di atas meningkat 20% lagi."
 	}
 }

@@ -18,8 +18,8 @@
 	},
 	"c4": {
 		"name": "Auf in die Wolken",
-		"descriptionRaw": "Erhöht nach dem Auslösen der Reaktion Kristallisation durch Yun Jin ihre VTD 12 s lang um 20 %.",
-		"description": "Erhöht nach dem Auslösen der Reaktion Kristallisation durch Yun Jin ihre VTD 12 s lang um 20 %."
+		"descriptionRaw": "#Erhöht nach dem Auslösen der Reaktion Kristallisation oder Mond-Kristallisation durch Yun Jin ihre VTD 12{NON_BREAK_SPACE}s lang um 20{NON_BREAK_SPACE}%.",
+		"description": "Erhöht nach dem Auslösen der Reaktion Kristallisation oder Mond-Kristallisation durch Yun Jin ihre VTD 12 s lang um 20 %."
 	},
 	"c5": {
 		"name": "Überall bekannt",

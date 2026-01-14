@@ -1,0 +1,14 @@
+{
+	"id": 101268,
+	"name": "Winter Icelea",
+	"sortRank": 317,
+	"description": "A hardy plant known for withstanding relentless wind and frost, it survives even in the coldest depths of winter.",
+	"category": "EXCHANGE",
+	"typeText": "Local Specialty (Nod-Krai)",
+	"sources": [
+		"Found at the Pillar of Embla",
+		"Recommendation: Found near Amsvartnir",
+		"Grown in the Serenitea Pot",
+		"Go to collect"
+	]
+}

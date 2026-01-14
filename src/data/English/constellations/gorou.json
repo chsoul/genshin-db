@@ -8,8 +8,8 @@
 	},
 	"c2": {
 		"name": "Sitting Hound: Steady as a Clock",
-		"descriptionRaw": "While <color=#FFD780FF>General's Glory</color> is in effect, its duration is extended by 1s when a nearby active character obtains an Elemental Shard from a Crystallize reaction. \nThis effect can occur once every 0.1s. Max extension is 3s.",
-		"description": "While General's Glory is in effect, its duration is extended by 1s when a nearby active character obtains an Elemental Shard from a Crystallize reaction. \nThis effect can occur once every 0.1s. Max extension is 3s."
+		"descriptionRaw": "While <color=#FFD780FF>General's Glory</color> is in effect, its duration is extended by 1s when a nearby active character obtains an Elemental Shard from a Crystallize reaction, or triggers a Lunar-Crystallize reaction. \nThis effect can occur once every 0.1s. Max extension is 3s.",
+		"description": "While General's Glory is in effect, its duration is extended by 1s when a nearby active character obtains an Elemental Shard from a Crystallize reaction, or triggers a Lunar-Crystallize reaction. \nThis effect can occur once every 0.1s. Max extension is 3s."
 	},
 	"c3": {
 		"name": "Mauling Hound: Fierce as Fire",

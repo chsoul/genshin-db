@@ -3,8 +3,8 @@
 	"name": "Mona",
 	"c1": {
 		"name": "Batışın Kehaneti",
-		"descriptionRaw": "Kendi grup üyelerinden biri Alamet etkisi altındayken <color=#80C0FFFF>Su içeren Element Tepkimelerinin</color> etkileri 8 saniyeliğine artar:\n·Elektrik Yüklü Hasarı %15 artar.\n·Ay Yüklü Hasarı %15 artar.\n·Buharlaşma Hasarı %15 artar.\n·Su Girdabı Hasarı %15 artar.\n·Donma süresi %15 uzar.",
-		"description": "Kendi grup üyelerinden biri Alamet etkisi altındayken Su içeren Element Tepkimelerinin etkileri 8 saniyeliğine artar:\n·Elektrik Yüklü Hasarı %15 artar.\n·Ay Yüklü Hasarı %15 artar.\n·Buharlaşma Hasarı %15 artar.\n·Su Girdabı Hasarı %15 artar.\n·Donma süresi %15 uzar."
+		"descriptionRaw": "Kendi grup üyelerinden biri, Alamet etkisindeki bir düşmana vurduğunda 8 saniyeliğine <color=#80C0FFFF>Su ile ilgili Element Tepkimelerin</color> etkileri güçlenir:\n·Elektrik Yüklü Hasarı %15 artar, Ay Yüklü Hasarı %15 artar, Buharlaşma Hasarı %15 artar, Su Girdabı Hasarı %15 artar, Ay Kristalleşmesi Hasarı %15 artar.\n·Donma süresi %15 uzar.",
+		"description": "Kendi grup üyelerinden biri, Alamet etkisindeki bir düşmana vurduğunda 8 saniyeliğine Su ile ilgili Element Tepkimelerin etkileri güçlenir:\n·Elektrik Yüklü Hasarı %15 artar, Ay Yüklü Hasarı %15 artar, Buharlaşma Hasarı %15 artar, Su Girdabı Hasarı %15 artar, Ay Kristalleşmesi Hasarı %15 artar.\n·Donma süresi %15 uzar."
 	},
 	"c2": {
 		"name": "Ay Zinciri",

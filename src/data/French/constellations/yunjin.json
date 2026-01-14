@@ -18,8 +18,8 @@
 	},
 	"c4": {
 		"name": "Le tranchant d'une fleur",
-		"descriptionRaw": "#Lorsque Yun Jin déclenche une réaction de Cristallisation, sa DÉF augmente de 20 % pendant 12{NON_BREAK_SPACE}s.",
-		"description": "Lorsque Yun Jin déclenche une réaction de Cristallisation, sa DÉF augmente de 20 % pendant 12 s."
+		"descriptionRaw": "#Lorsque Yun Jin déclenche une réaction de Cristallisation ou de Sélénocristallisation, sa DÉF augmente de 20 % pendant 12{NON_BREAK_SPACE}s.",
+		"description": "Lorsque Yun Jin déclenche une réaction de Cristallisation ou de Sélénocristallisation, sa DÉF augmente de 20 % pendant 12 s."
 	},
 	"c5": {
 		"name": "Célébrité à travers les terres",

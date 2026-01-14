@@ -18,8 +18,8 @@
 	},
 	"c4": {
 		"name": "Taşkının Kaynağı",
-		"descriptionRaw": "Durin'in Element Patlaması Hasarı %40 artar. Ayrıca,<color=#FFD780FF>{LINK#T1231}Adamah'nın Kurtuluşu{/LINK}</color> Takımyıldızına bağlı olarak <color=#FFD780FF>Aydınlanma Döngüsü</color> kademesi tüketen etkiler tetiklendiğinde %30 ihtimalle Aydınlanma Döngüsü kademesi tüketilmeyebilir.",
-		"description": "Durin'in Element Patlaması Hasarı %40 artar. Ayrıca,**Adamah'nın Kurtuluşu** Takımyıldızına bağlı olarak Aydınlanma Döngüsü kademesi tüketen etkiler tetiklendiğinde %30 ihtimalle Aydınlanma Döngüsü kademesi tüketilmeyebilir."
+		"descriptionRaw": "Durin'in Element Patlaması Hasarı %40 artar. Ayrıca, <color=#FFD780FF>{LINK#T1231}Adamah'nın Kurtuluşu{/LINK}</color> Takımyıldızına bağlı olarak <color=#FFD780FF>Aydınlanma Döngüsü</color> kademesi tüketen etkiler tetiklendiğinde %30 ihtimalle Aydınlanma Döngüsü kademesi tüketilmeyebilir.",
+		"description": "Durin'in Element Patlaması Hasarı %40 artar. Ayrıca, **Adamah'nın Kurtuluşu** Takımyıldızına bağlı olarak Aydınlanma Döngüsü kademesi tüketen etkiler tetiklendiğinde %30 ihtimalle Aydınlanma Döngüsü kademesi tüketilmeyebilir."
 	},
 	"c5": {
 		"name": "Yakıcı Alevlerin Parçalanışı",

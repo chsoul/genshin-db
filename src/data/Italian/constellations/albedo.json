@@ -28,7 +28,7 @@
 	},
 	"c6": {
 		"name": "Polvere purificatrice",
-		"descriptionRaw": "I DAN dei membri attivi del gruppo nel campo dell'Isotoma solare protetti da uno scudo creato tramite Cristallizzazione aumentano di un 17%.",
-		"description": "I DAN dei membri attivi del gruppo nel campo dell'Isotoma solare protetti da uno scudo creato tramite Cristallizzazione aumentano di un 17%."
+		"descriptionRaw": "I DAN dei membri attivi del gruppo attuali aumentano di un 17% nel campo dell'Isotoma solare quando sono protetti da uno scudo creato tramite Cristallizzazione o quando nel campo dell'Isotoma solare sono presenti delle Gabbie lunari.",
+		"description": "I DAN dei membri attivi del gruppo attuali aumentano di un 17% nel campo dell'Isotoma solare quando sono protetti da uno scudo creato tramite Cristallizzazione o quando nel campo dell'Isotoma solare sono presenti delle Gabbie lunari."
 	}
 }

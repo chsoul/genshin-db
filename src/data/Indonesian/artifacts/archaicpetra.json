@@ -6,7 +6,7 @@
 	],
 	"name": "Archaic Petra",
 	"effect2Pc": "Geo DMG Bonus +15%.",
-	"effect4Pc": "Saat memperoleh Elemental Shard yang terbentuk dari Reaksi Elemental Crystallize, seluruh anggota party memperoleh 35% peningkatan Elemental DMG terhadap elemen tersebut selama 10 detik. Hanya satu jenis Elemental DMG dapat diperoleh dengan cara ini.",
+	"effect4Pc": "Saat memperoleh Elemental Shard yang terbentuk dari Reaksi Elemental Crystallize atau memicu reaksi Lunar-Crystallize, seluruh anggota party memperoleh 35% Elemental DMG Bonus untuk elemen tersebut selama 10 detik. Hanya satu jenis Elemental DMG Bonus yang bisa didapatkan dengan cara ini.",
 	"flower": {
 		"name": "Flower of Creviced Cliff",
 		"relicType": "EQUIP_BRACER",

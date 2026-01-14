@@ -7324,5 +7324,203 @@
 				"specialized": 0.1846
 			}
 		]
+	},
+	"columbina": {
+		"base": {
+			"hp": 1143.984,
+			"attack": 7.448,
+			"defense": 40.0861,
+			"critrate": 0.05,
+			"critdmg": 0.5
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_S5",
+			"attack": "GROW_CURVE_ATTACK_S5",
+			"defense": "GROW_CURVE_HP_S5"
+		},
+		"specialized": "FIGHT_PROP_CRITICAL",
+		"promotion": [
+			{
+				"maxlevel": 20,
+				"hp": 0,
+				"attack": 0,
+				"defense": 0,
+				"specialized": 0
+			},
+			{
+				"maxlevel": 40,
+				"hp": 980.86285,
+				"attack": 6.38552,
+				"defense": 34.371,
+				"specialized": 0
+			},
+			{
+				"maxlevel": 50,
+				"hp": 1677.7917,
+				"attack": 10.9226,
+				"defense": 58.7925,
+				"specialized": 0.048
+			},
+			{
+				"maxlevel": 60,
+				"hp": 2607.0303,
+				"attack": 16.97204,
+				"defense": 91.3545,
+				"specialized": 0.096
+			},
+			{
+				"maxlevel": 70,
+				"hp": 3303.959,
+				"attack": 21.50912,
+				"defense": 115.776,
+				"specialized": 0.096
+			},
+			{
+				"maxlevel": 80,
+				"hp": 4000.888,
+				"attack": 26.0462,
+				"defense": 140.1975,
+				"specialized": 0.144
+			},
+			{
+				"maxlevel": 90,
+				"hp": 4697.817,
+				"attack": 30.58328,
+				"defense": 164.619,
+				"specialized": 0.192
+			}
+		]
+	},
+	"zibai": {
+		"base": {
+			"hp": 1005.7526,
+			"attack": 17.5028,
+			"defense": 74.48835,
+			"critrate": 0.05,
+			"critdmg": 0.5
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_S5",
+			"attack": "GROW_CURVE_ATTACK_S5",
+			"defense": "GROW_CURVE_HP_S5"
+		},
+		"specialized": "FIGHT_PROP_CRITICAL_HURT",
+		"promotion": [
+			{
+				"maxlevel": 20,
+				"hp": 0,
+				"attack": 0,
+				"defense": 0,
+				"specialized": 0
+			},
+			{
+				"maxlevel": 40,
+				"hp": 862.3419,
+				"attack": 15.006,
+				"defense": 63.8685,
+				"specialized": 0
+			},
+			{
+				"maxlevel": 50,
+				"hp": 1475.0585,
+				"attack": 25.6681,
+				"defense": 109.2488,
+				"specialized": 0.096
+			},
+			{
+				"maxlevel": 60,
+				"hp": 2292.014,
+				"attack": 39.8843,
+				"defense": 169.7558,
+				"specialized": 0.192
+			},
+			{
+				"maxlevel": 70,
+				"hp": 2904.7307,
+				"attack": 50.5464,
+				"defense": 215.136,
+				"specialized": 0.192
+			},
+			{
+				"maxlevel": 80,
+				"hp": 3517.4473,
+				"attack": 61.2086,
+				"defense": 260.5163,
+				"specialized": 0.288
+			},
+			{
+				"maxlevel": 90,
+				"hp": 4130.164,
+				"attack": 71.8707,
+				"defense": 305.8965,
+				"specialized": 0.384
+			}
+		]
+	},
+	"illuga": {
+		"base": {
+			"hp": 1002.9701,
+			"attack": 16.0272,
+			"defense": 68.2122,
+			"critrate": 0.05,
+			"critdmg": 0.5
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_S4",
+			"attack": "GROW_CURVE_ATTACK_S4",
+			"defense": "GROW_CURVE_HP_S4"
+		},
+		"specialized": "FIGHT_PROP_ELEMENT_MASTERY",
+		"promotion": [
+			{
+				"maxlevel": 20,
+				"hp": 0,
+				"attack": 0,
+				"defense": 0,
+				"specialized": 0
+			},
+			{
+				"maxlevel": 40,
+				"hp": 749.27,
+				"attack": 11.97342,
+				"defense": 50.958,
+				"specialized": 0
+			},
+			{
+				"maxlevel": 50,
+				"hp": 1281.6461,
+				"attack": 20.48085,
+				"defense": 87.165,
+				"specialized": 24
+			},
+			{
+				"maxlevel": 60,
+				"hp": 1991.4808,
+				"attack": 31.82409,
+				"defense": 135.441,
+				"specialized": 48
+			},
+			{
+				"maxlevel": 70,
+				"hp": 2523.857,
+				"attack": 40.33152,
+				"defense": 171.648,
+				"specialized": 48
+			},
+			{
+				"maxlevel": 80,
+				"hp": 3056.233,
+				"attack": 48.83895,
+				"defense": 207.855,
+				"specialized": 72
+			},
+			{
+				"maxlevel": 90,
+				"hp": 3588.6091,
+				"attack": 57.34638,
+				"defense": 244.062,
+				"specialized": 96
+			}
+		]
 	}
 }

@@ -12,37 +12,37 @@
 	"mainStatText": "Tỷ Lệ Bạo Kích",
 	"baseStatText": "4,8%",
 	"effectName": "Vạn Lời Thề Của Bình Minh Và Hoàng Hôn",
-	"effectTemplateRaw": "Tấn công tăng <color=#99FFFFFF>{0}</color>; Khi nhân vật trong đội nhận được mảnh tinh thể sinh ra từ phản ứng Kết Tinh, người trang bị sẽ nhận được 1 \"Ấn Ký\", khiến sát thương gây ra từ Kỹ Năng Nguyên Tố tăng <color=#99FFFFFF>{1}</color>. Ấn Ký duy trì 15s, tối đa có thể giữ 2 ấn cùng lúc. Tất cả Ấn Ký của người trang bị sẽ bị xóa sau 0.2s khi Kỹ Năng Nguyên Tố của người đó gây sát thương.",
+	"effectTemplateRaw": "Tấn công tăng <color=#99FFFFFF>{0}</color>; Khi nhân vật trong đội nhận được mảnh tinh thể sinh ra từ phản ứng Kết Tinh hoặc kích hoạt phản ứng Nguyệt-Kết Tinh, người trang bị sẽ nhận được 1 \"Ấn Ký\", khiến sát thương gây ra từ Kỹ Năng Nguyên Tố tăng <color=#99FFFFFF>{1}</color>. Ấn Ký duy trì 15s, tối đa có thể giữ 2 ấn cùng lúc. Tất cả Ấn Ký của người trang bị sẽ bị xóa sau 0.2s khi Kỹ Năng Nguyên Tố của người đó gây sát thương. Mỗi 1s tối đa nhận 1 Ấn Ký thông qua phản ứng Nguyệt-Kết Tinh.",
 	"r1": {
-		"description": "Tấn công tăng 20%; Khi nhân vật trong đội nhận được mảnh tinh thể sinh ra từ phản ứng Kết Tinh, người trang bị sẽ nhận được 1 \"Ấn Ký\", khiến sát thương gây ra từ Kỹ Năng Nguyên Tố tăng 18%. Ấn Ký duy trì 15s, tối đa có thể giữ 2 ấn cùng lúc. Tất cả Ấn Ký của người trang bị sẽ bị xóa sau 0.2s khi Kỹ Năng Nguyên Tố của người đó gây sát thương.",
+		"description": "Tấn công tăng 20%; Khi nhân vật trong đội nhận được mảnh tinh thể sinh ra từ phản ứng Kết Tinh hoặc kích hoạt phản ứng Nguyệt-Kết Tinh, người trang bị sẽ nhận được 1 \"Ấn Ký\", khiến sát thương gây ra từ Kỹ Năng Nguyên Tố tăng 18%. Ấn Ký duy trì 15s, tối đa có thể giữ 2 ấn cùng lúc. Tất cả Ấn Ký của người trang bị sẽ bị xóa sau 0.2s khi Kỹ Năng Nguyên Tố của người đó gây sát thương. Mỗi 1s tối đa nhận 1 Ấn Ký thông qua phản ứng Nguyệt-Kết Tinh.",
 		"values": [
 			"20%",
 			"18%"
 		]
 	},
 	"r2": {
-		"description": "Tấn công tăng 25%; Khi nhân vật trong đội nhận được mảnh tinh thể sinh ra từ phản ứng Kết Tinh, người trang bị sẽ nhận được 1 \"Ấn Ký\", khiến sát thương gây ra từ Kỹ Năng Nguyên Tố tăng 22.5%. Ấn Ký duy trì 15s, tối đa có thể giữ 2 ấn cùng lúc. Tất cả Ấn Ký của người trang bị sẽ bị xóa sau 0.2s khi Kỹ Năng Nguyên Tố của người đó gây sát thương.",
+		"description": "Tấn công tăng 25%; Khi nhân vật trong đội nhận được mảnh tinh thể sinh ra từ phản ứng Kết Tinh hoặc kích hoạt phản ứng Nguyệt-Kết Tinh, người trang bị sẽ nhận được 1 \"Ấn Ký\", khiến sát thương gây ra từ Kỹ Năng Nguyên Tố tăng 22.5%. Ấn Ký duy trì 15s, tối đa có thể giữ 2 ấn cùng lúc. Tất cả Ấn Ký của người trang bị sẽ bị xóa sau 0.2s khi Kỹ Năng Nguyên Tố của người đó gây sát thương. Mỗi 1s tối đa nhận 1 Ấn Ký thông qua phản ứng Nguyệt-Kết Tinh.",
 		"values": [
 			"25%",
 			"22.5%"
 		]
 	},
 	"r3": {
-		"description": "Tấn công tăng 30%; Khi nhân vật trong đội nhận được mảnh tinh thể sinh ra từ phản ứng Kết Tinh, người trang bị sẽ nhận được 1 \"Ấn Ký\", khiến sát thương gây ra từ Kỹ Năng Nguyên Tố tăng 27%. Ấn Ký duy trì 15s, tối đa có thể giữ 2 ấn cùng lúc. Tất cả Ấn Ký của người trang bị sẽ bị xóa sau 0.2s khi Kỹ Năng Nguyên Tố của người đó gây sát thương.",
+		"description": "Tấn công tăng 30%; Khi nhân vật trong đội nhận được mảnh tinh thể sinh ra từ phản ứng Kết Tinh hoặc kích hoạt phản ứng Nguyệt-Kết Tinh, người trang bị sẽ nhận được 1 \"Ấn Ký\", khiến sát thương gây ra từ Kỹ Năng Nguyên Tố tăng 27%. Ấn Ký duy trì 15s, tối đa có thể giữ 2 ấn cùng lúc. Tất cả Ấn Ký của người trang bị sẽ bị xóa sau 0.2s khi Kỹ Năng Nguyên Tố của người đó gây sát thương. Mỗi 1s tối đa nhận 1 Ấn Ký thông qua phản ứng Nguyệt-Kết Tinh.",
 		"values": [
 			"30%",
 			"27%"
 		]
 	},
 	"r4": {
-		"description": "Tấn công tăng 35%; Khi nhân vật trong đội nhận được mảnh tinh thể sinh ra từ phản ứng Kết Tinh, người trang bị sẽ nhận được 1 \"Ấn Ký\", khiến sát thương gây ra từ Kỹ Năng Nguyên Tố tăng 31.5%. Ấn Ký duy trì 15s, tối đa có thể giữ 2 ấn cùng lúc. Tất cả Ấn Ký của người trang bị sẽ bị xóa sau 0.2s khi Kỹ Năng Nguyên Tố của người đó gây sát thương.",
+		"description": "Tấn công tăng 35%; Khi nhân vật trong đội nhận được mảnh tinh thể sinh ra từ phản ứng Kết Tinh hoặc kích hoạt phản ứng Nguyệt-Kết Tinh, người trang bị sẽ nhận được 1 \"Ấn Ký\", khiến sát thương gây ra từ Kỹ Năng Nguyên Tố tăng 31.5%. Ấn Ký duy trì 15s, tối đa có thể giữ 2 ấn cùng lúc. Tất cả Ấn Ký của người trang bị sẽ bị xóa sau 0.2s khi Kỹ Năng Nguyên Tố của người đó gây sát thương. Mỗi 1s tối đa nhận 1 Ấn Ký thông qua phản ứng Nguyệt-Kết Tinh.",
 		"values": [
 			"35%",
 			"31.5%"
 		]
 	},
 	"r5": {
-		"description": "Tấn công tăng 40%; Khi nhân vật trong đội nhận được mảnh tinh thể sinh ra từ phản ứng Kết Tinh, người trang bị sẽ nhận được 1 \"Ấn Ký\", khiến sát thương gây ra từ Kỹ Năng Nguyên Tố tăng 36%. Ấn Ký duy trì 15s, tối đa có thể giữ 2 ấn cùng lúc. Tất cả Ấn Ký của người trang bị sẽ bị xóa sau 0.2s khi Kỹ Năng Nguyên Tố của người đó gây sát thương.",
+		"description": "Tấn công tăng 40%; Khi nhân vật trong đội nhận được mảnh tinh thể sinh ra từ phản ứng Kết Tinh hoặc kích hoạt phản ứng Nguyệt-Kết Tinh, người trang bị sẽ nhận được 1 \"Ấn Ký\", khiến sát thương gây ra từ Kỹ Năng Nguyên Tố tăng 36%. Ấn Ký duy trì 15s, tối đa có thể giữ 2 ấn cùng lúc. Tất cả Ấn Ký của người trang bị sẽ bị xóa sau 0.2s khi Kỹ Năng Nguyên Tố của người đó gây sát thương. Mỗi 1s tối đa nhận 1 Ấn Ký thông qua phản ứng Nguyệt-Kết Tinh.",
 		"values": [
 			"40%",
 			"36%"

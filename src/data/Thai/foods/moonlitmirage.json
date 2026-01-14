@@ -1,0 +1,36 @@
+{
+	"id": 10000125,
+	"name": "Moonlit Mirage",
+	"rarity": 3,
+	"foodtype": "SPECIALTY",
+	"filterType": "COOK_FOOD_DEFENSE",
+	"filterText": "เมนูการป้องกัน",
+	"effect": "พลังชีวิตสูงสุดของตัวละครทั้งหมดในทีมเพิ่มขึ้น 30% เป็นเวลา 300 วินาที เมื่อเล่นในโหมดเล่นหลายคน จะมีผลกับตัวละครของตัวเองเท่านั้น",
+	"description": "เมนูพิเศษของ Columbina ลูกอมสีใสราวกับหยาดน้ำค้างที่กอบขึ้นมาจากแสงจันทร์ รสหวานละมุนอ่อนจางนั้นยากจะจับต้องได้ขึ้นมาโดยพลัน ราวกับดำดิ่งสู่ความฝันอันงดงามลวงตา ประสบการณ์ใหม่ที่ไม่เคยได้สัมผัสมาก่อนนี้ เธอสร้างมันออกมาได้ยังไงกันนะ...",
+	"baseDishId": 3608,
+	"baseDishName": "Berry Herbal Candy",
+	"characterId": 10000125,
+	"characterName": "Columbina",
+	"ingredients": [
+		{
+			"id": 101262,
+			"name": "Nocturnal Blossom",
+			"count": 2
+		},
+		{
+			"id": 101268,
+			"name": "Winter Icelea",
+			"count": 2
+		},
+		{
+			"id": 101265,
+			"name": "Midsommar Berry",
+			"count": 2
+		},
+		{
+			"id": 101264,
+			"name": "Lakkaberry",
+			"count": 2
+		}
+	]
+}

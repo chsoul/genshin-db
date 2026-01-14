@@ -1922,5 +1922,19 @@
 		"filename_gacha": "UI_Gacha_EquipIcon_Bow_Arianna",
 		"mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Arianna.png",
 		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Arianna_Awaken.png"
+	},
+	"lightbearingmoonshard": {
+		"filename_icon": "UI_EquipIcon_Sword_SilverwareSaw",
+		"filename_awakenIcon": "UI_EquipIcon_Sword_SilverwareSaw_Awaken",
+		"filename_gacha": "UI_Gacha_EquipIcon_Sword_SilverwareSaw",
+		"mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_SilverwareSaw.png",
+		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_SilverwareSaw_Awaken.png"
+	},
+	"nocturnescurtaincall": {
+		"filename_icon": "UI_EquipIcon_Catalyst_Brisingamen",
+		"filename_awakenIcon": "UI_EquipIcon_Catalyst_Brisingamen_Awaken",
+		"filename_gacha": "UI_Gacha_EquipIcon_Catalyst_Brisingamen",
+		"mihoyo_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Brisingamen.png",
+		"mihoyo_awakenIcon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Brisingamen_Awaken.png"
 	}
 }

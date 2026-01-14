@@ -1463,5 +1463,41 @@
 	"spicedfriedchicken": {
 		"filename_buff": "UI_Buff_Item_Recovery_HpAddAll",
 		"filename_icon": "UI_ItemIcon_108854"
+	},
+	"crispyspringrolls": {
+		"filename_buff": "UI_Buff_Item_Def_Add",
+		"filename_icon": "UI_ItemIcon_108868"
+	},
+	"flavorofspring": {
+		"filename_buff": "UI_Buff_Item_Def_Add",
+		"filename_icon": "UI_ItemIcon_108862"
+	},
+	"berryherbalcandy": {
+		"filename_buff": "UI_Buff_Item_Def_Add",
+		"filename_icon": "UI_ItemIcon_108858"
+	},
+	"moonlitmirage": {
+		"filename_buff": "UI_Buff_Item_Def_Add",
+		"filename_icon": "UI_ItemIcon_108863"
+	},
+	"veggiepotsoup": {
+		"filename_buff": "UI_Buff_Item_Recovery_HpAdd",
+		"filename_icon": "UI_ItemIcon_108859"
+	},
+	"nightwatchsoup": {
+		"filename_buff": "UI_Buff_Item_Recovery_HpAdd",
+		"filename_icon": "UI_ItemIcon_108864"
+	},
+	"firesidemerriment": {
+		"filename_buff": "UI_Buff_Item_Atk_CritRate",
+		"filename_icon": "UI_ItemIcon_108860"
+	},
+	"mushroomphantasm": {
+		"filename_buff": "UI_Buff_Item_Recovery_Revive",
+		"filename_icon": "UI_ItemIcon_108861"
+	},
+	"luckysnowdelight": {
+		"filename_buff": "UI_Buff_Item_Recovery_HpAddAll",
+		"filename_icon": "UI_ItemIcon_108857"
 	}
 }

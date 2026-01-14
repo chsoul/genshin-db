@@ -28,7 +28,7 @@
 	},
 	"c6": {
 		"name": "Die Last des kreativen Genies",
-		"descriptionRaw": "#Erhöht nach Anwenden der Spezialfähigkeit <color=#FFD780FF>{LINK#S11215}Präzises Wasserkühlgerät{/LINK}</color> 15{NON_BREAK_SPACE}s lang den Schaden der von den aktuellen Figuren in der Nähe ausgelösten Reaktionen „Unter Strom“, „Sprießen“, „Mond unter Strom“ und „Mondspross“ um 15{NON_BREAK_SPACE}%.\n<color=#FFD780FF>Mondomen – Reifer Glanz</color>: Erhöht den durch obige Reaktionen verursachten Schaden zusätzlich um 20{NON_BREAK_SPACE}%.",
-		"description": "Erhöht nach Anwenden der Spezialfähigkeit **Präzises Wasserkühlgerät** 15 s lang den Schaden der von den aktuellen Figuren in der Nähe ausgelösten Reaktionen „Unter Strom“, „Sprießen“, „Mond unter Strom“ und „Mondspross“ um 15 %.\nMondomen – Reifer Glanz: Erhöht den durch obige Reaktionen verursachten Schaden zusätzlich um 20 %."
+		"descriptionRaw": "#Erhöht nach Anwenden der Spezialfähigkeit <color=#FFD780FF>{LINK#S11215}Präzises Wasserkühlgerät{/LINK}</color> 15{NON_BREAK_SPACE}s lang den Schaden der von den aktuellen Figuren in der Nähe ausgelösten Reaktionen „Unter Strom“, „Sprießen“, „Mond unter Strom“, „Mondspross“ und „Mond-Kristallisation“ um 15{NON_BREAK_SPACE}%.\n<color=#FFD780FF>Mondomen – Reifer Glanz</color>: Erhöht den durch obige Reaktionen verursachten Schaden zusätzlich um 20{NON_BREAK_SPACE}%.",
+		"description": "Erhöht nach Anwenden der Spezialfähigkeit **Präzises Wasserkühlgerät** 15 s lang den Schaden der von den aktuellen Figuren in der Nähe ausgelösten Reaktionen „Unter Strom“, „Sprießen“, „Mond unter Strom“, „Mondspross“ und „Mond-Kristallisation“ um 15 %.\nMondomen – Reifer Glanz: Erhöht den durch obige Reaktionen verursachten Schaden zusätzlich um 20 %."
 	}
 }

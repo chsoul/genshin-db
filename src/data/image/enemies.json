@@ -1213,5 +1213,28 @@
 	"superheavylandrovermechanizedfortress": {
 		"filename_icon": "UI_MonsterIcon_Fatuimecha_AMP",
 		"filename_investigationIcon": "UI_MonsterIcon_Fatuimecha_AMP"
+	},
+	"surgingcurrentsfrostnightscion": {
+		"filename_icon": "UI_MonsterIcon_Moonbeast_Water"
+	},
+	"veiledcloudchaserfrostnightscion": {
+		"filename_icon": "UI_MonsterIcon_Moonbeast_Wind"
+	},
+	"gildedsunshardfrostnightscion": {
+		"filename_icon": "UI_MonsterIcon_Moonbeast_Rock"
+	},
+	"fisherofhiddendepths": {
+		"filename_icon": "UI_MonsterIcon_Lloigor_Sub",
+		"filename_investigationIcon": "UI_MonsterIcon_Lloigor_Sub"
+	},
+	"lordofthehiddendepthswhispererofnightmares": {
+		"filename_icon": "UI_MonsterIcon_Lloigor_Primo",
+		"filename_investigationIcon": "UI_MonsterIcon_Lloigor_Primo"
+	},
+	"radiantglacialwolf": {
+		"filename_icon": "UI_MonsterIcon_Magbeast_Steppenwolf"
+	},
+	"thedoctor": {
+		"filename_icon": "UI_MonsterIcon_Dotorre_Moon"
 	}
 }
