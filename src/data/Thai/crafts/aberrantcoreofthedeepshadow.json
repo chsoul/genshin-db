@@ -1,0 +1,16 @@
+{
+	"id": 11081,
+	"name": "Aberrant Core of the Deep Shadow",
+	"filterText": "วัสดุยกระดับตัวละครและอาวุธ",
+	"sortOrder": 140290,
+	"unlockRank": 15,
+	"resultCount": 1,
+	"moraCost": 50,
+	"recipe": [
+		{
+			"id": 112137,
+			"name": "Fractured Eye of the Deep Shadow",
+			"count": 3
+		}
+	]
+}

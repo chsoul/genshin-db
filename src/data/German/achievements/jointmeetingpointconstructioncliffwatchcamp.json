@@ -1,0 +1,20 @@
+{
+	"id": [
+		80472
+	],
+	"name": "Gemeinsam errichteter Treffpunkt – Lager an der Klippe",
+	"achievementGroupId": 66,
+	"achievementGroupName": "Nod-Krai – Elysium des Mondes und Wanderns II",
+	"sortOrder": 433,
+	"stages": 1,
+	"stage1": {
+		"title": "Gemeinsam errichteter Treffpunkt – Lager an der Klippe",
+		"description": "Erreich die höchste Konstruktionsstufe vom „Lager an der Klippe“.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

@@ -646,5 +646,32 @@
 	},
 	"lightofoathssworn": {
 		"filename_image": "UI_Codex_Scenery_NDKLDengTa"
+	},
+	"beaconinthelongnight": {
+		"filename_image": "UI_Codex_Scenery_NDKLPiKaMiCheng"
+	},
+	"elysiumsfinaltreasure": {
+		"filename_image": "UI_Codex_Scenery_NDKLDaoBaoDong2"
+	},
+	"dawnoverthedarkchasm": {
+		"filename_image": "UI_Codex_Scenery_NDKLShenXue2"
+	},
+	"bunkerno0": {
+		"filename_image": "UI_Codex_Scenery_NDKLShengTaiYanJiuSuoBossFang2"
+	},
+	"palacesoftimesbygone": {
+		"filename_image": "UI_Codex_Scenery_NDKLXiGouShan3"
+	},
+	"towerpiercingatthesky": {
+		"filename_image": "UI_Codex_Scenery_NDKLYueZhiTa2"
+	},
+	"nightmareomen": {
+		"filename_image": "UI_Codex_Scenery_NDKLShenYuanCheng"
+	},
+	"hallofresoundingvalor": {
+		"filename_image": "UI_Codex_Scenery_NDKLYingLingDeXiangDian"
+	},
+	"wonderlandintherabbithole": {
+		"filename_image": "UI_Codex_Scenery_NDKLMoNvDong"
 	}
 }

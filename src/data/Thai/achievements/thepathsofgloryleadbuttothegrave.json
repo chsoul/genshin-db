@@ -1,0 +1,21 @@
+{
+	"id": [
+		81636
+	],
+	"name": "เส้นทางแห่งเกียรติยศนำไปสู่สุสาน",
+	"achievementGroupId": 0,
+	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
+	"isHidden": true,
+	"sortOrder": 1630,
+	"stages": 1,
+	"stage1": {
+		"title": "เส้นทางแห่งเกียรติยศนำไปสู่สุสาน",
+		"description": "กำจัดพรรคพวกของ \"ศาสตราจารย์\" Rotwang จนหมดสิ้น",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

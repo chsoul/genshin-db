@@ -1,0 +1,21 @@
+{
+	"id": [
+		84379
+	],
+	"name": "Путешествие в будущее",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 5154,
+	"stages": 1,
+	"stage1": {
+		"title": "Путешествие в будущее",
+		"description": "Станьте свидетелем союза, заключённого между многочисленными фракциями Нод-Края.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

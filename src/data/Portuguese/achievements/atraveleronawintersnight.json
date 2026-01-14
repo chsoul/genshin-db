@@ -1,0 +1,21 @@
+{
+	"id": [
+		84374
+	],
+	"name": "Um Viajante Numa Noite de Inverno",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 5149,
+	"stages": 1,
+	"stage1": {
+		"title": "Um Viajante Numa Noite de Inverno",
+		"description": "A que fim a jornada dela a levará?",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

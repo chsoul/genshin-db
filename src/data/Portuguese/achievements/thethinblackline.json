@@ -1,0 +1,21 @@
+{
+	"id": [
+		81639
+	],
+	"name": "Linhas Finas e Escuras",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1633,
+	"stages": 1,
+	"stage1": {
+		"title": "Linhas Finas e Escuras",
+		"description": "Purifique as ondas do Poder do Abismo.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81626
+	],
+	"name": "Que el pecado se vuelva contra el pecador",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 1620,
+	"stages": 1,
+	"stage1": {
+		"title": "Que el pecado se vuelva contra el pecador",
+		"description": "Ayuda a Janusz a deshacerse del monstruo de la Ciénaga Sombrapesadilla.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

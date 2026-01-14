@@ -1,0 +1,21 @@
+{
+	"id": [
+		81637
+	],
+	"name": "Timing Itu Nomor Satu",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 1631,
+	"stages": 1,
+	"stage1": {
+		"title": "Timing Itu Nomor Satu",
+		"description": "Berhasil memanfaatkan waktu serangan balik yang tepat.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

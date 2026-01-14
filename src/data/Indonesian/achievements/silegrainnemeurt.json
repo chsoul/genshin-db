@@ -1,0 +1,20 @@
+{
+	"id": [
+		80471
+	],
+	"name": "Jika Benih Tidak Pernah Mati",
+	"achievementGroupId": 66,
+	"achievementGroupName": "Nod-Krai: Taman Cahaya Bulan dan Langkah yang Mengembara (II)",
+	"sortOrder": 432,
+	"stages": 1,
+	"stage1": {
+		"title": "Jika Benih Tidak Pernah Mati",
+		"description": "Biarpun bunganya gugur, daun beserta janjinya tidak akan luntur.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

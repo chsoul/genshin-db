@@ -1,0 +1,21 @@
+{
+	"id": [
+		81628
+	],
+	"name": "Keine Hoffnung, keine Furcht",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 1622,
+	"stages": 1,
+	"stage1": {
+		"title": "Keine Hoffnung, keine Furcht",
+		"description": "Werde Zeuge, wie ein uralter Palast aus den Tiefen emporsteigt.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

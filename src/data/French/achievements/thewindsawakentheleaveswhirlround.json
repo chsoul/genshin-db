@@ -1,0 +1,20 @@
+{
+	"id": [
+		80470
+	],
+	"name": "Le vent se lève, les feuilles tourbillonnent...",
+	"achievementGroupId": 66,
+	"achievementGroupName": "Nod-Krai : Élysium d'errances au clair de lune - II",
+	"sortOrder": 431,
+	"stages": 1,
+	"stage1": {
+		"title": "Le vent se lève, les feuilles tourbillonnent...",
+		"description": "Le rossignol ne volait que pendant les nuits, une braise dans le bec.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 10
+		}
+	}
+}

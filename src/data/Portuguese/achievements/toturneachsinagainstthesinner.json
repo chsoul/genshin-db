@@ -1,0 +1,21 @@
+{
+	"id": [
+		81626
+	],
+	"name": "Punição Adequada aos Culpados",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1620,
+	"stages": 1,
+	"stage1": {
+		"title": "Punição Adequada aos Culpados",
+		"description": "Ajude Janusz a derrotar os monstros no Pântano dos Pesadelos.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

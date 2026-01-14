@@ -1,0 +1,20 @@
+{
+	"id": [
+		80457
+	],
+	"name": "Молитвы, канувшие в тишину",
+	"achievementGroupId": 65,
+	"achievementGroupName": "Скитания по миру VI",
+	"sortOrder": 418,
+	"stages": 1,
+	"stage1": {
+		"title": "Молитвы, канувшие в тишину",
+		"description": "Соберите полную коллекцию «Гимны крайнего севера».",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

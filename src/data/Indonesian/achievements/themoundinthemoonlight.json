@@ -1,0 +1,21 @@
+{
+	"id": [
+		81635
+	],
+	"name": "Bukit di Bawah Rembulan",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 1629,
+	"stages": 1,
+	"stage1": {
+		"title": "Bukit di Bawah Rembulan",
+		"description": "Buka kapsul waktu yang ditinggalkan oleh Orang Hyperborea tanpa nama.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

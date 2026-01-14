@@ -1,0 +1,21 @@
+{
+	"id": [
+		82304
+	],
+	"name": "Come avrebbe dovuto essere",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 2304,
+	"stages": 1,
+	"stage1": {
+		"title": "Come avrebbe dovuto essere",
+		"description": "Sii testimone del ritorno della Luna dell'incubo.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

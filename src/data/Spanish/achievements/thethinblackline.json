@@ -1,0 +1,21 @@
+{
+	"id": [
+		81639
+	],
+	"name": "La delgada línea negra",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 1633,
+	"stages": 1,
+	"stage1": {
+		"title": "La delgada línea negra",
+		"description": "Purifica el poder del Abismo desbordado.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

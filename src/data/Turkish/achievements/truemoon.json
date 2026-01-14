@@ -1,0 +1,21 @@
+{
+	"id": [
+		84381
+	],
+	"name": "Gerçek Ay",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 5156,
+	"stages": 1,
+	"stage1": {
+		"title": "Gerçek Ay",
+		"description": "\"Gerçek Ay\" görevini tamamla.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 10
+		}
+	}
+}

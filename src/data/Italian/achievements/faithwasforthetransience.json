@@ -1,0 +1,20 @@
+{
+	"id": [
+		80457
+	],
+	"name": "La fede era per la transitorietà",
+	"achievementGroupId": 65,
+	"achievementGroupName": "Fatiche mortali: Serie VI",
+	"sortOrder": 418,
+	"stages": 1,
+	"stage1": {
+		"title": "La fede era per la transitorietà",
+		"description": "Raccogli la serie completa degli \"Inni dell'Estremo Nord\".",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

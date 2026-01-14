@@ -1,0 +1,21 @@
+{
+	"id": [
+		81634
+	],
+	"name": "Sẽ Có Bánh Mì",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1628,
+	"stages": 1,
+	"stage1": {
+		"title": "Sẽ Có Bánh Mì",
+		"description": "Dùng lò để nướng Nấm Kỳ Ảo nóng hổi.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81640
+	],
+	"name": "Erraba solitario como una nube",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 1634,
+	"stages": 1,
+	"stage1": {
+		"title": "Erraba solitario como una nube",
+		"description": "Siente la suavidad y elasticidad de las flores mullidas.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

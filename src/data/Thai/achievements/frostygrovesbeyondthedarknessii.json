@@ -1,0 +1,20 @@
+{
+	"id": [
+		80467
+	],
+	"name": "ป่าเหมันต์เหนือราตรีอันมืดมิด II",
+	"achievementGroupId": 66,
+	"achievementGroupName": "Nod-Krai - สรวงสวรรค์แห่งแสงจันทร์และการพเนจร II",
+	"sortOrder": 428,
+	"stages": 1,
+	"stage1": {
+		"title": "ป่าเหมันต์เหนือราตรีอันมืดมิด II",
+		"description": "ปลดล็อกจุดเทเลพอร์ตทั้งหมดของเนินชมทะเลเวิ้งว้าง, ที่ราบกระแสคลื่น และยอดเขา Ashveil ในพื้นที่ Nod-Krai",
+		"progress": 29,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

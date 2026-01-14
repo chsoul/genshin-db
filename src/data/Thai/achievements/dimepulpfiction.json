@@ -1,0 +1,20 @@
+{
+	"id": [
+		80456
+	],
+	"name": "จินตนาการกระดาษสิบ Mora",
+	"achievementGroupId": 65,
+	"achievementGroupName": "ขบวนพาเหรด แฟนซี - ชุดที่ 6",
+	"sortOrder": 417,
+	"stages": 1,
+	"stage1": {
+		"title": "จินตนาการกระดาษสิบ Mora",
+		"description": "รวบรวม \"ตำนานจอมโจรผู้ยิ่งใหญ่ Reed Miller\" ให้ครบเซ็ต",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"id": [
+		80471
+	],
+	"name": "หากเมล็ดพันธุ์ไม่ตาย",
+	"achievementGroupId": 66,
+	"achievementGroupName": "Nod-Krai - สรวงสวรรค์แห่งแสงจันทร์และการพเนจร II",
+	"sortOrder": 432,
+	"stages": 1,
+	"stage1": {
+		"title": "หากเมล็ดพันธุ์ไม่ตาย",
+		"description": "แม้ดอกจะร่วงโรยไป แต่ใบจะยังคงรักษาสัญญา",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

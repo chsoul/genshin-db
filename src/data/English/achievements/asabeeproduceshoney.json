@@ -1,0 +1,20 @@
+{
+	"id": [
+		80458
+	],
+	"name": "...As a Bee Produces Honey",
+	"achievementGroupId": 65,
+	"achievementGroupName": "Mortal Travails: Series VI",
+	"sortOrder": 419,
+	"stages": 1,
+	"stage1": {
+		"title": "...As a Bee Produces Honey",
+		"description": "Collect the entire \"Conch Echoes\" series.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

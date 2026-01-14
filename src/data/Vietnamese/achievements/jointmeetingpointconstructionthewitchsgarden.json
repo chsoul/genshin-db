@@ -1,0 +1,20 @@
+{
+	"id": [
+		80473
+	],
+	"name": "Xây Nơi Tụ Họp: Khu Vườn Ma Nữ",
+	"achievementGroupId": 66,
+	"achievementGroupName": "Nod-Krai: Thiên Đường Của Ánh Trăng Và Kẻ Lang Bạt (II)",
+	"sortOrder": 434,
+	"stages": 1,
+	"stage1": {
+		"title": "Xây Nơi Tụ Họp: Khu Vườn Ma Nữ",
+		"description": "Xây dựng Khu Vườn Ma Nữ đạt cấp tối đa.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

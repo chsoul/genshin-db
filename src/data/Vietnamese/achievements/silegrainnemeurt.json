@@ -1,0 +1,20 @@
+{
+	"id": [
+		80471
+	],
+	"name": "Nếu Hạt Giống Còn Sống",
+	"achievementGroupId": 66,
+	"achievementGroupName": "Nod-Krai: Thiên Đường Của Ánh Trăng Và Kẻ Lang Bạt (II)",
+	"sortOrder": 432,
+	"stages": 1,
+	"stage1": {
+		"title": "Nếu Hạt Giống Còn Sống",
+		"description": "Cho dù hoa tàn, lá cũng sẽ giữ đúng lời hứa.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 10
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81629
+	],
+	"name": "„Östlich des Mondes, westlich der Sonne“",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 1623,
+	"stages": 1,
+	"stage1": {
+		"title": "„Östlich des Mondes, westlich der Sonne“",
+		"description": "Schließ „Östlich des Mondes, westlich der Sonne“ ab.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

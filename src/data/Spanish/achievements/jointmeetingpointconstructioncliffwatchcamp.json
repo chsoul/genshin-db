@@ -1,0 +1,20 @@
+{
+	"id": [
+		80472
+	],
+	"name": "Construcción de Punto de encuentro: Campamento del Barranco",
+	"achievementGroupId": 66,
+	"achievementGroupName": "Nod Krai: Paraíso de la luna y los errantes (II)",
+	"sortOrder": 433,
+	"stages": 1,
+	"stage1": {
+		"title": "Construcción de Punto de encuentro: Campamento del Barranco",
+		"description": "Construye el Campamento del Barranco hasta el nivel máximo.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

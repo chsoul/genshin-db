@@ -1,0 +1,21 @@
+{
+	"id": [
+		81634
+	],
+	"name": "Brot wird es geben",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 1628,
+	"stages": 1,
+	"stage1": {
+		"title": "Brot wird es geben",
+		"description": "Nutze den Ofen, um eine heiße, knackfrische „Fungus-Fantasie“ zu backen.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

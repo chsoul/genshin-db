@@ -1,0 +1,20 @@
+{
+	"id": [
+		80472
+	],
+	"name": "Construção Conjunta de Pontos de Encontro: Acampamento no Penhasco",
+	"achievementGroupId": 66,
+	"achievementGroupName": "Nod-Krai: Paraíso de Luar e Peregrinações - II",
+	"sortOrder": 433,
+	"stages": 1,
+	"stage1": {
+		"title": "Construção Conjunta de Pontos de Encontro: Acampamento no Penhasco",
+		"description": "Eleve o Acampamento no Penhasco ao seu nível máximo.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

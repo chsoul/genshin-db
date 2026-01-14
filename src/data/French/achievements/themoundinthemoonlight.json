@@ -1,0 +1,21 @@
+{
+	"id": [
+		81635
+	],
+	"name": "Le tertre au clair de lune",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1629,
+	"stages": 1,
+	"stage1": {
+		"title": "Le tertre au clair de lune",
+		"description": "Ouvrez une capsule temporelle laissée par un Hyperboréen inconnu.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

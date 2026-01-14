@@ -1,0 +1,21 @@
+{
+	"id": [
+		81636
+	],
+	"name": "Los senderos de gloria no conducen sino a la tumba",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 1630,
+	"stages": 1,
+	"stage1": {
+		"title": "Los senderos de gloria no conducen sino a la tumba",
+		"description": "Elimina a todos los secuaces del Profesor Rotwang.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

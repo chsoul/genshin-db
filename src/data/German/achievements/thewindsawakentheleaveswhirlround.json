@@ -1,0 +1,20 @@
+{
+	"id": [
+		80470
+	],
+	"name": "Der Wind ist erwacht, die Blätter wirbeln herum",
+	"achievementGroupId": 66,
+	"achievementGroupName": "Nod-Krai – Elysium des Mondes und Wanderns II",
+	"sortOrder": 431,
+	"stages": 1,
+	"stage1": {
+		"title": "Der Wind ist erwacht, die Blätter wirbeln herum",
+		"description": "Eine Nachtigall mit glühenden Kernen im Schnabel steigt nur nach Einbruch der Dunkelheit auf.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 10
+		}
+	}
+}

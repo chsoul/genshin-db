@@ -1,0 +1,21 @@
+{
+	"id": [
+		81641
+	],
+	"name": "O Pastor",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1635,
+	"stages": 1,
+	"stage1": {
+		"title": "O Pastor",
+		"description": "Dê um passeio tranquilo com a Ovelha-Preguiça.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

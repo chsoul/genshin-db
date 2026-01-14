@@ -1,0 +1,21 @@
+{
+	"id": [
+		84378
+	],
+	"name": "El regreso de la Luna Nueva",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 5153,
+	"stages": 1,
+	"stage1": {
+		"title": "El regreso de la Luna Nueva",
+		"description": "La Luna Nueva asciende y la rueca del destino vuelve a girar...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

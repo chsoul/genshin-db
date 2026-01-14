@@ -1,0 +1,21 @@
+{
+	"id": [
+		81638
+	],
+	"name": "Não Derrube",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1632,
+	"stages": 1,
+	"stage1": {
+		"title": "Não Derrube",
+		"description": "Absorva e jogue uma Mandrágora com Kuuvahki.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

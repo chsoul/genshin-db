@@ -1,0 +1,21 @@
+{
+	"id": [
+		81633
+	],
+	"name": "Долгая дорога домой",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1627,
+	"stages": 1,
+	"stage1": {
+		"title": "Долгая дорога домой",
+		"description": "Помогите Кузьмичу вернуться домой.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

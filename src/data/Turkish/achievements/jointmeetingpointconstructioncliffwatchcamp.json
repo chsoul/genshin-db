@@ -1,0 +1,20 @@
+{
+	"id": [
+		80472
+	],
+	"name": "Ortak Buluşma Noktası İnşaatı: Yamaç Kampı",
+	"achievementGroupId": 66,
+	"achievementGroupName": "Nod-Krai: Ay Işığı ve Gezintiler Cenneti (II)",
+	"sortOrder": 433,
+	"stages": 1,
+	"stage1": {
+		"title": "Ortak Buluşma Noktası İnşaatı: Yamaç Kampı",
+		"description": "Yamaç Kampında maksimum İnşaat Seviyesine ulaş.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		82305
+	],
+	"name": "Bir Tanrıyı Sınamaya Kalkma",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 2305,
+	"stages": 1,
+	"stage1": {
+		"title": "Bir Tanrıyı Sınamaya Kalkma",
+		"description": "Il Dottore'nin koyduğu bir kuralı çiğne.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

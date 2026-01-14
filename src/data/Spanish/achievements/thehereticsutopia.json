@@ -1,0 +1,21 @@
+{
+	"id": [
+		84376
+	],
+	"name": "Utopía herética",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 5151,
+	"stages": 1,
+	"stage1": {
+		"title": "Utopía herética",
+		"description": "Investiga el campo de energía creado por El Doctor.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

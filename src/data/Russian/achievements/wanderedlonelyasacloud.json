@@ -1,0 +1,21 @@
+{
+	"id": [
+		81640
+	],
+	"name": "Над долинами и холмами",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1634,
+	"stages": 1,
+	"stage1": {
+		"title": "Над долинами и холмами",
+		"description": "Почувствуйте мягкое прикосновение хлопчатника.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

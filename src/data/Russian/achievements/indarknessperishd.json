@@ -1,0 +1,21 @@
+{
+	"id": [
+		81642
+	],
+	"name": "И хладная земля чернелась",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1636,
+	"stages": 1,
+	"stage1": {
+		"title": "И хладная земля чернелась",
+		"description": "Падите без сознания из-за энергии разложения Бездны.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

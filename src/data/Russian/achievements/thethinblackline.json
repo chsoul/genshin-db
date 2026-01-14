@@ -1,0 +1,21 @@
+{
+	"id": [
+		81639
+	],
+	"name": "Тонкая чёрная линия",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1633,
+	"stages": 1,
+	"stage1": {
+		"title": "Тонкая чёрная линия",
+		"description": "Очистите текущие всплески силы Бездны.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

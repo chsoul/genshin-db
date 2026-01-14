@@ -1,0 +1,20 @@
+{
+	"id": [
+		81625
+	],
+	"name": "Лунная серенада белой ночи",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"sortOrder": 1619,
+	"stages": 1,
+	"stage1": {
+		"title": "Лунная серенада белой ночи",
+		"description": "Завершите «Лунные хроники III».",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

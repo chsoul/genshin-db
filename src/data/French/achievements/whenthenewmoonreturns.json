@@ -1,0 +1,21 @@
+{
+	"id": [
+		84378
+	],
+	"name": "Le retour de la nouvelle lune",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 5153,
+	"stages": 1,
+	"stage1": {
+		"title": "Le retour de la nouvelle lune",
+		"description": "Avec l'ascension de la « Nouvelle lune », la roue du destin se remit à tourner.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

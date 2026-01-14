@@ -1,0 +1,21 @@
+{
+	"id": [
+		81637
+	],
+	"name": "Momento É Tudo",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1631,
+	"stages": 1,
+	"stage1": {
+		"title": "Momento É Tudo",
+		"description": "Capture o momento perfeito para virar o jogo.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

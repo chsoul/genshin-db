@@ -2179,5 +2179,53 @@
 	},
 	"guidance": {
 		"filename_icon": "UI_EmotionIcon727"
+	},
+	"recording-01": {
+		"filename_icon": "UI_EmotionIcon728"
+	},
+	"silent": {
+		"filename_icon": "UI_EmotionIcon729"
+	},
+	"frightened-02": {
+		"filename_icon": "UI_EmotionIcon730"
+	},
+	"goodnight-01": {
+		"filename_icon": "UI_EmotionIcon731"
+	},
+	"haha": {
+		"filename_icon": "UI_EmotionIcon732"
+	},
+	"searching": {
+		"filename_icon": "UI_EmotionIcon733"
+	},
+	"speechless-02": {
+		"filename_icon": "UI_EmotionIcon734"
+	},
+	"shy-03": {
+		"filename_icon": "UI_EmotionIcon735"
+	},
+	"goodbye": {
+		"filename_icon": "UI_EmotionIcon736"
+	},
+	"venting": {
+		"filename_icon": "UI_EmotionIcon737"
+	},
+	"holdingback": {
+		"filename_icon": "UI_EmotionIcon738"
+	},
+	"showingoff": {
+		"filename_icon": "UI_EmotionIcon739"
+	},
+	"noticed-01": {
+		"filename_icon": "UI_EmotionIcon740"
+	},
+	"takeaseat": {
+		"filename_icon": "UI_EmotionIcon741"
+	},
+	"impatient": {
+		"filename_icon": "UI_EmotionIcon742"
+	},
+	"letsgo": {
+		"filename_icon": "UI_EmotionIcon743"
 	}
 }

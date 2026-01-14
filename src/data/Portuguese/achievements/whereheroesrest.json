@@ -1,0 +1,21 @@
+{
+	"id": [
+		81632
+	],
+	"name": "Onde o Herói Descansa",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1626,
+	"stages": 1,
+	"stage1": {
+		"title": "Onde o Herói Descansa",
+		"description": "Testemunhe o final do conto do Corcel do Gelo Invernal.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81632
+	],
+	"name": "Donde descansan los héroes",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 1626,
+	"stages": 1,
+	"stage1": {
+		"title": "Donde descansan los héroes",
+		"description": "Sé testigo de la última historia de los Corceles de la Ventisca.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"id": [
+		80460
+	],
+	"name": "一个城市的历史",
+	"achievementGroupId": 65,
+	"achievementGroupName": "尘世巡游·第六辑",
+	"sortOrder": 421,
+	"stages": 1,
+	"stage1": {
+		"title": "一个城市的历史",
+		"description": "集齐全套《苍星妖灵史略》。",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "原石",
+			"count": 5
+		}
+	}
+}

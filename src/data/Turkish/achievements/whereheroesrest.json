@@ -1,0 +1,21 @@
+{
+	"id": [
+		81632
+	],
+	"name": "Kahramanların Huzur Bulduğu Yer",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1626,
+	"stages": 1,
+	"stage1": {
+		"title": "Kahramanların Huzur Bulduğu Yer",
+		"description": "Donuk Fırtına Küheylanlarının hikayesinin sonuna tanık ol.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		82304
+	],
+	"name": "Wie es hätte sein sollen",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 2304,
+	"stages": 1,
+	"stage1": {
+		"title": "Wie es hätte sein sollen",
+		"description": "Werde Zeuge der Rückkehr des Albtraummonds.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"id": [
+		80470
+	],
+	"name": "Os Ventos Despertam, As Folhas Rodopiam",
+	"achievementGroupId": 66,
+	"achievementGroupName": "Nod-Krai: Paraíso de Luar e Peregrinações - II",
+	"sortOrder": 431,
+	"stages": 1,
+	"stage1": {
+		"title": "Os Ventos Despertam, As Folhas Rodopiam",
+		"description": "Um rouxinol, carregando uma brasa em seu bico, voou somente após o anoitecer.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	}
+}

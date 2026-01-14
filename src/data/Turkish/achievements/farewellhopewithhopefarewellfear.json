@@ -1,0 +1,21 @@
+{
+	"id": [
+		81628
+	],
+	"name": "Elveda Umut, Elveda Korku",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1622,
+	"stages": 1,
+	"stage1": {
+		"title": "Elveda Umut, Elveda Korku",
+		"description": "Kadim sarayın derinliklerden yükselişini izle.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81631
+	],
+	"name": "Le souvenir du loup solitaire",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1625,
+	"stages": 1,
+	"stage1": {
+		"title": "Le souvenir du loup solitaire",
+		"description": "Désormais, le chevalier ensanglanté s'éloigne du monde des hommes...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

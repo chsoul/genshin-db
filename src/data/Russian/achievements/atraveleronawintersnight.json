@@ -1,0 +1,21 @@
+{
+	"id": [
+		84374
+	],
+	"name": "Если однажды зимней ночью путешественник",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 5149,
+	"stages": 1,
+	"stage1": {
+		"title": "Если однажды зимней ночью путешественник",
+		"description": "Куда ведёт её путь?",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

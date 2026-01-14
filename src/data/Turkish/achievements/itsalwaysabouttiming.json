@@ -1,0 +1,21 @@
+{
+	"id": [
+		81637
+	],
+	"name": "Her Şey Zamanlamayla İlgili",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1631,
+	"stages": 1,
+	"stage1": {
+		"title": "Her Şey Zamanlamayla İlgili",
+		"description": "Durumu tersine çevirmek için en doğru anı yakala.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

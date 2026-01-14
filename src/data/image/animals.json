@@ -594,5 +594,14 @@
 	},
 	"palefurredwolf": {
 		"filename_icon": "UI_AnimalIcon_Wolf_01"
+	},
+	"cinderneckstork": {
+		"filename_icon": "UI_AnimalIcon_Crane_Laurus_01"
+	},
+	"crownedeagle": {
+		"filename_icon": "UI_AnimalIcon_Falcon_Laurus_01"
+	},
+	"thornbackgecko": {
+		"filename_icon": "UI_AnimalIcon_Lizard_Laurus_01"
 	}
 }

@@ -1,0 +1,16 @@
+{
+	"id": 11082,
+	"name": "Hooked Beak of the Deep Shadow",
+	"filterText": "Character and Weapon Enhancement Material",
+	"sortOrder": 140289,
+	"unlockRank": 20,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 112138,
+			"name": "Aberrant Core of the Deep Shadow",
+			"count": 3
+		}
+	]
+}

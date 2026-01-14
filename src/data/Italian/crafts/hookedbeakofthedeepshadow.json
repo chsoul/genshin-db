@@ -1,0 +1,16 @@
+{
+	"id": 11082,
+	"name": "Becco uncinato dell'ombra profonda",
+	"filterText": "Materiale di potenziamento armi e personaggi",
+	"sortOrder": 140289,
+	"unlockRank": 20,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 112138,
+			"name": "Nucleo aberrante dell'ombra profonda",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		84374
+	],
+	"name": "Un voyageur, par une nuit d'hiver",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 5149,
+	"stages": 1,
+	"stage1": {
+		"title": "Un voyageur, par une nuit d'hiver",
+		"description": "Jusqu'où son voyage la mènera-t-il ?",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"id": [
+		80470
+	],
+	"name": "The Winds Awaken, the Leaves Whirl Round",
+	"achievementGroupId": 66,
+	"achievementGroupName": "Nod-Krai: An Elysium of Moonlight and Wanderings (II)",
+	"sortOrder": 431,
+	"stages": 1,
+	"stage1": {
+		"title": "The Winds Awaken, the Leaves Whirl Round",
+		"description": "A nightingale, bearing an ember in its beak, flew only after dusk.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

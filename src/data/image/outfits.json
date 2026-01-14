@@ -605,5 +605,45 @@
 	"novaswhisper": {
 		"filename_card": "UI_AvatarIcon_Costume_Card",
 		"filename_iconCircle": "UI_AvatarIcon_Jahoda_Circle"
+	},
+	"asheavenandeartharemadeanewaether": {
+		"filename_card": "UI_AvatarIcon_PlayerBoyCostumeCWXR_Card",
+		"filename_icon": "UI_AvatarIcon_PlayerBoyCostumeCWXR",
+		"filename_iconCircle": "UI_AvatarIcon_PlayerBoyCostumeCWXR_Circle",
+		"filename_splash": "UI_Costume_PlayerBoyCostumeCWXR",
+		"filename_sideIcon": "UI_AvatarIcon_Side_PlayerBoyCostumeCWXR"
+	},
+	"asheavenandeartharemadeanewlumine": {
+		"filename_card": "UI_AvatarIcon_PlayerGirlCostumeCWXR_Card",
+		"filename_icon": "UI_AvatarIcon_PlayerGirlCostumeCWXR",
+		"filename_iconCircle": "UI_AvatarIcon_PlayerGirlCostumeCWXR_Circle",
+		"filename_splash": "UI_Costume_PlayerGirlCostumeCWXR",
+		"filename_sideIcon": "UI_AvatarIcon_Side_PlayerGirlCostumeCWXR"
+	},
+	"melusentgift": {
+		"filename_card": "UI_AvatarIcon_NeuvilletteCostumeWinter_Card",
+		"filename_icon": "UI_AvatarIcon_NeuvilletteCostumeWinter",
+		"filename_iconCircle": "UI_AvatarIcon_NeuvilletteCostumeWinter_Circle",
+		"filename_splash": "UI_Costume_NeuvilletteCostumeWinter",
+		"filename_sideIcon": "UI_AvatarIcon_Side_NeuvilletteCostumeWinter"
+	},
+	"rainlitbambooreverie": {
+		"filename_card": "UI_AvatarIcon_YaoyaoCostumeWinter_Card",
+		"filename_icon": "UI_AvatarIcon_YaoyaoCostumeWinter",
+		"filename_iconCircle": "UI_AvatarIcon_YaoyaoCostumeWinter_Circle",
+		"filename_splash": "UI_Costume_YaoyaoCostumeWinter",
+		"filename_sideIcon": "UI_AvatarIcon_Side_YaoyaoCostumeWinter"
+	},
+	"moonweavegossamer": {
+		"filename_card": "UI_AvatarIcon_Costume_Card",
+		"filename_iconCircle": "UI_AvatarIcon_Columbina_Circle"
+	},
+	"moonlitcourser": {
+		"filename_card": "UI_AvatarIcon_Costume_Card",
+		"filename_iconCircle": "UI_AvatarIcon_Zibai_Circle"
+	},
+	"steadfastresolve": {
+		"filename_card": "UI_AvatarIcon_Costume_Card",
+		"filename_iconCircle": "UI_AvatarIcon_Illuga_Circle"
 	}
 }

@@ -1,0 +1,20 @@
+{
+	"id": [
+		80468
+	],
+	"name": "Peziarah Tempat Suci: Pulau Cahaya Rembulan (II)",
+	"achievementGroupId": 66,
+	"achievementGroupName": "Nod-Krai: Taman Cahaya Bulan dan Langkah yang Mengembara (II)",
+	"sortOrder": 429,
+	"stages": 1,
+	"stage1": {
+		"title": "Peziarah Tempat Suci: Pulau Cahaya Rembulan (II)",
+		"description": "Membuka semua Shrine of Depths di wilayah Nod-Krai: Voidsea Outlook, Wavechaser Plain, dan Ashveil Peak.",
+		"progress": 3,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

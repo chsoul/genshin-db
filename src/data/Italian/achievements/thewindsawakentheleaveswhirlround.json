@@ -1,0 +1,20 @@
+{
+	"id": [
+		80470
+	],
+	"name": "I venti si risvegliano, le foglie vorticano",
+	"achievementGroupId": 66,
+	"achievementGroupName": "Nod-Krai: Un Elisio di vagabondaggi al chiaro di luna (II)",
+	"sortOrder": 431,
+	"stages": 1,
+	"stage1": {
+		"title": "I venti si risvegliano, le foglie vorticano",
+		"description": "Un usignolo, che trasportava un tizzone nel becco, volava solo dopo il tramonto.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 10
+		}
+	}
+}

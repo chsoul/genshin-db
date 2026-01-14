@@ -1,0 +1,20 @@
+{
+	"id": [
+		80473
+	],
+	"name": "Joint Meeting Point Construction: The Witch's Garden",
+	"achievementGroupId": 66,
+	"achievementGroupName": "Nod-Krai: An Elysium of Moonlight and Wanderings (II)",
+	"sortOrder": 434,
+	"stages": 1,
+	"stage1": {
+		"title": "Joint Meeting Point Construction: The Witch's Garden",
+		"description": "Reach maximum Construction Level at the Witch's Garden.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

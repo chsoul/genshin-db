@@ -1,0 +1,21 @@
+{
+	"id": [
+		81640
+	],
+	"name": "Schweben in sanften Schritten",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 1634,
+	"stages": 1,
+	"stage1": {
+		"title": "Schweben in sanften Schritten",
+		"description": "Spüre den weichen, federnden Hauch der Baumwoll-Blüte.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

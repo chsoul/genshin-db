@@ -1,0 +1,16 @@
+{
+	"id": 11082,
+	"name": "어둠의 부리",
+	"filterText": "캐릭터와 무기 육성 소재",
+	"sortOrder": 140289,
+	"unlockRank": 20,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 112138,
+			"name": "어둠의 핵",
+			"count": 3
+		}
+	]
+}

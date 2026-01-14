@@ -1,0 +1,20 @@
+{
+	"id": [
+		81625
+	],
+	"name": "Serenata lunar de la noche blanca",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"sortOrder": 1619,
+	"stages": 1,
+	"stage1": {
+		"title": "Serenata lunar de la noche blanca",
+		"description": "Completa “Anécdotas selénicas (III)”.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

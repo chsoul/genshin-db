@@ -1,0 +1,20 @@
+{
+	"id": [
+		80461
+	],
+	"name": "ดินแดนแห่งภูตใต้แสงจันทร์",
+	"achievementGroupId": 65,
+	"achievementGroupName": "ขบวนพาเหรด แฟนซี - ชุดที่ 6",
+	"sortOrder": 422,
+	"stages": 1,
+	"stage1": {
+		"title": "ดินแดนแห่งภูตใต้แสงจันทร์",
+		"description": "รวบรวม \"เรื่องเล่ายามราตรีจากชายแดน\" ให้ครบเซ็ต",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81631
+	],
+	"name": "The Lone Wolf's Memory",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wonders of the World",
+	"isHidden": true,
+	"sortOrder": 1625,
+	"stages": 1,
+	"stage1": {
+		"title": "The Lone Wolf's Memory",
+		"description": "Henceforth, the Bloodstained Knight walked away from the world of men...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

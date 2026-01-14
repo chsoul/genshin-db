@@ -1,0 +1,21 @@
+{
+	"id": [
+		81641
+	],
+	"name": "El pastor",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 1635,
+	"stages": 1,
+	"stage1": {
+		"title": "El pastor",
+		"description": "Da un paseo tranquilamente con el carnero perezoso.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

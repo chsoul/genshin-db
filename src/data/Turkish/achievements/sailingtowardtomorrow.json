@@ -1,0 +1,21 @@
+{
+	"id": [
+		84379
+	],
+	"name": "Yarına Doğru Yelken Açarken",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 5154,
+	"stages": 1,
+	"stage1": {
+		"title": "Yarına Doğru Yelken Açarken",
+		"description": "Nod-Krai'daki gruplar arasında kurulan ittifaka tanık ol.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

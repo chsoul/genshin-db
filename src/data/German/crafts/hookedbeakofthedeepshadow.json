@@ -1,0 +1,16 @@
+{
+	"id": 11082,
+	"name": "Schnabel der tiefen Schatten",
+	"filterText": "Material zur Verbesserung von Figuren und Waffen",
+	"sortOrder": 140289,
+	"unlockRank": 20,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 112138,
+			"name": "Aberranter Kern der tiefen Schatten",
+			"count": 3
+		}
+	]
+}

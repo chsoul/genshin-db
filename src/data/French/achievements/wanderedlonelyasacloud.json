@@ -1,0 +1,21 @@
+{
+	"id": [
+		81640
+	],
+	"name": "Errer en solitaire comme un nuage",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1634,
+	"stages": 1,
+	"stage1": {
+		"title": "Errer en solitaire comme un nuage",
+		"description": "Ressentez le toucher doux et élastique des fleurs de coton printanier.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

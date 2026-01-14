@@ -1,0 +1,20 @@
+{
+	"id": [
+		80472
+	],
+	"name": "Joint Meeting Point Construction: Cliffwatch Camp",
+	"achievementGroupId": 66,
+	"achievementGroupName": "Nod-Krai: An Elysium of Moonlight and Wanderings (II)",
+	"sortOrder": 433,
+	"stages": 1,
+	"stage1": {
+		"title": "Joint Meeting Point Construction: Cliffwatch Camp",
+		"description": "Reach maximum Construction Level at the Cliffwatch Camp.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

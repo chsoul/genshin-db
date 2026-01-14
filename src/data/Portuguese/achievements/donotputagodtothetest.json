@@ -1,0 +1,21 @@
+{
+	"id": [
+		82305
+	],
+	"name": "Jamais Teste um Deus",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 2305,
+	"stages": 1,
+	"stage1": {
+		"title": "Jamais Teste um Deus",
+		"description": "Quebre a regra estabelecida por Dottore.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

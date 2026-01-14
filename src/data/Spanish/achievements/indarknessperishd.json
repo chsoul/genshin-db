@@ -1,0 +1,21 @@
+{
+	"id": [
+		81642
+	],
+	"name": "#Ahogad{F#a}{M#o} en la oscuridad",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 1636,
+	"stages": 1,
+	"stage1": {
+		"title": "#Ahogad{F#a}{M#o} en la oscuridad",
+		"description": "Cae derrotad{F#a}{M#o} por la corrosión del Abismo.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

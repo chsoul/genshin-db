@@ -1,0 +1,21 @@
+{
+	"id": [
+		81627
+	],
+	"name": "Dead Draw",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1621,
+	"stages": 1,
+	"stage1": {
+		"title": "Dead Draw",
+		"description": "O Fim Ainda Não Chegou.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

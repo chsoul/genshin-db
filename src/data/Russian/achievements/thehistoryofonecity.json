@@ -1,0 +1,20 @@
+{
+	"id": [
+		80460
+	],
+	"name": "История одного города",
+	"achievementGroupId": 65,
+	"achievementGroupName": "Скитания по миру VI",
+	"sortOrder": 421,
+	"stages": 1,
+	"stage1": {
+		"title": "История одного города",
+		"description": "Соберите полную коллекцию «Краткая история Рождённых Бледной звездой».",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

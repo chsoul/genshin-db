@@ -1,0 +1,21 @@
+{
+	"id": [
+		81627
+	],
+	"name": "Mano del morto",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1621,
+	"stages": 1,
+	"stage1": {
+		"title": "Mano del morto",
+		"description": "La fine non è ancora arrivata.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

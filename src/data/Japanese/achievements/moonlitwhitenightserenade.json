@@ -1,0 +1,20 @@
+{
+	"id": [
+		81625
+	],
+	"name": "月の白夜歌",
+	"achievementGroupId": 0,
+	"achievementGroupName": "天地万象",
+	"sortOrder": 1619,
+	"stages": 1,
+	"stage1": {
+		"title": "月の白夜歌",
+		"description": "「伴月紀聞・3」をクリアする。",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "原石",
+			"count": 5
+		}
+	}
+}

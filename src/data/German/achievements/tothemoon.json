@@ -1,0 +1,21 @@
+{
+	"id": [
+		84380
+	],
+	"name": "„To the Moon“",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 5155,
+	"stages": 1,
+	"stage1": {
+		"title": "„To the Moon“",
+		"description": "Erreiche die Oberfläche des Mondes.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

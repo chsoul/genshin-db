@@ -9,7 +9,7 @@
 	"stages": 1,
 	"stage1": {
 		"title": "Ricordi di Gurabad",
-		"description": "Raccogli la serie completa de La storia di Shiruyeh e Shirin.",
+		"description": "Raccogli la serie completa de \"La storia di Shiruyeh e Shirin\".",
 		"progress": 1,
 		"reward": {
 			"id": 201,

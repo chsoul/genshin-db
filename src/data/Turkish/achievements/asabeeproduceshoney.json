@@ -1,0 +1,20 @@
+{
+	"id": [
+		80458
+	],
+	"name": "Arının Bal Yapması Gibi",
+	"achievementGroupId": 65,
+	"achievementGroupName": "Fani Meseleleri: VI. Seri",
+	"sortOrder": 419,
+	"stages": 1,
+	"stage1": {
+		"title": "Arının Bal Yapması Gibi",
+		"description": "\"Kabuktaki Yankılar\" serisinin tüm ciltlerini topla.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

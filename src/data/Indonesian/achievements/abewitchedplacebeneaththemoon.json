@@ -1,0 +1,20 @@
+{
+	"id": [
+		80461
+	],
+	"name": "Bangsa Peri di Bawah Rembulan",
+	"achievementGroupId": 65,
+	"achievementGroupName": "Penderitaan Fana: Seri VI",
+	"sortOrder": 422,
+	"stages": 1,
+	"stage1": {
+		"title": "Bangsa Peri di Bawah Rembulan",
+		"description": "Kumpulkan keseluruhan seri \"Desiran Malam dari Perbatasan Jauh\".",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

@@ -9,7 +9,7 @@
 	"stages": 1,
 	"stage1": {
 		"title": "L'ubriacone e il lupo",
-		"description": "Raccogli la serie completa del Racconto di un ubriacone.",
+		"description": "Raccogli la serie completa del \"Racconto di un ubriacone\".",
 		"progress": 1,
 		"reward": {
 			"id": 201,

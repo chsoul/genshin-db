@@ -1,0 +1,21 @@
+{
+	"id": [
+		81634
+	],
+	"name": "Ekmeksiz Doymam",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1628,
+	"stages": 1,
+	"stage1": {
+		"title": "Ekmeksiz Doymam",
+		"description": "Mangalda sıcacık, taptaze bir Mantar Hülyası yap.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

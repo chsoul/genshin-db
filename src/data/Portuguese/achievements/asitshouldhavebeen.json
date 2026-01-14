@@ -1,0 +1,21 @@
+{
+	"id": [
+		82304
+	],
+	"name": "Como Deveria Ser",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 2304,
+	"stages": 1,
+	"stage1": {
+		"title": "Como Deveria Ser",
+		"description": "Testemunhe o retorno da Lua do Pesadelo",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

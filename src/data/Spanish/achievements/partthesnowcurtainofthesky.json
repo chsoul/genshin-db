@@ -1,0 +1,20 @@
+{
+	"id": [
+		80459
+	],
+	"name": "Aparta el velo de las nieves",
+	"achievementGroupId": 65,
+	"achievementGroupName": "Vagabundo del mundo mortal: Parte 6",
+	"sortOrder": 420,
+	"stages": 1,
+	"stage1": {
+		"title": "Aparta el velo de las nieves",
+		"description": "Reúne toda la colección de «Antología del viento boreal».",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

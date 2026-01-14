@@ -1,0 +1,21 @@
+{
+	"id": [
+		81630
+	],
+	"name": "誰が監視者を監視するのか",
+	"achievementGroupId": 0,
+	"achievementGroupName": "天地万象",
+	"isHidden": true,
+	"sortOrder": 1624,
+	"stages": 1,
+	"stage1": {
+		"title": "誰が監視者を監視するのか",
+		"description": "グラジーナの計画を知ることとなった。",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "原石",
+			"count": 5
+		}
+	}
+}

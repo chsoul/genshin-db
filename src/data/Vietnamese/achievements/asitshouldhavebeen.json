@@ -1,0 +1,21 @@
+{
+	"id": [
+		82304
+	],
+	"name": "Vốn Nên Như Vậy",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 2304,
+	"stages": 1,
+	"stage1": {
+		"title": "Vốn Nên Như Vậy",
+		"description": "Chứng kiến sự trở về của Trăng Ác Mộng.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

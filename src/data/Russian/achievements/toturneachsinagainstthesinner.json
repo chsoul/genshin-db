@@ -1,0 +1,21 @@
+{
+	"id": [
+		81626
+	],
+	"name": "Грех обернётся против грешника",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1620,
+	"stages": 1,
+	"stage1": {
+		"title": "Грех обернётся против грешника",
+		"description": "Помогите Янушу разобраться с монстрами в Мрачных болотах.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

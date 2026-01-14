@@ -1,0 +1,20 @@
+{
+	"id": [
+		80460
+	],
+	"name": "La historia de una ciudad",
+	"achievementGroupId": 65,
+	"achievementGroupName": "Vagabundo del mundo mortal: Parte 6",
+	"sortOrder": 421,
+	"stages": 1,
+	"stage1": {
+		"title": "La historia de una ciudad",
+		"description": "Reúne toda la colección de «Breve historia de las hadas de la Estrella Albina».",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

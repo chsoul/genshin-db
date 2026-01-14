@@ -1,0 +1,21 @@
+{
+	"id": [
+		81637
+	],
+	"name": "Дело всегда в сроках",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1631,
+	"stages": 1,
+	"stage1": {
+		"title": "Дело всегда в сроках",
+		"description": "Уловите тот самый миг, чтобы переломить ситуацию.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

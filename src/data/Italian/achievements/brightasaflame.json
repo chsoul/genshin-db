@@ -9,7 +9,7 @@
 	"stages": 1,
 	"stage1": {
 		"title": "Brillante come una fiamma",
-		"description": "Raccogli la serie completa de Il foglio del fogliame.",
+		"description": "Raccogli la serie completa de \"Il foglio del fogliame\".",
 		"progress": 1,
 		"reward": {
 			"id": 201,

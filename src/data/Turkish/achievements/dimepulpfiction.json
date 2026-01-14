@@ -1,0 +1,20 @@
+{
+	"id": [
+		80456
+	],
+	"name": "Çok Ucuz Roman",
+	"achievementGroupId": 65,
+	"achievementGroupName": "Fani Meseleleri: VI. Seri",
+	"sortOrder": 417,
+	"stages": 1,
+	"stage1": {
+		"title": "Çok Ucuz Roman",
+		"description": "\"Olağanüstü Hırsız Reed Miller'ın Maceraları\" serisinin tüm ciltlerini topla.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"id": [
+		80458
+	],
+	"name": "... como una abeja produce miel",
+	"achievementGroupId": 65,
+	"achievementGroupName": "Vagabundo del mundo mortal: Parte 6",
+	"sortOrder": 419,
+	"stages": 1,
+	"stage1": {
+		"title": "... como una abeja produce miel",
+		"description": "Reúne toda la colección de «El eco de la caracola».",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

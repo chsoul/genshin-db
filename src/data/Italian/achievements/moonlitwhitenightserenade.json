@@ -1,0 +1,20 @@
+{
+	"id": [
+		81625
+	],
+	"name": "Bianca serenata al chiaro di luna",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"sortOrder": 1619,
+	"stages": 1,
+	"stage1": {
+		"title": "Bianca serenata al chiaro di luna",
+		"description": "Completa Cronache lunari: Parte III.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

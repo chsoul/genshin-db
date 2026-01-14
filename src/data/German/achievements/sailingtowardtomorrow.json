@@ -1,0 +1,21 @@
+{
+	"id": [
+		84379
+	],
+	"name": "Setze Segel in Richtung morgen",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 5154,
+	"stages": 1,
+	"stage1": {
+		"title": "Setze Segel in Richtung morgen",
+		"description": "Werde Zeuge des Bündnisses, das zwischen den vielen Fraktionen von Nod-Krai geschlossen wurde.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

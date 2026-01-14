@@ -1,0 +1,20 @@
+{
+	"id": [
+		80459
+	],
+	"name": "Part the Snow-Curtain of the Sky",
+	"achievementGroupId": 65,
+	"achievementGroupName": "Mortal Travails: Series VI",
+	"sortOrder": 420,
+	"stages": 1,
+	"stage1": {
+		"title": "Part the Snow-Curtain of the Sky",
+		"description": "Collect the entire \"Tales Carried by the Northwind\" series.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

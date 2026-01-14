@@ -1,0 +1,20 @@
+{
+	"id": [
+		80471
+	],
+	"name": "Si le grain ne meurt",
+	"achievementGroupId": 66,
+	"achievementGroupName": "Nod-Krai: An Elysium of Moonlight and Wanderings (II)",
+	"sortOrder": 432,
+	"stages": 1,
+	"stage1": {
+		"title": "Si le grain ne meurt",
+		"description": "Even when the flower withers, the leaves still keep their promise.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

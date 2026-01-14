@@ -1,0 +1,21 @@
+{
+	"id": [
+		81632
+	],
+	"name": "Где покоится герой",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1626,
+	"stages": 1,
+	"stage1": {
+		"title": "Где покоится герой",
+		"description": "Станьте свидетелем завершения истории «Рысаков вихря».",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

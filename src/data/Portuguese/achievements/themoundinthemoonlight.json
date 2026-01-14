@@ -1,0 +1,21 @@
+{
+	"id": [
+		81635
+	],
+	"name": "Colina Iluminada Pelo Luar",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1629,
+	"stages": 1,
+	"stage1": {
+		"title": "Colina Iluminada Pelo Luar",
+		"description": "Abra uma cápsula do tempo deixada por alguém desconhecido de Hiperbórea.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

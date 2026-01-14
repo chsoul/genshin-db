@@ -1,0 +1,21 @@
+{
+	"id": [
+		81629
+	],
+	"name": "\"Di Timur Bulan, Di Barat Matahari\"",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 1623,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Di Timur Bulan, Di Barat Matahari\"",
+		"description": "Selesaikan \"Di Timur Bulan, Di Barat Matahari\".",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

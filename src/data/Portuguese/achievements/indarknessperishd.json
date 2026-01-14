@@ -1,0 +1,21 @@
+{
+	"id": [
+		81642
+	],
+	"name": "Afogado em Escuridão",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1636,
+	"stages": 1,
+	"stage1": {
+		"title": "Afogado em Escuridão",
+		"description": "Desabe sob a Corrosão do Abismo.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

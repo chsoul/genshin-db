@@ -1,0 +1,21 @@
+{
+	"id": [
+		82304
+	],
+	"name": "Как и должно быть",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 2304,
+	"stages": 1,
+	"stage1": {
+		"title": "Как и должно быть",
+		"description": "Станьте свидетелем возвращения Кошмарной луны.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"id": [
+		81625
+	],
+	"name": "Moonlit Whitenight Serenade",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wonders of the World",
+	"sortOrder": 1619,
+	"stages": 1,
+	"stage1": {
+		"title": "Moonlit Whitenight Serenade",
+		"description": "Complete \"Selenic Chronicles: Part III.\"",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

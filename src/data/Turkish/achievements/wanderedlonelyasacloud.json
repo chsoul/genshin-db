@@ -1,0 +1,21 @@
+{
+	"id": [
+		81640
+	],
+	"name": "Bulut Gibi Yalnız Dolaştım",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1634,
+	"stages": 1,
+	"stage1": {
+		"title": "Bulut Gibi Yalnız Dolaştım",
+		"description": "Pamuk Yayı Çiçeklerinin yumuşak ve esnek dokusunu hisset.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

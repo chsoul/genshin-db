@@ -1,0 +1,21 @@
+{
+	"id": [
+		81641
+	],
+	"name": "Il pastore",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1635,
+	"stages": 1,
+	"stage1": {
+		"title": "Il pastore",
+		"description": "Passeggia serenamente al fianco del Pigrariete.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

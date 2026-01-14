@@ -1,0 +1,21 @@
+{
+	"id": [
+		81628
+	],
+	"name": "Farewell Hope, With Hope Farewell Fear",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wonders of the World",
+	"isHidden": true,
+	"sortOrder": 1622,
+	"stages": 1,
+	"stage1": {
+		"title": "Farewell Hope, With Hope Farewell Fear",
+		"description": "Witness the ancient palace rise from the depths.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

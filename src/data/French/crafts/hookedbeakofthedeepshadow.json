@@ -1,0 +1,16 @@
+{
+	"id": 11082,
+	"name": "Bec crochu des fonds",
+	"filterText": "Matériau d'amélioration de personnage et d'arme",
+	"sortOrder": 140289,
+	"unlockRank": 20,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 112138,
+			"name": "Noyau aberrant des fonds",
+			"count": 3
+		}
+	]
+}

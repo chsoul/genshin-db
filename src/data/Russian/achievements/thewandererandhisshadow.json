@@ -1,0 +1,21 @@
+{
+	"id": [
+		84375
+	],
+	"name": "Странник и его тень",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 5150,
+	"stages": 1,
+	"stage1": {
+		"title": "Странник и его тень",
+		"description": "Возможно, это сила, изначально предназначенная тебе.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

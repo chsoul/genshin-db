@@ -1,0 +1,21 @@
+{
+	"id": [
+		82305
+	],
+	"name": "Не стоит испытывать бога",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 2305,
+	"stages": 1,
+	"stage1": {
+		"title": "Не стоит испытывать бога",
+		"description": "Нарушьте правило, установленное Дотторе.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

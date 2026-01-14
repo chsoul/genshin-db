@@ -1,0 +1,21 @@
+{
+	"id": [
+		81640
+	],
+	"name": "Flutuando em Passos Suaves",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1634,
+	"stages": 1,
+	"stage1": {
+		"title": "Flutuando em Passos Suaves",
+		"description": "Sinta o toque suave das Flores da Fonte de Algodão.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

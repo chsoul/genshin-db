@@ -1,0 +1,20 @@
+{
+	"id": [
+		80456
+	],
+	"name": "Romanzi pulp da dieci Mora",
+	"achievementGroupId": 65,
+	"achievementGroupName": "Fatiche mortali: Serie VI",
+	"sortOrder": 417,
+	"stages": 1,
+	"stage1": {
+		"title": "Romanzi pulp da dieci Mora",
+		"description": "Raccogli la serie completa de \"Le leggende di Reed Miller, il Ladro eccezionale\".",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

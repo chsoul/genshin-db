@@ -1,0 +1,21 @@
+{
+	"id": [
+		84380
+	],
+	"name": "To the Moon",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 5155,
+	"stages": 1,
+	"stage1": {
+		"title": "To the Moon",
+		"description": "Tiba di permukaan bulan.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

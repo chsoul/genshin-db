@@ -1,0 +1,20 @@
+{
+	"id": [
+		80471
+	],
+	"name": "Se il seme non muore",
+	"achievementGroupId": 66,
+	"achievementGroupName": "Nod-Krai: Un Elisio di vagabondaggi al chiaro di luna (II)",
+	"sortOrder": 432,
+	"stages": 1,
+	"stage1": {
+		"title": "Se il seme non muore",
+		"description": "Anche quando il fiore appassisce, le foglie mantengono la loro promessa.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 10
+		}
+	}
+}

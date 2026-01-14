@@ -1309,5 +1309,35 @@
 		"filename_icon": "UI_NameCardIcon_Green",
 		"filename_banner": "UI_NameCardPic_Green_Alpha",
 		"filename_background": "UI_NameCardPic_Green_P"
+	},
+	"columbinasomeday": {
+		"filename_icon": "UI_NameCardIcon_Columbina",
+		"filename_banner": "UI_NameCardPic_Columbina_Alpha",
+		"filename_background": "UI_NameCardPic_Columbina_P"
+	},
+	"zibaiveiledvista": {
+		"filename_icon": "UI_NameCardIcon_Zibai",
+		"filename_banner": "UI_NameCardPic_Zibai_Alpha",
+		"filename_background": "UI_NameCardPic_Zibai_P"
+	},
+	"illuganightmaresongbird": {
+		"filename_icon": "UI_NameCardIcon_Illuga",
+		"filename_banner": "UI_NameCardPic_Illuga_Alpha",
+		"filename_background": "UI_NameCardPic_Illuga_P"
+	},
+	"achievementfarsighted": {
+		"filename_icon": "UI_NameCardIcon_Csxy6",
+		"filename_banner": "UI_NameCardPic_Csxy6_Alpha",
+		"filename_background": "UI_NameCardPic_Csxy6_P"
+	},
+	"nodkrailanternoflongestnight": {
+		"filename_icon": "UI_NameCardIcon_NodKrai2",
+		"filename_banner": "UI_NameCardPic_NodKrai2_Alpha",
+		"filename_background": "UI_NameCardPic_NodKrai2_P"
+	},
+	"travelnoteslanternlitode": {
+		"filename_icon": "UI_NameCardIcon_Bp47",
+		"filename_banner": "UI_NameCardPic_Bp47_Alpha",
+		"filename_background": "UI_NameCardPic_Bp47_P"
 	}
 }

@@ -1,0 +1,11 @@
+{
+	"id": 70800017,
+	"name": "Schutzraum Null",
+	"areaId": 70501,
+	"areaName": "„Postapokalyptisches Elysium“",
+	"description": "Vielleicht ist die Vorstellung einer unvollkommenen Welt noch härter zu verdauen als die der Apokalypse.",
+	"regionId": 7,
+	"regionName": "Nod-Krai",
+	"showOnlyUnlocked": true,
+	"sortOrder": 617
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81626
+	],
+	"name": "Ritorcere ogni peccato contro il peccatore",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1620,
+	"stages": 1,
+	"stage1": {
+		"title": "Ritorcere ogni peccato contro il peccatore",
+		"description": "Aiuta Janusz a occuparsi dei mostri alla Palude Ombrincubo.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81633
+	],
+	"name": "Adieux sur le chemin du retour",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1627,
+	"stages": 1,
+	"stage1": {
+		"title": "Adieux sur le chemin du retour",
+		"description": "Aidez Kuzmich à rentrer chez lui.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

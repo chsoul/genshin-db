@@ -1,0 +1,21 @@
+{
+	"id": [
+		81636
+	],
+	"name": "Der Weg der Ehre führt zum Grab",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 1630,
+	"stages": 1,
+	"stage1": {
+		"title": "Der Weg der Ehre führt zum Grab",
+		"description": "Beseitige alle Anhänger von „Professor“ Rotwang.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

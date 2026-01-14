@@ -1,0 +1,20 @@
+{
+	"id": [
+		80459
+	],
+	"name": "ทะลวงม่านหิมะแห่งฟากฟ้า",
+	"achievementGroupId": 65,
+	"achievementGroupName": "ขบวนพาเหรด แฟนซี - ชุดที่ 6",
+	"sortOrder": 420,
+	"stages": 1,
+	"stage1": {
+		"title": "ทะลวงม่านหิมะแห่งฟากฟ้า",
+		"description": "รวบรวม \"บทแห่งสายลมเหนือ\" ให้ครบเซ็ต",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

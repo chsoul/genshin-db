@@ -1,0 +1,21 @@
+{
+	"id": [
+		81631
+	],
+	"name": "As Memórias do Lobo Solitário",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1625,
+	"stages": 1,
+	"stage1": {
+		"title": "As Memórias do Lobo Solitário",
+		"description": "Daí em diante, o Cavaleiro Manchado de Sangue deixou o mundo dos homens...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

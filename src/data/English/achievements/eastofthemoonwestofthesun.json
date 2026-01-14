@@ -1,0 +1,21 @@
+{
+	"id": [
+		81629
+	],
+	"name": "\"East of the Moon, West of the Sun\"",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wonders of the World",
+	"isHidden": true,
+	"sortOrder": 1623,
+	"stages": 1,
+	"stage1": {
+		"title": "\"East of the Moon, West of the Sun\"",
+		"description": "Complete \"East of the Moon, West of the Sun.\"",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

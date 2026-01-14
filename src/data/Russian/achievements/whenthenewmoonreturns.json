@@ -1,0 +1,21 @@
+{
+	"id": [
+		84378
+	],
+	"name": "Возвращение Новой Луны",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 5153,
+	"stages": 1,
+	"stage1": {
+		"title": "Возвращение Новой Луны",
+		"description": "Из пепла взойдёт Новая Луна и вновь раскрутит колесо судьбы.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

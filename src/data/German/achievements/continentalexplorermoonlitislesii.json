@@ -1,0 +1,20 @@
+{
+	"id": [
+		80466
+	],
+	"name": "Erkundung des Landes – Insel im Mondschein II",
+	"achievementGroupId": 66,
+	"achievementGroupName": "Nod-Krai – Elysium des Mondes und Wanderns II",
+	"sortOrder": 427,
+	"stages": 1,
+	"stage1": {
+		"title": "Erkundung des Landes – Insel im Mondschein II",
+		"description": "Schalte die Gebiete des Leeremeer-Ausblicks, der Wellenjäger-Ebene und des Ascheschleier-Gipfels in der Region um Nod-Krai auf der Karte frei.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

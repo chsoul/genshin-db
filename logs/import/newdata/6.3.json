@@ -196,5 +196,479 @@
 			"dataid": 3611,
 			"filename": "mushroomphantasm"
 		}
+	],
+	"achievementgroups": [
+		{
+			"dataid": 66,
+			"filename": "nodkraianelysiumofmoonlightandwanderingsii"
+		},
+		{
+			"dataid": 65,
+			"filename": "mortaltravailsseriesvi"
+		}
+	],
+	"animals": [
+		{
+			"dataid": 28010209,
+			"filename": "thornbackgecko"
+		},
+		{
+			"dataid": 28030108,
+			"filename": "cinderneckstork"
+		},
+		{
+			"dataid": 28030710,
+			"filename": "crownedeagle"
+		}
+	],
+	"outfits": [
+		{
+			"dataid": 212700,
+			"filename": "steadfastresolve"
+		},
+		{
+			"dataid": 212500,
+			"filename": "moonweavegossamer"
+		},
+		{
+			"dataid": 208701,
+			"filename": "melusentgift"
+		},
+		{
+			"dataid": 200501,
+			"filename": "asheavenandeartharemadeanewaether"
+		},
+		{
+			"dataid": 200701,
+			"filename": "asheavenandeartharemadeanewlumine"
+		},
+		{
+			"dataid": 207701,
+			"filename": "rainlitbambooreverie"
+		},
+		{
+			"dataid": 212600,
+			"filename": "moonlitcourser"
+		}
+	],
+	"crafts": [
+		{
+			"dataid": 11082,
+			"filename": "hookedbeakofthedeepshadow"
+		},
+		{
+			"dataid": 11081,
+			"filename": "aberrantcoreofthedeepshadow"
+		}
+	],
+	"geographies": [
+		{
+			"dataid": 70800022,
+			"filename": "wonderlandintherabbithole"
+		},
+		{
+			"dataid": 70800020,
+			"filename": "nightmareomen"
+		},
+		{
+			"dataid": 70800018,
+			"filename": "palacesoftimesbygone"
+		},
+		{
+			"dataid": 70800016,
+			"filename": "dawnoverthedarkchasm"
+		},
+		{
+			"dataid": 70800014,
+			"filename": "beaconinthelongnight"
+		},
+		{
+			"dataid": 70800015,
+			"filename": "elysiumsfinaltreasure"
+		},
+		{
+			"dataid": 70800017,
+			"filename": "bunkerno0"
+		},
+		{
+			"dataid": 70800019,
+			"filename": "towerpiercingatthesky"
+		},
+		{
+			"dataid": 70800021,
+			"filename": "hallofresoundingvalor"
+		}
+	],
+	"achievements": [
+		{
+			"dataid": [
+				84381
+			],
+			"filename": "truemoon"
+		},
+		{
+			"dataid": [
+				84379
+			],
+			"filename": "sailingtowardtomorrow"
+		},
+		{
+			"dataid": [
+				84377
+			],
+			"filename": "moonlightfromageslongpast"
+		},
+		{
+			"dataid": [
+				84375
+			],
+			"filename": "thewandererandhisshadow"
+		},
+		{
+			"dataid": [
+				82306
+			],
+			"filename": "wecallthisefficiency"
+		},
+		{
+			"dataid": [
+				82304
+			],
+			"filename": "asitshouldhavebeen"
+		},
+		{
+			"dataid": [
+				81641
+			],
+			"filename": "theshepherd"
+		},
+		{
+			"dataid": [
+				81639
+			],
+			"filename": "thethinblackline"
+		},
+		{
+			"dataid": [
+				81637
+			],
+			"filename": "itsalwaysabouttiming"
+		},
+		{
+			"dataid": [
+				81635
+			],
+			"filename": "themoundinthemoonlight"
+		},
+		{
+			"dataid": [
+				81633
+			],
+			"filename": "partingwaysonthejourneyhome"
+		},
+		{
+			"dataid": [
+				81631
+			],
+			"filename": "thelonewolfsmemory"
+		},
+		{
+			"dataid": [
+				81629
+			],
+			"filename": "eastofthemoonwestofthesun"
+		},
+		{
+			"dataid": [
+				81627
+			],
+			"filename": "deadmanshand"
+		},
+		{
+			"dataid": [
+				80473
+			],
+			"filename": "jointmeetingpointconstructionthewitchsgarden"
+		},
+		{
+			"dataid": [
+				80467
+			],
+			"filename": "frostygrovesbeyondthedarknessii"
+		},
+		{
+			"dataid": [
+				80465
+			],
+			"filename": "moondustadventurerii"
+		},
+		{
+			"dataid": [
+				80461
+			],
+			"filename": "abewitchedplacebeneaththemoon"
+		},
+		{
+			"dataid": [
+				80457
+			],
+			"filename": "faithwasforthetransience"
+		},
+		{
+			"dataid": [
+				80456
+			],
+			"filename": "dimepulpfiction"
+		},
+		{
+			"dataid": [
+				80458
+			],
+			"filename": "asabeeproduceshoney"
+		},
+		{
+			"dataid": [
+				80462,
+				80463,
+				80464
+			],
+			"filename": "moondusttreasurehunterii"
+		},
+		{
+			"dataid": [
+				81625
+			],
+			"filename": "moonlitwhitenightserenade"
+		},
+		{
+			"dataid": [
+				80471
+			],
+			"filename": "silegrainnemeurt"
+		},
+		{
+			"dataid": [
+				80469
+			],
+			"filename": "offeringstothenightmoonlitislesii"
+		},
+		{
+			"dataid": [
+				80459
+			],
+			"filename": "partthesnowcurtainofthesky"
+		},
+		{
+			"dataid": [
+				80460
+			],
+			"filename": "thehistoryofonecity"
+		},
+		{
+			"dataid": [
+				80468
+			],
+			"filename": "sanctuarypilgrimmoonlitislesii"
+		},
+		{
+			"dataid": [
+				80470
+			],
+			"filename": "thewindsawakentheleaveswhirlround"
+		},
+		{
+			"dataid": [
+				81630
+			],
+			"filename": "quiscustodietipsoscustodes"
+		},
+		{
+			"dataid": [
+				81634
+			],
+			"filename": "therewillbebread"
+		},
+		{
+			"dataid": [
+				81626
+			],
+			"filename": "toturneachsinagainstthesinner"
+		},
+		{
+			"dataid": [
+				81632
+			],
+			"filename": "whereheroesrest"
+		},
+		{
+			"dataid": [
+				81636
+			],
+			"filename": "thepathsofgloryleadbuttothegrave"
+		},
+		{
+			"dataid": [
+				84378
+			],
+			"filename": "whenthenewmoonreturns"
+		},
+		{
+			"dataid": [
+				81640
+			],
+			"filename": "wanderedlonelyasacloud"
+		},
+		{
+			"dataid": [
+				80466
+			],
+			"filename": "continentalexplorermoonlitislesii"
+		},
+		{
+			"dataid": [
+				80472
+			],
+			"filename": "jointmeetingpointconstructioncliffwatchcamp"
+		},
+		{
+			"dataid": [
+				80474
+			],
+			"filename": "jointmeetingpointconstructionfavoniuskeep"
+		},
+		{
+			"dataid": [
+				81628
+			],
+			"filename": "farewellhopewithhopefarewellfear"
+		},
+		{
+			"dataid": [
+				81638
+			],
+			"filename": "dontdropit"
+		},
+		{
+			"dataid": [
+				81642
+			],
+			"filename": "indarknessperishd"
+		},
+		{
+			"dataid": [
+				82305
+			],
+			"filename": "donotputagodtothetest"
+		},
+		{
+			"dataid": [
+				84374
+			],
+			"filename": "atraveleronawintersnight"
+		},
+		{
+			"dataid": [
+				84376
+			],
+			"filename": "thehereticsutopia"
+		},
+		{
+			"dataid": [
+				84380
+			],
+			"filename": "tothemoon"
+		}
+	],
+	"namecards": [
+		{
+			"dataid": 210272,
+			"filename": "travelnoteslanternlitode"
+		},
+		{
+			"dataid": 210270,
+			"filename": "achievementfarsighted"
+		},
+		{
+			"dataid": 210268,
+			"filename": "zibaiveiledvista"
+		},
+		{
+			"dataid": 210267,
+			"filename": "columbinasomeday"
+		},
+		{
+			"dataid": 210269,
+			"filename": "illuganightmaresongbird"
+		},
+		{
+			"dataid": 210271,
+			"filename": "nodkrailanternoflongestnight"
+		}
+	],
+	"emojis": [
+		{
+			"dataid": 46016,
+			"filename": "letsgo"
+		},
+		{
+			"dataid": 46014,
+			"filename": "takeaseat"
+		},
+		{
+			"dataid": 46012,
+			"filename": "showingoff"
+		},
+		{
+			"dataid": 46010,
+			"filename": "venting"
+		},
+		{
+			"dataid": 46008,
+			"filename": "shy-03"
+		},
+		{
+			"dataid": 46006,
+			"filename": "searching"
+		},
+		{
+			"dataid": 46004,
+			"filename": "goodnight-01"
+		},
+		{
+			"dataid": 46002,
+			"filename": "silent"
+		},
+		{
+			"dataid": 46001,
+			"filename": "recording-01"
+		},
+		{
+			"dataid": 46003,
+			"filename": "frightened-02"
+		},
+		{
+			"dataid": 46005,
+			"filename": "haha"
+		},
+		{
+			"dataid": 46007,
+			"filename": "speechless-02"
+		},
+		{
+			"dataid": 46009,
+			"filename": "goodbye"
+		},
+		{
+			"dataid": 46011,
+			"filename": "holdingback"
+		},
+		{
+			"dataid": 46013,
+			"filename": "noticed-01"
+		},
+		{
+			"dataid": 46015,
+			"filename": "impatient"
+		}
 	]
 }

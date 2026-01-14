@@ -1,0 +1,21 @@
+{
+	"id": [
+		84380
+	],
+	"name": "На луну",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 5155,
+	"stages": 1,
+	"stage1": {
+		"title": "На луну",
+		"description": "Достигните поверхности луны.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

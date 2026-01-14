@@ -1,0 +1,20 @@
+{
+	"id": [
+		80458
+	],
+	"name": "...ดั่งน้ำผึ้งจากผึ้ง",
+	"achievementGroupId": 65,
+	"achievementGroupName": "ขบวนพาเหรด แฟนซี - ชุดที่ 6",
+	"sortOrder": 419,
+	"stages": 1,
+	"stage1": {
+		"title": "...ดั่งน้ำผึ้งจากผึ้ง",
+		"description": "รวบรวม \"เสียงสะท้อนจากหอยสังข์\" ให้ครบเซ็ต",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		82305
+	],
+	"name": "Đừng Thăm Dò Thần Linh",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 2305,
+	"stages": 1,
+	"stage1": {
+		"title": "Đừng Thăm Dò Thần Linh",
+		"description": "Vi phạm quy tắc mà Dottore đặt ra.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

@@ -9,7 +9,7 @@
 	"stages": 1,
 	"stage1": {
 		"title": "Renart l'Ingannevole",
-		"description": "Raccogli la serie completa delle Fiabe di Fontaine.",
+		"description": "Raccogli la serie completa delle \"Fiabe di Fontaine\".",
 		"progress": 1,
 		"reward": {
 			"id": 201,

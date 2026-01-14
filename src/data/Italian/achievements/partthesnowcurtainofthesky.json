@@ -1,0 +1,20 @@
+{
+	"id": [
+		80459
+	],
+	"name": "Squarcia la cortina di neve del cielo",
+	"achievementGroupId": 65,
+	"achievementGroupName": "Fatiche mortali: Serie VI",
+	"sortOrder": 420,
+	"stages": 1,
+	"stage1": {
+		"title": "Squarcia la cortina di neve del cielo",
+		"description": "Raccogli la serie completa delle \"Storie del Vento del Nord\".",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

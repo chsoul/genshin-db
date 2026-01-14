@@ -1,0 +1,21 @@
+{
+	"id": [
+		84375
+	],
+	"name": "Yolcu ve Gölgesi",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 5150,
+	"stages": 1,
+	"stage1": {
+		"title": "Yolcu ve Gölgesi",
+		"description": "Belki de bu güç senin kaderinde vardır.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

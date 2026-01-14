@@ -1,0 +1,20 @@
+{
+	"id": [
+		81625
+	],
+	"name": "Sérénade de la nuit blanche sous la lune",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"sortOrder": 1619,
+	"stages": 1,
+	"stage1": {
+		"title": "Sérénade de la nuit blanche sous la lune",
+		"description": "Terminez « Chroniques séléniques (3) ».",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

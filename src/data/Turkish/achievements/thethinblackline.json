@@ -1,0 +1,21 @@
+{
+	"id": [
+		81639
+	],
+	"name": "Siyah İnce Çizgi",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1633,
+	"stages": 1,
+	"stage1": {
+		"title": "Siyah İnce Çizgi",
+		"description": "Hiçlik gücünün sızıntılarını arındır.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

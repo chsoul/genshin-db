@@ -1,0 +1,21 @@
+{
+	"id": [
+		81638
+	],
+	"name": "Главное - не уронить",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1632,
+	"stages": 1,
+	"stage1": {
+		"title": "Главное - не уронить",
+		"description": "Поглотите мандрагору и метните её с помощью куувяки.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}
